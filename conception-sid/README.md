@@ -2,7 +2,7 @@
 
 Ce répertoire contient les datasets utilisés pendant le cours de Conception SID à l'ORT de Montreuil.
 
-Pour chacun des datasets voici les questions auxquels je vous propose de réponse.
+Pour chacun des datasets voici les questions auxquels je vous propose de répondre.
 
 ### dataset-1 & dataset-2
 
