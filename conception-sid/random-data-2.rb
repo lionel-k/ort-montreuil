@@ -25,9 +25,6 @@ def hours
   end
 end
 
-# units
-# skus
-
 def genres
   1000.times do
     puts genre
@@ -48,5 +45,3 @@ values = ["25CB99", "87A4E4", "CC2B77", "AED206", "9C88F3", "ECC5CE", "77AA3D", 
 values.each do |value|
   puts "| #{value} | #{rand(20..50)} |"
 end
-
-# hours
