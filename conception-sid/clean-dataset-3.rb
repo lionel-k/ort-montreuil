@@ -59,7 +59,7 @@ def pm?(row)
   hour.to_i >= 12 && hour.to_i < 18
 end
 
-def between_17_and_21?(row)
+def between_17_and_21(row)
   hour, minute = row['hour'].split(':')
   hour.to_i >= 17 && hour.to_i < 21
 end
