@@ -41,6 +41,7 @@ Dès que vous avez déjà vendu un ingrédient à un hotel, vous disposez de la 
 leads.db est une base de données de potentiels hotels que vous pouvez contactez en vue de leur vendre des ingrédients que vous avez vendu à d'autres hotels.
 
 Voici le schéma de la base de donnée:
+
 ![Leads](leads-schema.png)
 
 #### Votre mission:
