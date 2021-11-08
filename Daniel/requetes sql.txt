@@ -1,0 +1,18 @@
+//Requete SQL pour sélectionner les ingredients ayant déjà une license
+SELECT distinct ingredients.ingredient_name 
+FROM contrat_ingredient
+INNER JOIN ingredients ON contrat_ingredient.`ingredient_name` = ingredients.`ingredient_name`
+INNER JOIN contrat ON contrat_ingredient.`contract_id` = contrat.`contract_id`
+INNER JOIN hotels ON contrat.hotel_name = hotels.hotel_name
+
+
+
+//Requete SQL pour sélectionner les hôtels à qui on n'a pas encore vendu d'ingrédients
+SELECT distinct hotels.hotel_name 
+FROM hotels WHERE hotels.hotel_name NOT IN(
+	SELECT distinct hotels.hotel_name 
+	FROM contrat_ingredient 
+	INNER JOIN ingredients ON contrat_ingredient.`ingredient_name` = ingredients.`ingredient_name` 
+	INNER JOIN contrat ON contrat_ingredient.`contract_id` = contrat.`contract_id` 
+	INNER JOIN hotels ON contrat.hotel_name = hotels.hotel_name
+)
