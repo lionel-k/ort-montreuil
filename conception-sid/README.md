@@ -58,7 +58,7 @@ You have been given the dataset-5 in sql, json and xml.
 
 Help the CEO answers these questions:
 
-1. What are the transportation modes used per country ?
+#### 1. What are the transportation modes used per country ?
 
 Expected outputs:
 
@@ -75,7 +75,7 @@ bicycle, 43434
 - a graphic displaying the results
 - the code used to generate the data
 
-2. How much people paid for hotel per country ?
+#### 2. How much people paid for hotel per country ?
 
 Expected outputs:
 
@@ -91,7 +91,7 @@ Bangladesh, 43324
 - a graphic displaying the results
 - the code used to generate the data
 
-3. What are the 10 hotels with the most revenues during the summer ? (By summer, consider that either the arrival and/or the departure are in July or August)
+#### 3. What are the 10 hotels with the most revenues during the summer ? (By summer, consider that either the arrival and/or the departure are in July or August)
 
 Expected outputs:
 
@@ -107,7 +107,7 @@ Nienow LLC, 555
 - a graphic displaying the results
 - the code used to generate the data
 
-4. Compare the mode of transports used by men and women in each country.
+#### 4. Compare the mode of transports used by men and women in each country.
 
 Expected outputs:
 
