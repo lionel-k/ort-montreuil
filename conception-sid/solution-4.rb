@@ -3,7 +3,7 @@ require 'pry'
 
 table = CSV.parse(File.read("dataset-all-4.csv"), headers: true)
 
-contract_ingredients = []
+contract_ingredients = [['contract_id', 'hotel_name','ingredient_name']]
 sold_hotels_ingredients = []
 ingredients_with_licence = []
 
