@@ -49,3 +49,76 @@ Voici le schéma de la base de donnée:
 L'équipe Commercial a besoin de savoir quels sont les hotels à contacter pour leur vendre les ingrédients dont l'entreprise dispose une licence.
 
 ### dataset-5
+
+You are Business Analyst for a tourism agency.
+
+You have been given the dataset-5 in sql, json and xml.
+
+#### Your mission
+
+Help the CEO answers these questions:
+
+1. What are the transportation modes used per country ?
+
+Expected outputs:
+
+- a csv file per country.
+  e.g transportation-modes-egypt.csv
+
+```csv
+transportation_mode, count
+car, 12343
+bicycle, 43434
+
+```
+
+- a graphic displaying the results
+- the code used to generate the data
+
+2. How much people paid for hotel per country ?
+
+Expected outputs:
+
+- a csv file with the data. Give the data starting with the country with the most revenue.
+  e.g countries-revenues.csv
+
+```csv
+country, hotel_revenue
+Egypt, 43545
+Bangladesh, 43324
+```
+
+- a graphic displaying the results
+- the code used to generate the data
+
+3. What are the 10 hotels with the most revenues during the summer ? (By summer, consider that either the arrival and/or the departure are in July or August)
+
+Expected outputs:
+
+- a csv file with the data. Give the data starting with the hotel with the most revenue.
+  e.g hotels-revenues.csv
+
+```csv
+hotel, revenue
+Feil LLC, 999
+Nienow LLC, 555
+```
+
+- a graphic displaying the results
+- the code used to generate the data
+
+4. Compare the mode of transports used by men and women in each country.
+
+Expected outputs:
+
+- a csv file per country
+  e.g transportation-modes-genre-egypt.csv
+
+```csv
+genre, transportation_mode,count
+M,car,132
+F,airplane,243
+```
+
+- a graphic displaying the results
+- the code used to generate the data
