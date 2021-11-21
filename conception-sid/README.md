@@ -47,3 +47,17 @@ Voici le schéma de la base de donnée:
 #### Votre mission:
 
 L'équipe Commercial a besoin de savoir quels sont les hotels à contacter pour leur vendre les ingrédients dont l'entreprise dispose une licence.
+
+
+
+Explication :
+
+la liste des hotels avec chaque ingredients ( proposes par l'entreprise ) est dans le fichiers result.csv
+Pour lancer le scrip .php , il suffit de lancer la page data4.php
+
+La page data4.php et sql-result.csv nous permettent de recuperer l'ensemble des donnes, de les fusionner et d'avoir la liste des entreprises par ingredients certifies. 
+
+Le resultat de la requete qui me permet d'avoir des hotels par ingredients de la bdd leads est dans le fichiers sql-result.csv
+
+( a l'aide d'une requete sql : select distinct.... inner join .... GROUP BY ....)
+
