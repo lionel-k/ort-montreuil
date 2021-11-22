@@ -32,7 +32,7 @@ end
 
 actual_leads.sort_by! { |hotel_name, ingredient_name| [hotel_name, ingredient_name]  }
 actual_leads.unshift(['hotel_name', 'ingredient_name'])
-File.write("actual_leads.csv", actual_leads.map(&:to_csv).join)
+File.write("result.csv", actual_leads.map(&:to_csv).join)
 
 # select count (*) from (
 # SELECT distinct hotel_name, ingredient_name from hotels
