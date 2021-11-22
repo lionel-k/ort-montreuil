@@ -83,4 +83,11 @@ separators = [' | ',' - ',' ; ']
   dataset_5 << [arrival_date.strftime("%m-%d-%Y"), departure_date.strftime("%d-%b-%Y"), location, transportation_modes, genre, hotel]
 end
 
-File.write("dataset-5.csv", dataset_5.map(&:to_csv).join)
+# File.write("dataset-5.csv", dataset_5.map(&:to_csv).join)
+
+hotels_prices = hotels.map do |hotel|
+  [hotel, rand(200..500)]
+end
+
+hotels_prices.unshift(['hotel', 'price_per_night'])
+File.write("dataset-5-hotel-prices.csv", hotels_prices.map(&:to_csv).join)
