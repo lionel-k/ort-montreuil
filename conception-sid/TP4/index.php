@@ -55,7 +55,7 @@ foreach ($sheetData as $key => $contrat) {
 
 
 //Read the JSON File
-/*
+
 $jsonFile = file_get_contents('dataset-4-json.json');
 $jsonData = json_decode($jsonFile);
 
@@ -156,4 +156,3 @@ if ($conn->query($select) !== false) {
 } else {
     throw new Exception("Error Select", 1);
 }
-*/
