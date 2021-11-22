@@ -34,13 +34,11 @@ actual_leads.sort_by! { |hotel_name, ingredient_name| [hotel_name, ingredient_na
 actual_leads.unshift(['hotel_name', 'ingredient_name'])
 File.write("result.csv", actual_leads.map(&:to_csv).join)
 
-# select count (*) from (
 # SELECT distinct hotel_name, ingredient_name from hotels
 # INNER JOIN dishes on hotels.hotel_code = dishes.hotel_code
 # INNER JOIN ingredients on ingredients.dish_code = dishes.dish_code
 # where ingredient_name in (select distinct ingredient_name from contract_ingredients)
 # and (hotel_name, ingredient_name) not in (select hotel_name, ingredient_name from contract_ingredients)
-# order by hotel_name, ingredient_name);
 # 1574 leads
 
 
