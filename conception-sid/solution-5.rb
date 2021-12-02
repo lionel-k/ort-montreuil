@@ -34,7 +34,7 @@ def transportation_modes_per_country(rows)
   end
 end
 
-# transportation_modes_per_country(rows)
+transportation_modes_per_country(rows)
 
 # 2. How much people paid for hotel per country ?
 def countries_revenues(rows)
