@@ -1,0 +1,1000 @@
+arrival_date,departure_date,location,transportation_modes,genre,hotel
+01-05-1972,11-Jan-1972,"Alexandria - Egypt","ferry ; subway ; bicycle ; car ; caravan",Fem,"Funk, Morar and Rodriguez"
+11-03-2003,09-Nov-2003,"Lagos ; Nigeria","horse ; bicycle ; taxi ; motorcycle ; train",M,Wolff-Cartwright
+12-29-1982,08-Jan-1983,"Durban - South Africa","train - tram - ferry - caravan - boat - bus - horse - airplane",Masc,Kerluke-Armstrong
+08-09-2004,18-Aug-2004,"Lagos | Nigeria","tram - walk - subway - ferry - motorcycle",M,"Kulas LLC"
+06-18-2007,27-Jun-2007,"Hanoi - Vietnam","airplane ; bicycle ; walk ; motorcycle ; caravan ; boat ; subway",M,Schmeler-Renner
+07-16-2000,21-Jul-2000,"Mumbai | India","motorcycle | horse | car | walk | boat",masc,"Dare, Hoppe and Moore"
+09-12-2012,16-Sep-2012,"Dhaka ; Bangladesh","bicycle ; taxi ; tram ; train ; subway ; horse",Masc,Blick-Bartell
+10-13-1972,21-Oct-1972,"Pune ; India","ferry - caravan - airplane - tram - walk - taxi",Masc,"Hintz Group"
+08-13-1983,22-Aug-1983,"Addis Ababa - Ethiopia","bus | train | boat | caravan | car | tram",Female,Blick-Bartell
+07-17-2013,21-Jul-2013,"Lahore | Pakistan","taxi | boat | caravan | ferry",F,Feest-Bode
+03-28-1992,05-Apr-1992,"Rio de Janeiro ; Brazil","train | airplane | bus | horse | ferry | subway",Masc,"Hodkiewicz, Luettgen and Stoltenberg"
+03-30-1989,05-Apr-1989,"Casablanca | Morocco","caravan ; bus ; horse ; boat",Fem,Wolff-Cartwright
+12-01-2011,10-Dec-2011,"Rio de Janeiro ; Brazil","motorcycle | taxi | caravan | train",M,"Murray LLC"
+05-29-1971,05-Jun-1971,"Johannesburg | South Africa","airplane | motorcycle | taxi | tram | bus | subway",fem,"Schinner, Sauer and Powlowski"
+07-01-2017,08-Jul-2017,"Pune - India","car - caravan - subway - taxi - walk - bicycle",Masc,"Leannon, Cassin and Trantow"
+02-16-2009,20-Feb-2009,"Mumbai | India","motorcycle | bus | horse | subway | car | ferry",fem,"Murray LLC"
+03-09-1989,18-Mar-1989,"Mumbai ; India","bus ; taxi ; bicycle ; motorcycle ; caravan ; boat ; airplane",Masc,"Hayes, Bins and Considine"
+05-22-1991,30-May-1991,"London - United Kingdom","ferry - tram - horse - airplane - subway",Masc,White-Stroman
+06-23-1973,30-Jun-1973,"Pune ; India","boat - airplane - horse - subway - walk - motorcycle",Masc,White-Stroman
+07-28-1987,06-Aug-1987,"Yangon - Myanmar","subway - caravan - horse - boat - ferry - tram - taxi",M,"Nienow LLC"
+01-22-1994,31-Jan-1994,"Lahore - Pakistan","boat ; subway ; tram ; bicycle ; train ; walk ; horse ; taxi",Fem,"Schaden LLC"
+04-24-1994,02-May-1994,"Lagos - Nigeria","boat - car - airplane - horse",F,"Koelpin, Hoppe and Corwin"
+12-31-1976,09-Jan-1977,"Lagos - Nigeria","subway | caravan | airplane | walk | horse | bus",Masc,"Bahringer LLC"
+11-23-1984,29-Nov-1984,"Mumbai | India","motorcycle | walk | taxi | bicycle | subway | bus",Male,"Dare, Hoppe and Moore"
+07-08-2006,18-Jul-2006,"Beijing ; China","bicycle | bus | subway | boat | horse | motorcycle | tram",Masc,"Fritsch, Hegmann and Mueller"
+09-19-1999,23-Sep-1999,"Rio de Janeiro ; Brazil","bicycle | car | caravan | boat | airplane",fem,"Heaney - Robel and Witting"
+09-17-2019,25-Sep-2019,"Durban ; South Africa","car | bicycle | bus | boat | horse",M,"Koelpin, Hoppe and Corwin"
+05-15-2017,25-May-2017,"Mumbai - India","ferry ; motorcycle ; bicycle ; train",Fem,"Lubowitz, Prohaska and Reilly"
+03-20-1978,30-Mar-1978,"Hanoi - Vietnam","motorcycle - bus - bicycle - walk - subway - horse - train - tram",Masc,"Feil LLC"
+12-02-1971,10-Dec-1971,"Mexico City | Mexico","horse | bus | boat | subway | walk | taxi | ferry | caravan",fem,"Botsford Inc"
+06-23-1982,28-Jun-1982,"Hanoi - Vietnam","caravan | walk | motorcycle | bus | car | subway | taxi | horse",F,"Altenwerth and Sons"
+08-26-2018,01-Sep-2018,"Abidjan ; Ivory Coast","ferry ; train ; caravan ; tram ; boat ; car ; subway",Male,"Schaden LLC"
+11-03-1990,10-Nov-1990,"Yangon - Myanmar","boat - caravan - taxi - motorcycle - walk - subway - airplane",masc,Cruickshank-Franecki
+10-07-1997,13-Oct-1997,"Yangon | Myanmar","walk - train - car - taxi",Male,Rogahn-Crist
+10-24-2012,02-Nov-2012,"Mumbai - India","walk ; ferry ; caravan ; airplane ; motorcycle ; boat ; subway ; taxi",M,Feest-Bode
+07-31-2009,07-Aug-2009,"Delhi | India","car | motorcycle | train | subway | bicycle | boat | tram | ferry",Female,"Altenwerth and Sons"
+10-02-2007,07-Oct-2007,"London ; United Kingdom","airplane | subway | walk | car | bicycle | tram | horse | bus",fem,Wolff-Cartwright
+06-08-1985,15-Jun-1985,"Mumbai ; India","train ; subway ; bus ; bicycle ; tram ; car ; taxi",Fem,"Botsford Inc"
+02-15-2009,24-Feb-2009,"London | United Kingdom","caravan - bus - ferry - bicycle - motorcycle",F,"Schaden LLC"
+11-10-2013,20-Nov-2013,"Beijing ; China","horse | caravan | bicycle | ferry | train | car",M,"Murray LLC"
+08-16-1998,24-Aug-1998,"Dhaka | Bangladesh","motorcycle ; tram ; horse ; airplane ; bicycle ; ferry ; train ; car",M,"Heaney - Robel and Witting"
+09-30-1989,06-Oct-1989,"Mexico City ; Mexico","bicycle ; boat ; taxi ; bus ; tram ; car ; train ; motorcycle",masc,"Nienow LLC"
+03-23-1997,31-Mar-1997,"Hanoi | Vietnam","ferry | taxi | subway | car | train | tram | horse | airplane",Masc,"Botsford Inc"
+09-13-2003,22-Sep-2003,"Casablanca ; Morocco","ferry | caravan | subway | bicycle | train | taxi",Male,White-Stroman
+03-17-2018,21-Mar-2018,"London ; United Kingdom","subway - caravan - car - taxi - motorcycle - horse",Fem,Langosh-Franecki
+10-28-2008,07-Nov-2008,"Rio de Janeiro ; Brazil","train ; walk ; car ; bicycle ; tram ; caravan",M,"Bahringer LLC"
+11-28-1973,03-Dec-1973,"Yangon - Myanmar","horse - motorcycle - boat - bus",Masc,"Koelpin, Hoppe and Corwin"
+07-14-2018,18-Jul-2018,"Lahore - Pakistan","motorcycle ; ferry ; train ; bus ; car ; taxi ; subway",Male,"Murray LLC"
+06-26-1974,30-Jun-1974,"Dhaka - Bangladesh","ferry - train - car - boat - tram - bus - motorcycle",M,"Fritsch, Hegmann and Mueller"
+10-09-1981,16-Oct-1981,"Addis Ababa | Ethiopia","car - bicycle - train - ferry",masc,Langosh-Franecki
+07-08-1997,15-Jul-1997,"Yangon | Myanmar","subway | boat | motorcycle | airplane",Male,"Funk, Morar and Rodriguez"
+12-10-1990,14-Dec-1990,"Delhi ; India","car | horse | walk | bicycle",Female,"Bahringer LLC"
+02-28-2005,06-Mar-2005,"Hanoi | Vietnam","walk | ferry | bicycle | caravan | bus | boat | taxi | train",F,"Dare, Hoppe and Moore"
+02-25-2019,03-Mar-2019,"Lagos | Nigeria","caravan ; train ; ferry ; motorcycle ; airplane ; bicycle ; taxi ; boat",masc,"Sporer Group"
+03-21-2019,26-Mar-2019,"Casablanca - Morocco","car - boat - bicycle - caravan - train",Fem,"Murray LLC"
+07-24-2020,03-Aug-2020,"Chennai - India","tram ; taxi ; motorcycle ; bus",fem,"Lubowitz, Prohaska and Reilly"
+06-03-1972,11-Jun-1972,"Lagos | Nigeria","boat | bicycle | subway | airplane | taxi | caravan",M,"Medhurst, Streich and Schamberger"
+12-10-2010,14-Dec-2010,"Yangon | Myanmar","taxi | walk | horse | ferry | train | motorcycle | boat | tram",Masc,"Fritsch, Hegmann and Mueller"
+02-24-1997,04-Mar-1997,"Rio de Janeiro | Brazil","train ; boat ; subway ; horse ; car ; ferry ; bicycle",masc,Kerluke-Armstrong
+08-20-1995,25-Aug-1995,"Chennai | India","tram - bicycle - train - subway - horse - motorcycle - airplane - bus",masc,"Cremin Inc"
+03-12-2006,22-Mar-2006,"Lahore ; Pakistan","subway | ferry | airplane | train | bicycle | taxi | walk",Male,White-Stroman
+01-30-1974,05-Feb-1974,"Abidjan - Ivory Coast","ferry | airplane | train | boat | caravan | walk | car",fem,"Dare, Hoppe and Moore"
+03-22-1979,26-Mar-1979,"Lagos ; Nigeria","bus | caravan | car | airplane | ferry | subway",Masc,"Altenwerth and Sons"
+01-20-2019,26-Jan-2019,"Beijing | China","motorcycle | boat | subway | ferry | tram",Male,"Leannon, Cassin and Trantow"
+07-12-2000,19-Jul-2000,"Durban ; South Africa","boat - train - bus - motorcycle - walk - taxi - tram",Fem,Quigley-Braun
+06-04-2010,10-Jun-2010,"London | United Kingdom","tram ; bus ; boat ; taxi ; ferry ; motorcycle ; subway",masc,"Altenwerth and Sons"
+06-03-1974,09-Jun-1974,"Johannesburg | South Africa","car - airplane - taxi - subway",Female,"Ledner LLC"
+05-11-1981,16-May-1981,"Ankara - Turkey","train ; subway ; motorcycle ; taxi ; bus ; walk",Masc,"Sporer Group"
+04-01-2019,07-Apr-2019,"Johannesburg | South Africa","motorcycle ; bicycle ; caravan ; bus ; car ; train ; horse",Female,"Cole Group"
+05-04-1993,11-May-1993,"Johannesburg | South Africa","caravan ; bicycle ; boat ; taxi ; airplane",masc,"Funk, Morar and Rodriguez"
+12-21-1993,27-Dec-1993,"Lagos ; Nigeria","car | horse | caravan | motorcycle | ferry | tram | taxi",Fem,Blick-Bartell
+05-07-2021,16-May-2021,"Dhaka - Bangladesh","bus ; ferry ; taxi ; tram ; motorcycle ; horse",fem,"Hayes, Bins and Considine"
+05-27-2015,03-Jun-2015,"London - United Kingdom","taxi | bicycle | car | caravan",Female,Grant-Hand
+04-18-1997,25-Apr-1997,"Mexico City ; Mexico","caravan - bicycle - tram - motorcycle - boat - walk - car - horse",Male,Champlin-Kemmer
+02-25-2016,02-Mar-2016,"Durban - South Africa","boat ; motorcycle ; subway ; bus ; ferry ; tram",Female,Champlin-Kemmer
+11-08-2012,16-Nov-2012,"London ; United Kingdom","caravan | bus | airplane | taxi | tram | horse | ferry",Fem,"Hodkiewicz, Luettgen and Stoltenberg"
+06-28-2001,05-Jul-2001,"Dhaka - Bangladesh","bus - taxi - tram - horse - boat",M,"Botsford Inc"
+12-13-1986,17-Dec-1986,"Johannesburg - South Africa","motorcycle ; taxi ; airplane ; horse ; bus ; walk ; car",Male,"Botsford Inc"
+10-27-2004,31-Oct-2004,"Chennai | India","bus - horse - motorcycle - walk - car - train",Masc,"Medhurst, Streich and Schamberger"
+11-02-1984,06-Nov-1984,"Yangon | Myanmar","bus ; horse ; walk ; motorcycle ; tram ; caravan ; boat",masc,"Fritsch, Hegmann and Mueller"
+03-29-1984,08-Apr-1984,"Beijing - China","bicycle | caravan | bus | motorcycle | walk | car | tram",Fem,"Hodkiewicz, Luettgen and Stoltenberg"
+07-20-1974,25-Jul-1974,"Chennai | India","airplane | bicycle | subway | boat | horse",F,"Rempel and Sons"
+11-18-1984,26-Nov-1984,"Addis Ababa | Ethiopia","tram | ferry | motorcycle | car | bicycle | bus | caravan | horse",Female,Kerluke-Armstrong
+10-23-2005,29-Oct-2005,"Johannesburg ; South Africa","bus | horse | subway | motorcycle | taxi",fem,"Leannon, Cassin and Trantow"
+10-01-2012,10-Oct-2012,"Addis Ababa - Ethiopia","tram ; bicycle ; horse ; subway ; boat ; ferry ; train ; taxi",fem,"Fritsch, Hegmann and Mueller"
+11-12-1974,22-Nov-1974,"Beijing ; China","ferry - bus - motorcycle - horse - boat - tram - bicycle",M,"Dare, Hoppe and Moore"
+08-20-1989,25-Aug-1989,"Mumbai ; India","car | motorcycle | ferry | airplane | subway",F,"Koelpin, Hoppe and Corwin"
+08-25-2004,04-Sep-2004,"Johannesburg - South Africa","boat ; taxi ; bicycle ; bus ; horse",Masc,"Rempel and Sons"
+01-29-2004,07-Feb-2004,"Lahore ; Pakistan","car ; boat ; subway ; ferry ; airplane",M,White-Stroman
+08-09-2017,15-Aug-2017,"Mumbai - India","ferry - motorcycle - subway - horse - bus",Fem,"Kulas LLC"
+03-14-1986,21-Mar-1986,"Mumbai ; India","car - horse - bus - airplane - caravan - boat - taxi",masc,Wolff-Cartwright
+01-20-1981,24-Jan-1981,"Lahore ; Pakistan","boat | bus | airplane | ferry | walk",M,"Dare, Hoppe and Moore"
+03-16-1984,20-Mar-1984,"Chennai - India","ferry ; car ; taxi ; train ; horse ; caravan ; motorcycle ; bicycle",masc,Kerluke-Armstrong
+04-05-1970,11-Apr-1970,"Pune | India","bicycle | tram | caravan | taxi",Masc,"Schaden LLC"
+11-20-1986,30-Nov-1986,"Alexandria | Egypt","motorcycle ; boat ; subway ; caravan ; bicycle ; ferry ; bus ; airplane",Masc,Langosh-Franecki
+01-02-2016,10-Jan-2016,"Johannesburg | South Africa","car | caravan | bicycle | walk | horse | bus",Fem,"Koelpin, Hoppe and Corwin"
+10-06-1996,14-Oct-1996,"Beijing ; China","horse | ferry | caravan | motorcycle | train",F,"Botsford Inc"
+06-27-1970,05-Jul-1970,"Abidjan ; Ivory Coast","caravan | horse | motorcycle | boat | subway",F,"Funk, Morar and Rodriguez"
+04-14-1990,19-Apr-1990,"Lagos | Nigeria","car - taxi - motorcycle - airplane - train",masc,"Koelpin, Hoppe and Corwin"
+03-08-1981,12-Mar-1981,"Bangkok ; Thailand","tram | airplane | motorcycle | bus",fem,Cruickshank-Franecki
+02-22-1970,26-Feb-1970,"Pune ; India","taxi | walk | motorcycle | boat | ferry",fem,"Funk, Morar and Rodriguez"
+12-02-2003,08-Dec-2003,"Beijing - China","tram ; walk ; bus ; subway ; car ; taxi",M,"Nienow LLC"
+05-26-2019,05-Jun-2019,"London | United Kingdom","taxi - ferry - walk - car - bicycle - horse - subway - tram",Masc,"Nienow LLC"
+10-16-2000,23-Oct-2000,"Delhi | India","car ; taxi ; bicycle ; subway ; train ; airplane ; walk ; caravan",M,Kerluke-Armstrong
+02-10-2017,14-Feb-2017,"Beijing | China","walk - ferry - bus - subway - horse - train",Male,"Heaney - Robel and Witting"
+04-27-2015,02-May-2015,"Alexandria | Egypt","boat ; car ; motorcycle ; subway",masc,"Goldner LLC"
+04-23-1973,29-Apr-1973,"Bangkok - Thailand","taxi ; ferry ; tram ; bicycle",Female,"Hodkiewicz, Luettgen and Stoltenberg"
+12-15-1988,20-Dec-1988,"Mexico City ; Mexico","motorcycle ; taxi ; subway ; ferry ; bus ; horse ; airplane ; caravan",M,"Kassulke, Rath and Upton"
+08-06-1971,14-Aug-1971,"Chennai - India","boat ; taxi ; airplane ; ferry ; motorcycle ; train",Fem,"Heaney Inc"
+03-13-1984,23-Mar-1984,"Mexico City ; Mexico","caravan ; walk ; subway ; ferry ; motorcycle ; boat ; train ; taxi",Fem,"Hayes, Bins and Considine"
+01-16-2013,24-Jan-2013,"Beijing | China","walk - horse - boat - car",Female,"Schinner, Sauer and Powlowski"
+05-10-1999,14-May-1999,"Mexico City - Mexico","bus - ferry - taxi - tram",F,"Kulas LLC"
+12-22-1979,30-Dec-1979,"Lagos | Nigeria","car | ferry | airplane | boat | train | subway",Female,"Heaney - Robel and Witting"
+06-12-2016,22-Jun-2016,"Hanoi | Vietnam","horse | taxi | bus | ferry | airplane | subway",F,"Lubowitz, Prohaska and Reilly"
+08-08-2014,17-Aug-2014,"Ankara - Turkey","train ; boat ; bicycle ; bus",Female,Feest-Bode
+09-02-1994,07-Sep-1994,"Dhaka | Bangladesh","tram | boat | car | walk",M,"Lubowitz, Prohaska and Reilly"
+06-03-1978,10-Jun-1978,"Lahore ; Pakistan","caravan | walk | bicycle | bus | airplane | taxi | train | car",Fem,"Leannon, Cassin and Trantow"
+12-16-1970,25-Dec-1970,"Alexandria | Egypt","bus | boat | car | tram | ferry",Female,"Bahringer LLC"
+06-01-2017,09-Jun-2017,"Beijing ; China","caravan - motorcycle - bus - car - ferry - tram - train",M,"Altenwerth and Sons"
+07-10-1976,20-Jul-1976,"Addis Ababa ; Ethiopia","taxi - bus - subway - tram - boat - bicycle",Masc,"Feil LLC"
+09-05-2000,14-Sep-2000,"Casablanca | Morocco","car ; train ; walk ; airplane",Male,Quigley-Braun
+02-13-1995,20-Feb-1995,"Durban ; South Africa","bicycle - bus - motorcycle - car",Female,Wolff-Cartwright
+03-19-1976,28-Mar-1976,"Addis Ababa | Ethiopia","boat | horse | car | tram | taxi",Male,"Sporer Group"
+05-31-1988,10-Jun-1988,"London - United Kingdom","boat ; airplane ; tram ; horse",M,"Nienow LLC"
+10-03-2010,12-Oct-2010,"Rio de Janeiro - Brazil","horse ; caravan ; airplane ; bicycle",Female,Wolff-Cartwright
+02-07-2002,11-Feb-2002,"Durban | South Africa","walk | tram | car | bus | caravan | train | airplane | bicycle",F,Wolff-Cartwright
+10-07-1994,14-Oct-1994,"Addis Ababa - Ethiopia","caravan - taxi - tram - horse",F,Blick-Bartell
+11-26-1990,05-Dec-1990,"Alexandria - Egypt","boat ; caravan ; taxi ; horse ; bus",masc,"Heaney Inc"
+10-12-1991,18-Oct-1991,"Beijing ; China","subway ; ferry ; bus ; taxi ; horse ; walk",M,Langosh-Franecki
+08-13-2014,21-Aug-2014,"Dhaka ; Bangladesh","bus ; car ; bicycle ; motorcycle ; boat ; airplane",F,"Cole Group"
+02-09-2003,15-Feb-2003,"Beijing - China","tram | walk | airplane | caravan | bus | ferry | bicycle",M,"Heaney - Robel and Witting"
+02-18-1985,22-Feb-1985,"Delhi - India","train - caravan - tram - horse - motorcycle - ferry - boat - bus",M,Blick-Bartell
+02-09-1997,16-Feb-1997,"Johannesburg ; South Africa","motorcycle | airplane | bicycle | horse | train | car | subway",M,"Nienow LLC"
+02-01-1993,07-Feb-1993,"Delhi ; India","horse | motorcycle | bicycle | tram | caravan | car | bus | subway",Fem,Cruickshank-Franecki
+06-04-1987,13-Jun-1987,"Lahore ; Pakistan","airplane | subway | train | bicycle",masc,Blick-Bartell
+01-04-2005,14-Jan-2005,"Lagos - Nigeria","boat | subway | caravan | train | ferry",masc,Rogahn-Crist
+03-14-1991,22-Mar-1991,"Lagos - Nigeria","caravan ; bus ; boat ; subway ; car ; taxi ; motorcycle",masc,"Heaney Inc"
+10-19-1975,28-Oct-1975,"Pune ; India","tram - subway - bus - bicycle - train - motorcycle",masc,"Dare, Hoppe and Moore"
+06-10-1975,17-Jun-1975,"Yangon - Myanmar","boat | walk | car | bus | airplane | train",Masc,"Koelpin, Hoppe and Corwin"
+04-09-2013,15-Apr-2013,"Dhaka - Bangladesh","car | motorcycle | ferry | subway | airplane",Fem,"Heaney Inc"
+05-04-1985,10-May-1985,"Dhaka ; Bangladesh","airplane ; taxi ; subway ; bicycle",Female,"Bahringer LLC"
+08-05-2005,13-Aug-2005,"Hanoi ; Vietnam","ferry ; motorcycle ; airplane ; tram ; caravan ; bicycle ; taxi ; walk",Masc,"Kulas LLC"
+09-20-2006,30-Sep-2006,"Rio de Janeiro ; Brazil","tram - car - caravan - airplane - ferry - subway",F,"Leannon, Cassin and Trantow"
+08-22-1998,31-Aug-1998,"Chennai | India","bicycle ; walk ; ferry ; train ; airplane ; taxi",M,"Leannon, Cassin and Trantow"
+12-05-1980,09-Dec-1980,"London ; United Kingdom","bicycle ; bus ; walk ; horse ; car ; caravan ; subway",Fem,"Kassulke, Rath and Upton"
+07-28-2000,04-Aug-2000,"Hanoi - Vietnam","bicycle ; horse ; airplane ; subway ; train ; tram ; taxi",masc,"Kassulke, Rath and Upton"
+02-18-1979,23-Feb-1979,"Ankara ; Turkey","horse | boat | train | motorcycle | airplane | bus | bicycle | tram",F,Quigley-Braun
+06-12-1986,18-Jun-1986,"Lahore | Pakistan","bicycle ; tram ; airplane ; caravan",fem,Langosh-Franecki
+12-31-1986,10-Jan-1987,"Mexico City - Mexico","tram - train - ferry - motorcycle - walk",F,"Goldner LLC"
+09-29-2003,07-Oct-2003,"Ankara - Turkey","taxi | caravan | ferry | car | walk | bicycle | tram | motorcycle",F,Schmeler-Renner
+12-01-1982,06-Dec-1982,"Alexandria ; Egypt","train | taxi | bus | car | subway | caravan | motorcycle | tram",Fem,Quigley-Braun
+03-27-2009,03-Apr-2009,"Chennai ; India","walk | train | bus | airplane | taxi | bicycle | boat | ferry",F,"Medhurst, Streich and Schamberger"
+05-12-1987,17-May-1987,"Pune | India","tram | walk | airplane | bicycle",fem,"Bahringer LLC"
+10-07-1971,11-Oct-1971,"London ; United Kingdom","bicycle - airplane - bus - motorcycle",Fem,"Dare, Hoppe and Moore"
+03-26-2011,31-Mar-2011,"Addis Ababa | Ethiopia","subway - tram - bicycle - caravan",fem,Kerluke-Armstrong
+09-08-1995,14-Sep-1995,"Bangkok - Thailand","tram - train - horse - bus",Female,"Lubowitz, Prohaska and Reilly"
+06-24-2021,30-Jun-2021,"Alexandria ; Egypt","walk | subway | train | motorcycle | bicycle | bus",F,"Cole Group"
+05-29-2014,02-Jun-2014,"Yangon ; Myanmar","ferry | caravan | horse | airplane",Male,"Rempel and Sons"
+10-22-1988,26-Oct-1988,"Beijing - China","ferry - horse - subway - tram - walk",F,Champlin-Kemmer
+07-15-1987,25-Jul-1987,"Lagos - Nigeria","train - bicycle - horse - taxi - walk - car - subway - motorcycle",masc,"Goldner LLC"
+11-30-1971,07-Dec-1971,"Ankara | Turkey","bicycle - caravan - car - motorcycle - walk - train - taxi",Male,"Leannon, Cassin and Trantow"
+11-01-1987,05-Nov-1987,"Mumbai | India","caravan - subway - car - taxi - bus - walk - ferry",Male,Cruickshank-Franecki
+02-24-1997,05-Mar-1997,"Delhi - India","taxi - subway - horse - tram - train - bus",Male,"Funk, Morar and Rodriguez"
+05-28-1988,06-Jun-1988,"Abidjan - Ivory Coast","bicycle ; tram ; airplane ; boat",masc,"Koelpin, Hoppe and Corwin"
+03-20-2009,25-Mar-2009,"Durban ; South Africa","taxi | bus | tram | train",Male,Langosh-Franecki
+01-19-2017,23-Jan-2017,"Abidjan - Ivory Coast","caravan | tram | bicycle | motorcycle | ferry | car | walk | boat",M,"Ledner LLC"
+08-29-1989,07-Sep-1989,"Chennai ; India","tram - bus - car - airplane - caravan",masc,"Kulas LLC"
+06-26-1998,06-Jul-1998,"Yangon ; Myanmar","airplane - taxi - bus - subway - horse - car - ferry - boat",Female,"Goldner LLC"
+08-15-1984,19-Aug-1984,"Chennai ; India","taxi | airplane | motorcycle | bicycle | train | tram | caravan | car",Masc,White-Stroman
+05-17-1970,23-May-1970,"Pune ; India","bicycle | ferry | train | tram | airplane | horse",M,Kerluke-Armstrong
+01-25-1983,04-Feb-1983,"Chennai ; India","airplane | bicycle | bus | caravan",M,"Lubowitz, Prohaska and Reilly"
+11-28-2014,07-Dec-2014,"Ankara - Turkey","tram ; motorcycle ; bus ; taxi ; ferry ; airplane ; train",F,"Funk, Morar and Rodriguez"
+01-15-1983,21-Jan-1983,"Mumbai | India","tram | train | subway | boat | bus | car | bicycle",Female,"Lubowitz, Prohaska and Reilly"
+07-27-1980,03-Aug-1980,"Rio de Janeiro ; Brazil","taxi ; airplane ; subway ; train ; bus ; car ; horse ; walk",M,Champlin-Kemmer
+08-28-1980,02-Sep-1980,"Hanoi - Vietnam","subway - walk - boat - airplane - horse",F,"Lubowitz, Prohaska and Reilly"
+10-09-1994,16-Oct-1994,"Hanoi - Vietnam","ferry ; tram ; horse ; subway ; train ; car",F,"Koelpin, Hoppe and Corwin"
+04-23-2020,27-Apr-2020,"Bangkok - Thailand","horse | car | subway | ferry | walk | motorcycle | airplane",Masc,"Hintz Group"
+10-26-1984,01-Nov-1984,"Johannesburg - South Africa","caravan ; car ; subway ; train",Masc,Champlin-Kemmer
+06-08-1984,17-Jun-1984,"Abidjan | Ivory Coast","airplane - subway - tram - boat - walk - bus - ferry - motorcycle",Female,Schmeler-Renner
+04-25-2011,30-Apr-2011,"Pune | India","tram | walk | horse | boat | airplane | bus",fem,"Cole Group"
+06-07-2016,16-Jun-2016,"Casablanca | Morocco","train | motorcycle | tram | taxi | car",Fem,"Kulas LLC"
+05-01-2019,08-May-2019,"Lagos ; Nigeria","tram - horse - motorcycle - boat - car - taxi",masc,"Goldner LLC"
+09-28-1999,04-Oct-1999,"Rio de Janeiro | Brazil","tram | car | walk | subway | taxi | motorcycle",Fem,Cruickshank-Franecki
+08-28-2001,06-Sep-2001,"Mumbai ; India","ferry ; boat ; horse ; airplane ; car ; bus",M,"Schinner, Sauer and Powlowski"
+09-04-1989,10-Sep-1989,"Hanoi - Vietnam","caravan - horse - car - boat - taxi - motorcycle - bicycle - bus",Male,"Schinner, Sauer and Powlowski"
+09-02-1977,09-Sep-1977,"Dhaka ; Bangladesh","taxi - airplane - bicycle - walk - subway - motorcycle - tram",masc,"Nienow LLC"
+05-04-1992,10-May-1992,"Mexico City | Mexico","train | walk | ferry | airplane",fem,"Ledner LLC"
+04-26-2013,04-May-2013,"Durban | South Africa","ferry ; boat ; taxi ; airplane ; bicycle ; tram",M,"Nienow LLC"
+01-13-2009,21-Jan-2009,"Mumbai | India","walk | motorcycle | caravan | taxi | boat | airplane | train | tram",Fem,"Heaney - Robel and Witting"
+08-07-1983,14-Aug-1983,"Beijing - China","tram | taxi | bicycle | ferry",F,Rogahn-Crist
+12-23-2013,31-Dec-2013,"Johannesburg ; South Africa","walk - airplane - ferry - tram - bicycle",M,Champlin-Kemmer
+06-07-1978,12-Jun-1978,"Alexandria ; Egypt","taxi | caravan | ferry | walk | bicycle | horse | tram | subway",masc,"Kassulke, Rath and Upton"
+08-22-1982,29-Aug-1982,"Mexico City - Mexico","boat - airplane - tram - train - taxi - walk - ferry",Female,Champlin-Kemmer
+05-16-1972,25-May-1972,"Ankara - Turkey","ferry - train - subway - horse - car - walk",M,"Feil LLC"
+11-10-1990,19-Nov-1990,"Durban ; South Africa","boat ; motorcycle ; car ; airplane ; ferry ; walk ; caravan",F,"Cremin Inc"
+07-27-1993,03-Aug-1993,"Addis Ababa | Ethiopia","airplane ; horse ; train ; ferry ; taxi",M,Feest-Bode
+09-12-1979,20-Sep-1979,"Pune - India","boat ; subway ; car ; bicycle ; bus",M,Grant-Hand
+09-29-1989,09-Oct-1989,"Delhi - India","boat - train - airplane - taxi - ferry - bus - caravan",Masc,"Ledner LLC"
+07-29-2002,02-Aug-2002,"Yangon ; Myanmar","subway - tram - taxi - airplane - bus - ferry - motorcycle",M,"Nienow LLC"
+10-28-2001,03-Nov-2001,"Abidjan | Ivory Coast","airplane - bus - bicycle - taxi - motorcycle - horse",Female,"Goldner LLC"
+10-02-1978,10-Oct-1978,"Addis Ababa ; Ethiopia","airplane ; bus ; train ; caravan ; tram ; subway",masc,"Bahringer LLC"
+02-23-2013,28-Feb-2013,"Mumbai | India","taxi - motorcycle - tram - walk - bus - airplane - train - bicycle",Female,"Leannon, Cassin and Trantow"
+10-09-2001,19-Oct-2001,"Hanoi ; Vietnam","taxi - airplane - motorcycle - boat - walk - car - bicycle",M,"Hayes, Bins and Considine"
+07-23-2005,27-Jul-2005,"Delhi ; India","taxi | boat | car | bus | ferry | subway",F,"Kassulke, Rath and Upton"
+02-16-1985,25-Feb-1985,"Mexico City | Mexico","taxi - ferry - train - car - bicycle - caravan",Female,"Hayes, Bins and Considine"
+01-16-1989,22-Jan-1989,"Lahore | Pakistan","car | airplane | train | walk | tram",Fem,Wolff-Cartwright
+02-10-2001,14-Feb-2001,"Durban ; South Africa","boat ; taxi ; walk ; car ; train ; bicycle ; horse",Fem,"Fritsch, Hegmann and Mueller"
+07-24-1999,02-Aug-1999,"Rio de Janeiro ; Brazil","motorcycle ; subway ; caravan ; walk ; ferry ; bus",Fem,"Heaney Inc"
+02-05-2016,11-Feb-2016,"Casablanca ; Morocco","taxi ; bicycle ; ferry ; boat ; walk ; bus",F,Rogahn-Crist
+08-28-2017,02-Sep-2017,"London - United Kingdom","airplane ; bus ; walk ; subway ; motorcycle ; ferry ; caravan ; bicycle",Masc,"Botsford Inc"
+08-21-1984,31-Aug-1984,"Mumbai | India","taxi - bicycle - tram - boat - ferry - car",Fem,Grant-Hand
+01-29-1973,04-Feb-1973,"Chennai - India","taxi | tram | caravan | subway | horse | ferry | boat",Female,Kerluke-Armstrong
+04-16-1978,26-Apr-1978,"Hanoi | Vietnam","bicycle ; airplane ; caravan ; ferry",masc,"Dare, Hoppe and Moore"
+05-02-1998,06-May-1998,"Durban - South Africa","horse ; train ; motorcycle ; airplane",Male,Blick-Bartell
+01-28-2014,05-Feb-2014,"Durban - South Africa","horse ; walk ; caravan ; subway",Female,Quigley-Braun
+03-10-2012,17-Mar-2012,"Pune - India","subway | horse | motorcycle | train | tram | car | walk",Male,Schmeler-Renner
+02-14-2010,18-Feb-2010,"Addis Ababa - Ethiopia","airplane ; horse ; train ; boat ; motorcycle",Masc,Cruickshank-Franecki
+08-22-1981,01-Sep-1981,"Rio de Janeiro ; Brazil","bus ; subway ; train ; car ; taxi ; bicycle",F,"Kulas LLC"
+07-20-2006,30-Jul-2006,"Delhi ; India","tram | ferry | car | airplane",fem,"Kulas LLC"
+11-22-2016,28-Nov-2016,"Lagos ; Nigeria","bus - tram - train - boat - motorcycle - bicycle - walk",fem,"Murray LLC"
+11-30-2011,08-Dec-2011,"Beijing ; China","ferry - train - horse - taxi - motorcycle - caravan - subway - tram",Masc,"Cole Group"
+05-11-2001,15-May-2001,"Rio de Janeiro | Brazil","horse - subway - caravan - bicycle - train - airplane - car",fem,"Goldner LLC"
+06-01-1986,06-Jun-1986,"Alexandria | Egypt","car | subway | motorcycle | walk | ferry | bus | caravan",Female,Feest-Bode
+12-05-1991,15-Dec-1991,"Lagos - Nigeria","taxi - tram - caravan - boat - airplane - ferry",F,"Cole Group"
+04-24-1990,02-May-1990,"Alexandria | Egypt","car ; caravan ; airplane ; motorcycle",Male,"Leannon, Cassin and Trantow"
+04-19-2005,29-Apr-2005,"Casablanca - Morocco","bus ; bicycle ; subway ; walk ; airplane",F,Schmeler-Renner
+06-08-1997,16-Jun-1997,"Pune | India","taxi - train - boat - ferry - walk - subway",Fem,"Ledner LLC"
+01-05-1988,13-Jan-1988,"Abidjan | Ivory Coast","car ; tram ; ferry ; walk ; airplane ; bicycle ; train",F,"Medhurst, Streich and Schamberger"
+05-01-2010,06-May-2010,"Addis Ababa ; Ethiopia","car | bus | taxi | caravan | airplane",Female,Champlin-Kemmer
+03-05-1995,15-Mar-1995,"Mumbai - India","taxi | train | ferry | motorcycle | boat | airplane | subway",fem,"Hodkiewicz, Luettgen and Stoltenberg"
+09-25-1998,03-Oct-1998,"Hanoi ; Vietnam","tram - ferry - bus - boat - motorcycle - bicycle - horse - taxi",Masc,Wolff-Cartwright
+08-31-2000,07-Sep-2000,"Addis Ababa - Ethiopia","horse | taxi | car | airplane",F,"Lubowitz, Prohaska and Reilly"
+09-30-1973,08-Oct-1973,"Abidjan ; Ivory Coast","caravan | taxi | boat | horse",fem,Feest-Bode
+08-01-2015,10-Aug-2015,"Johannesburg - South Africa","bicycle - ferry - horse - airplane - tram - taxi",fem,"Heaney - Robel and Witting"
+11-05-1972,15-Nov-1972,"Casablanca | Morocco","motorcycle ; tram ; subway ; caravan",Fem,"Koelpin, Hoppe and Corwin"
+05-04-1971,08-May-1971,"Mumbai - India","tram - airplane - subway - taxi",F,Champlin-Kemmer
+10-11-2006,16-Oct-2006,"Casablanca - Morocco","train ; boat ; bus ; walk ; ferry",Male,"Schinner, Sauer and Powlowski"
+01-31-1986,06-Feb-1986,"Dhaka ; Bangladesh","car - train - bicycle - subway",Female,Blick-Bartell
+11-14-1982,20-Nov-1982,"Lahore ; Pakistan","car ; airplane ; ferry ; bicycle ; train",masc,"Kulas LLC"
+11-24-1999,28-Nov-1999,"Casablanca - Morocco","motorcycle | ferry | bus | train | taxi | tram | horse",Male,"Heaney Inc"
+02-05-1998,14-Feb-1998,"Chennai | India","subway | ferry | caravan | walk | airplane | bus | bicycle | tram",M,"Heaney Inc"
+04-13-2010,23-Apr-2010,"Ankara | Turkey","tram ; bicycle ; ferry ; subway",masc,"Heaney - Robel and Witting"
+11-23-1998,01-Dec-1998,"Durban | South Africa","subway ; tram ; train ; horse ; motorcycle ; airplane ; caravan",masc,Quigley-Braun
+10-15-1993,19-Oct-1993,"Casablanca ; Morocco","tram ; walk ; taxi ; bus ; caravan ; motorcycle ; subway",F,"Hintz Group"
+01-14-2015,19-Jan-2015,"Abidjan | Ivory Coast","subway - airplane - car - horse",fem,"Sporer Group"
+08-01-1986,11-Aug-1986,"Abidjan - Ivory Coast","airplane - ferry - horse - taxi - car - motorcycle - tram",Female,"Nienow LLC"
+10-06-1977,14-Oct-1977,"Lagos - Nigeria","tram ; taxi ; airplane ; horse ; car",fem,"Hayes, Bins and Considine"
+12-27-1985,04-Jan-1986,"Ankara - Turkey","tram ; car ; train ; ferry",masc,Grant-Hand
+07-27-2008,01-Aug-2008,"Lahore ; Pakistan","airplane - caravan - train - boat - taxi",masc,"Murray LLC"
+11-04-2003,14-Nov-2003,"Alexandria - Egypt","boat | walk | airplane | bus",Male,"Cremin Inc"
+04-25-1993,02-May-1993,"Lagos | Nigeria","airplane ; ferry ; train ; motorcycle ; caravan",F,"Goldner LLC"
+12-18-1994,25-Dec-1994,"Pune - India","train ; motorcycle ; subway ; car ; walk ; airplane ; boat",Male,"Leannon, Cassin and Trantow"
+08-04-1991,12-Aug-1991,"Casablanca | Morocco","horse - car - bicycle - bus - motorcycle - tram",Fem,Schmeler-Renner
+11-05-2021,13-Nov-2021,"Mexico City - Mexico","taxi ; train ; caravan ; bus ; ferry ; tram ; motorcycle ; car",F,"Heaney Inc"
+12-16-2002,25-Dec-2002,"Delhi - India","airplane ; taxi ; walk ; train ; car",Male,"Kulas LLC"
+02-17-1990,25-Feb-1990,"Beijing | China","bus | boat | caravan | car | subway | motorcycle",Male,"Rempel and Sons"
+06-05-2002,14-Jun-2002,"Casablanca ; Morocco","motorcycle ; subway ; airplane ; taxi ; boat",masc,"Heaney - Robel and Witting"
+08-08-1998,13-Aug-1998,"Delhi - India","train - subway - caravan - horse - car - bicycle - ferry - motorcycle",masc,"Heaney Inc"
+09-22-1990,30-Sep-1990,"Yangon | Myanmar","horse ; subway ; train ; bicycle",F,"Hintz Group"
+01-18-2015,25-Jan-2015,"Rio de Janeiro ; Brazil","airplane ; taxi ; motorcycle ; boat ; caravan ; ferry",Male,"Koelpin, Hoppe and Corwin"
+03-23-1984,01-Apr-1984,"Johannesburg - South Africa","caravan - horse - airplane - train - boat - bicycle - ferry",Female,"Goldner LLC"
+02-16-2005,26-Feb-2005,"London | United Kingdom","bicycle | walk | boat | caravan | train",M,Quigley-Braun
+04-26-1990,04-May-1990,"Beijing - China","bicycle - subway - tram - bus - airplane - ferry - taxi - boat",Fem,Quigley-Braun
+01-19-2005,23-Jan-2005,"Beijing ; China","bus | train | motorcycle | car | ferry | caravan",Fem,Kerluke-Armstrong
+10-15-1982,22-Oct-1982,"Mexico City | Mexico","car | walk | caravan | boat | tram | airplane",F,Feest-Bode
+04-16-1981,26-Apr-1981,"Delhi ; India","ferry ; airplane ; car ; bus ; horse ; taxi ; caravan ; bicycle",Female,"Hodkiewicz, Luettgen and Stoltenberg"
+07-11-2005,20-Jul-2005,"Chennai - India","bus ; train ; taxi ; boat",Male,"Ledner LLC"
+03-18-1988,26-Mar-1988,"London | United Kingdom","airplane ; train ; bicycle ; subway ; motorcycle",masc,"Cremin Inc"
+03-18-2012,26-Mar-2012,"Lahore - Pakistan","caravan - bicycle - boat - walk - motorcycle - ferry - train - airplane",fem,"Leannon, Cassin and Trantow"
+08-25-1995,29-Aug-1995,"Chennai | India","tram ; train ; caravan ; bicycle ; horse ; bus ; motorcycle ; subway",Fem,Rogahn-Crist
+11-01-1992,09-Nov-1992,"Durban | South Africa","boat ; motorcycle ; airplane ; tram ; bus",masc,Grant-Hand
+08-03-1980,10-Aug-1980,"Chennai ; India","bus ; tram ; train ; walk ; ferry",Female,"Kulas LLC"
+12-15-1971,25-Dec-1971,"London ; United Kingdom","tram - horse - walk - subway",Female,"Schinner, Sauer and Powlowski"
+02-10-1993,14-Feb-1993,"Abidjan - Ivory Coast","bus ; boat ; car ; tram ; horse ; ferry",Fem,Langosh-Franecki
+10-11-1984,15-Oct-1984,"Lahore - Pakistan","train | horse | bus | taxi | boat | caravan | bicycle",Fem,"Nienow LLC"
+01-17-2012,22-Jan-2012,"Bangkok - Thailand","walk | train | subway | taxi | horse | airplane",M,"Goldner LLC"
+09-24-1981,28-Sep-1981,"Lahore | Pakistan","caravan | airplane | walk | train",masc,"Cole Group"
+09-26-1977,05-Oct-1977,"Casablanca | Morocco","subway ; horse ; walk ; train ; boat ; caravan",Masc,"Kulas LLC"
+03-08-2006,15-Mar-2006,"Addis Ababa - Ethiopia","horse ; car ; airplane ; bus ; caravan ; train ; boat",fem,"Kulas LLC"
+11-13-1975,20-Nov-1975,"Yangon ; Myanmar","taxi | motorcycle | walk | train | subway | bus | horse | tram",fem,"Murray LLC"
+07-16-2013,20-Jul-2013,"Addis Ababa ; Ethiopia","car - motorcycle - bicycle - subway - caravan - ferry - airplane",Male,Blick-Bartell
+01-03-2008,08-Jan-2008,"Pune ; India","taxi | train | car | airplane",masc,"Koelpin, Hoppe and Corwin"
+10-06-2006,15-Oct-2006,"Dhaka ; Bangladesh","motorcycle - airplane - bus - boat",Female,"Kulas LLC"
+02-26-1988,06-Mar-1988,"Johannesburg ; South Africa","motorcycle ; train ; horse ; taxi ; tram ; bicycle ; caravan",masc,"Heaney - Robel and Witting"
+03-02-1991,08-Mar-1991,"Lahore - Pakistan","train - bus - taxi - motorcycle - caravan - airplane",F,"Bahringer LLC"
+11-12-2008,21-Nov-2008,"Mumbai | India","caravan ; motorcycle ; bicycle ; taxi ; bus ; tram ; airplane",Fem,"Murray LLC"
+11-23-1982,28-Nov-1982,"Abidjan | Ivory Coast","boat ; bicycle ; horse ; car ; subway",Masc,"Leannon, Cassin and Trantow"
+11-20-1973,28-Nov-1973,"Mexico City - Mexico","ferry ; tram ; subway ; car ; train",Female,"Rempel and Sons"
+09-26-1992,30-Sep-1992,"Bangkok ; Thailand","airplane ; caravan ; motorcycle ; bus ; train ; boat ; taxi",Masc,"Bahringer LLC"
+11-30-2016,06-Dec-2016,"Johannesburg - South Africa","caravan ; horse ; subway ; train",Female,"Altenwerth and Sons"
+11-20-2008,29-Nov-2008,"Casablanca ; Morocco","horse - tram - train - boat - subway - car - airplane",Masc,"Sporer Group"
+05-28-1983,01-Jun-1983,"Beijing | China","airplane ; train ; subway ; caravan",Fem,"Hayes, Bins and Considine"
+08-08-1985,15-Aug-1985,"Abidjan | Ivory Coast","horse | ferry | boat | train",Male,"Cremin Inc"
+03-23-1974,28-Mar-1974,"Chennai | India","caravan ; bicycle ; airplane ; taxi ; walk ; horse ; subway ; car",masc,"Cole Group"
+07-14-1971,24-Jul-1971,"Durban - South Africa","tram ; bus ; walk ; bicycle ; train ; horse",F,"Funk, Morar and Rodriguez"
+09-01-2001,11-Sep-2001,"Addis Ababa - Ethiopia","motorcycle ; ferry ; bus ; caravan",fem,White-Stroman
+07-02-2004,11-Jul-2004,"Casablanca - Morocco","subway - bus - airplane - horse - taxi",Fem,"Hayes, Bins and Considine"
+08-30-2013,07-Sep-2013,"Lagos | Nigeria","bus | tram | car | boat",M,"Koelpin, Hoppe and Corwin"
+05-09-2010,15-May-2010,"Ankara - Turkey","horse - motorcycle - tram - car - taxi - bicycle - train",Masc,"Hintz Group"
+09-28-2010,03-Oct-2010,"Pune - India","caravan | boat | taxi | airplane | bus | ferry",F,"Medhurst, Streich and Schamberger"
+07-03-2002,10-Jul-2002,"Mumbai ; India","subway ; boat ; walk ; horse ; taxi ; airplane ; motorcycle",M,"Botsford Inc"
+06-11-1994,18-Jun-1994,"Pune - India","horse ; tram ; taxi ; ferry",M,"Nienow LLC"
+02-15-2019,23-Feb-2019,"Yangon ; Myanmar","motorcycle ; boat ; subway ; horse ; bus",Male,"Kassulke, Rath and Upton"
+05-26-2012,01-Jun-2012,"Chennai - India","caravan - tram - ferry - subway - motorcycle",fem,Quigley-Braun
+07-31-1981,05-Aug-1981,"Johannesburg ; South Africa","car ; bus ; horse ; tram",Male,"Rempel and Sons"
+01-18-1986,27-Jan-1986,"Dhaka ; Bangladesh","ferry - airplane - car - train",Masc,"Rempel and Sons"
+09-18-1997,24-Sep-1997,"Lahore | Pakistan","airplane ; caravan ; tram ; subway",masc,White-Stroman
+09-05-1983,13-Sep-1983,"Pune ; India","airplane - bus - caravan - boat - walk - tram",Fem,"Altenwerth and Sons"
+10-14-2010,24-Oct-2010,"Rio de Janeiro ; Brazil","airplane - tram - caravan - motorcycle - bicycle - subway - car - train",fem,"Heaney - Robel and Witting"
+11-17-1992,27-Nov-1992,"Johannesburg | South Africa","car ; caravan ; boat ; train",F,"Koelpin, Hoppe and Corwin"
+03-03-2009,12-Mar-2009,"Mexico City - Mexico","taxi - ferry - boat - caravan - car - tram",F,"Rempel and Sons"
+09-30-1996,05-Oct-1996,"Beijing ; China","tram - subway - ferry - horse - taxi - train",Fem,Langosh-Franecki
+10-14-2005,24-Oct-2005,"Mexico City | Mexico","taxi ; airplane ; motorcycle ; bus ; tram ; horse ; ferry ; car",F,White-Stroman
+01-28-2004,02-Feb-2004,"Casablanca - Morocco","train - caravan - bus - subway",masc,"Funk, Morar and Rodriguez"
+03-01-1992,05-Mar-1992,"Johannesburg - South Africa","horse - motorcycle - airplane - boat - bicycle - subway - taxi - train",fem,Champlin-Kemmer
+03-21-2015,28-Mar-2015,"Dhaka | Bangladesh","car - tram - walk - subway",Masc,Langosh-Franecki
+01-19-2015,26-Jan-2015,"London | United Kingdom","tram | motorcycle | ferry | boat",fem,Cruickshank-Franecki
+12-14-1995,23-Dec-1995,"Delhi - India","ferry ; walk ; bus ; subway ; bicycle ; train",Fem,"Sporer Group"
+05-14-1981,23-May-1981,"Abidjan - Ivory Coast","motorcycle ; bus ; horse ; caravan ; taxi",masc,Schmeler-Renner
+08-07-1983,17-Aug-1983,"Casablanca - Morocco","airplane ; horse ; bus ; caravan ; bicycle ; subway",Fem,Grant-Hand
+07-21-2008,26-Jul-2008,"Delhi ; India","walk | train | bus | motorcycle",Masc,"Murray LLC"
+10-23-1994,31-Oct-1994,"Hanoi ; Vietnam","boat - airplane - subway - train - horse - taxi - walk",F,"Botsford Inc"
+03-01-2007,05-Mar-2007,"Chennai - India","train ; bicycle ; motorcycle ; caravan ; horse",masc,"Altenwerth and Sons"
+08-06-1998,13-Aug-1998,"Lahore | Pakistan","caravan | taxi | walk | bicycle | car",Masc,"Murray LLC"
+07-06-1974,15-Jul-1974,"Beijing | China","ferry - bus - walk - airplane - motorcycle - tram - subway",M,Wolff-Cartwright
+09-25-1994,05-Oct-1994,"Alexandria | Egypt","train ; ferry ; walk ; airplane ; subway ; car",Fem,"Lubowitz, Prohaska and Reilly"
+04-20-1980,27-Apr-1980,"Mexico City | Mexico","subway - motorcycle - walk - airplane - horse - taxi",masc,"Ledner LLC"
+05-02-2011,06-May-2011,"Chennai ; India","caravan ; boat ; taxi ; train ; subway",F,"Altenwerth and Sons"
+11-06-1984,10-Nov-1984,"London | United Kingdom","caravan | boat | airplane | tram | horse | train | ferry",F,"Kassulke, Rath and Upton"
+10-06-2005,10-Oct-2005,"Mexico City | Mexico","train | bus | subway | taxi | motorcycle",Masc,"Funk, Morar and Rodriguez"
+03-29-1986,06-Apr-1986,"London ; United Kingdom","motorcycle ; subway ; tram ; walk ; train ; ferry ; horse",M,"Funk, Morar and Rodriguez"
+04-02-2013,10-Apr-2013,"Lahore - Pakistan","subway - tram - caravan - walk",Masc,"Goldner LLC"
+03-24-2013,30-Mar-2013,"Beijing - China","train - car - caravan - taxi - bicycle - motorcycle - subway - airplane",Female,"Cole Group"
+10-10-1980,15-Oct-1980,"London - United Kingdom","train - walk - horse - bus - taxi - car",F,"Nienow LLC"
+02-14-1970,19-Feb-1970,"Yangon | Myanmar","train | boat | ferry | motorcycle | subway | bicycle | taxi",masc,"Schaden LLC"
+06-06-1978,16-Jun-1978,"Abidjan - Ivory Coast","caravan ; horse ; tram ; boat ; walk ; car ; bus ; motorcycle",Female,"Goldner LLC"
+03-08-2003,13-Mar-2003,"Durban ; South Africa","caravan | car | tram | bus",Female,Champlin-Kemmer
+02-17-2004,26-Feb-2004,"Hanoi | Vietnam","airplane | motorcycle | subway | walk",Fem,"Kassulke, Rath and Upton"
+03-14-1997,24-Mar-1997,"Yangon ; Myanmar","bicycle ; caravan ; ferry ; airplane ; motorcycle ; car ; tram",masc,"Funk, Morar and Rodriguez"
+02-28-2018,09-Mar-2018,"Rio de Janeiro ; Brazil","car ; taxi ; subway ; boat ; caravan ; bicycle",fem,"Fritsch, Hegmann and Mueller"
+03-15-1977,22-Mar-1977,"Lagos - Nigeria","bus | boat | tram | bicycle | taxi",fem,Schmeler-Renner
+03-10-1992,14-Mar-1992,"Beijing ; China","motorcycle | boat | airplane | horse",Male,Wolff-Cartwright
+01-22-2003,29-Jan-2003,"Ankara - Turkey","train | boat | taxi | subway | tram | horse",Masc,"Hintz Group"
+05-22-2014,27-May-2014,"Ankara - Turkey","caravan | train | motorcycle | car | bicycle | walk",fem,Schmeler-Renner
+12-30-1974,08-Jan-1975,"Mexico City ; Mexico","boat ; ferry ; airplane ; subway ; horse",F,"Koelpin, Hoppe and Corwin"
+01-19-2020,28-Jan-2020,"Rio de Janeiro ; Brazil","bicycle ; car ; bus ; motorcycle ; airplane ; subway",M,"Goldner LLC"
+06-07-1982,17-Jun-1982,"Mumbai - India","ferry - boat - horse - bicycle - car",masc,"Schaden LLC"
+03-07-2008,12-Mar-2008,"Pune ; India","subway - bus - tram - car - boat - horse - motorcycle - airplane",Female,"Schinner, Sauer and Powlowski"
+02-02-1994,09-Feb-1994,"Abidjan | Ivory Coast","motorcycle | bus | caravan | airplane",Male,"Cole Group"
+02-16-1997,20-Feb-1997,"Durban - South Africa","caravan - ferry - train - motorcycle - walk - boat - bicycle",F,Langosh-Franecki
+05-14-2009,20-May-2009,"Yangon - Myanmar","motorcycle | tram | car | airplane",M,Blick-Bartell
+07-03-1997,08-Jul-1997,"Hanoi - Vietnam","tram ; walk ; ferry ; bus ; airplane ; boat ; taxi ; caravan",Masc,"Sporer Group"
+06-23-1980,02-Jul-1980,"Lahore - Pakistan","bicycle ; train ; subway ; car",Masc,"Schaden LLC"
+09-28-2010,06-Oct-2010,"Lahore - Pakistan","ferry | walk | bicycle | motorcycle | horse | tram | boat",Male,"Ledner LLC"
+12-11-2018,16-Dec-2018,"Johannesburg ; South Africa","subway | motorcycle | bus | taxi | horse | train | car",Masc,"Nienow LLC"
+02-18-2000,24-Feb-2000,"Rio de Janeiro ; Brazil","train | airplane | caravan | car | ferry | walk | boat | bus",fem,"Heaney - Robel and Witting"
+05-21-1982,30-May-1982,"Johannesburg - South Africa","bus ; caravan ; bicycle ; taxi ; tram ; airplane",Fem,Cruickshank-Franecki
+11-17-1990,22-Nov-1990,"Mexico City - Mexico","bicycle - subway - bus - caravan - car",F,"Fritsch, Hegmann and Mueller"
+12-02-1980,07-Dec-1980,"Casablanca | Morocco","bus | motorcycle | horse | car",Masc,"Bahringer LLC"
+06-05-1994,15-Jun-1994,"Lahore ; Pakistan","train - motorcycle - walk - airplane - taxi - tram - ferry - subway",masc,White-Stroman
+09-25-1983,29-Sep-1983,"Alexandria ; Egypt","bus - airplane - ferry - boat - taxi - horse - tram",masc,"Heaney Inc"
+08-29-1977,03-Sep-1977,"Lagos - Nigeria","subway ; bicycle ; horse ; caravan ; car ; bus",Masc,"Lubowitz, Prohaska and Reilly"
+12-27-1997,05-Jan-1998,"Bangkok ; Thailand","ferry ; bus ; car ; tram ; motorcycle ; walk ; boat ; caravan",F,"Bahringer LLC"
+11-14-1999,20-Nov-1999,"Yangon | Myanmar","motorcycle ; horse ; taxi ; ferry ; car",Masc,Langosh-Franecki
+08-26-2015,02-Sep-2015,"Hanoi ; Vietnam","car | bus | walk | bicycle | motorcycle",Masc,"Fritsch, Hegmann and Mueller"
+02-07-1972,17-Feb-1972,"Bangkok - Thailand","motorcycle ; tram ; airplane ; horse ; bicycle ; car ; subway",F,Blick-Bartell
+05-05-2021,10-May-2021,"Hanoi | Vietnam","horse | subway | bus | ferry",M,"Hayes, Bins and Considine"
+05-17-2000,22-May-2000,"Addis Ababa - Ethiopia","caravan - taxi - ferry - motorcycle - car - train",Female,"Schinner, Sauer and Powlowski"
+09-01-1980,08-Sep-1980,"Bangkok | Thailand","walk ; horse ; car ; bicycle ; bus ; tram",fem,"Murray LLC"
+05-17-2003,26-May-2003,"Lahore - Pakistan","boat ; taxi ; train ; motorcycle ; ferry",fem,"Botsford Inc"
+01-20-2012,25-Jan-2012,"Bangkok | Thailand","boat | car | bus | airplane | horse | tram | caravan | train",Fem,Wolff-Cartwright
+11-06-2011,15-Nov-2011,"Hanoi - Vietnam","tram - car - train - subway - horse - ferry - motorcycle - airplane",M,Quigley-Braun
+04-30-1984,07-May-1984,"Bangkok - Thailand","caravan ; car ; subway ; boat ; train ; ferry ; taxi ; bus",Male,Rogahn-Crist
+05-11-1997,20-May-1997,"Delhi ; India","airplane ; caravan ; car ; boat ; taxi ; train",fem,Kerluke-Armstrong
+04-22-2013,02-May-2013,"Lahore ; Pakistan","taxi | ferry | caravan | bicycle | car | horse | bus",masc,"Dare, Hoppe and Moore"
+08-01-2011,08-Aug-2011,"Beijing | China","taxi - train - motorcycle - tram",Fem,"Murray LLC"
+05-04-2010,09-May-2010,"Johannesburg - South Africa","horse ; train ; taxi ; tram ; bus ; car ; walk",Masc,Grant-Hand
+10-26-1991,30-Oct-1991,"Pune - India","bus ; ferry ; motorcycle ; subway ; walk",M,Wolff-Cartwright
+11-07-1993,15-Nov-1993,"London - United Kingdom","ferry - caravan - taxi - bicycle - motorcycle - boat - bus - train",F,"Leannon, Cassin and Trantow"
+09-02-2016,07-Sep-2016,"Chennai - India","train | bus | subway | caravan | horse | motorcycle | airplane | taxi",masc,"Ledner LLC"
+09-04-1983,13-Sep-1983,"Alexandria | Egypt","boat | tram | taxi | ferry",Masc,"Heaney - Robel and Witting"
+02-28-1991,08-Mar-1991,"Ankara ; Turkey","subway | walk | taxi | airplane | ferry | bus",F,"Rempel and Sons"
+05-28-1994,03-Jun-1994,"Lagos - Nigeria","boat - horse - train - taxi - car - airplane",masc,Quigley-Braun
+12-31-1973,10-Jan-1974,"Durban | South Africa","subway | airplane | caravan | ferry | car | motorcycle",Fem,"Kassulke, Rath and Upton"
+07-31-2017,09-Aug-2017,"Mexico City ; Mexico","tram ; ferry ; walk ; caravan ; car ; bicycle ; bus ; airplane",F,"Rempel and Sons"
+03-28-1990,04-Apr-1990,"Delhi - India","ferry | subway | car | bicycle | bus | boat | motorcycle",F,Langosh-Franecki
+09-02-1975,10-Sep-1975,"Durban ; South Africa","boat - car - bicycle - horse - bus - taxi",M,"Ledner LLC"
+08-01-1973,07-Aug-1973,"Ankara ; Turkey","bus - car - motorcycle - train - ferry - subway - caravan - walk",masc,"Schinner, Sauer and Powlowski"
+04-24-1971,01-May-1971,"Pune ; India","airplane - tram - ferry - train - caravan - motorcycle - car - horse",M,Kerluke-Armstrong
+07-14-2013,24-Jul-2013,"Lagos | Nigeria","car - caravan - boat - subway - motorcycle - ferry - tram",F,"Hayes, Bins and Considine"
+01-01-1989,05-Jan-1989,"Mexico City - Mexico","ferry ; tram ; boat ; airplane ; walk",Fem,"Leannon, Cassin and Trantow"
+04-05-2018,09-Apr-2018,"Lagos ; Nigeria","boat | bus | ferry | motorcycle | bicycle",Male,"Funk, Morar and Rodriguez"
+02-19-2006,26-Feb-2006,"Mumbai ; India","train - subway - caravan - car - bus - taxi - motorcycle",fem,Cruickshank-Franecki
+07-30-1972,04-Aug-1972,"Ankara ; Turkey","caravan - ferry - tram - motorcycle - car",masc,"Heaney Inc"
+01-27-2014,06-Feb-2014,"Pune - India","car - caravan - taxi - train - horse - motorcycle - walk",fem,"Ledner LLC"
+11-09-1989,16-Nov-1989,"Hanoi - Vietnam","subway - horse - bicycle - motorcycle - car - boat - caravan - walk",Male,"Altenwerth and Sons"
+05-22-1997,27-May-1997,"Hanoi | Vietnam","taxi ; airplane ; tram ; car ; boat ; subway ; horse",Female,Wolff-Cartwright
+11-23-1985,30-Nov-1985,"Bangkok ; Thailand","car ; subway ; bicycle ; motorcycle ; ferry ; train ; tram ; bus",Fem,Wolff-Cartwright
+05-31-1978,04-Jun-1978,"Alexandria ; Egypt","train | boat | ferry | taxi",Male,"Murray LLC"
+12-06-1985,13-Dec-1985,"Hanoi | Vietnam","tram | bicycle | subway | caravan",Masc,"Cremin Inc"
+03-28-2014,03-Apr-2014,"Durban | South Africa","boat ; walk ; bicycle ; airplane ; subway ; motorcycle ; caravan ; train",masc,"Goldner LLC"
+08-23-1984,31-Aug-1984,"Durban ; South Africa","taxi | airplane | bicycle | train | boat | caravan | tram",Female,"Heaney Inc"
+03-08-1972,18-Mar-1972,"Yangon | Myanmar","ferry ; horse ; bicycle ; caravan ; motorcycle ; boat ; bus",F,"Lubowitz, Prohaska and Reilly"
+04-12-2021,16-Apr-2021,"Lagos ; Nigeria","horse - bicycle - ferry - walk - taxi",F,"Hayes, Bins and Considine"
+12-14-1979,20-Dec-1979,"Lahore | Pakistan","car ; motorcycle ; ferry ; caravan ; airplane",M,Rogahn-Crist
+08-31-2003,08-Sep-2003,"Bangkok - Thailand","taxi | car | train | caravan | airplane | boat",Male,"Kulas LLC"
+09-13-1995,17-Sep-1995,"Mumbai - India","train - caravan - taxi - boat - bus",Female,"Schaden LLC"
+03-07-2010,17-Mar-2010,"Bangkok | Thailand","boat ; tram ; bus ; car ; motorcycle ; caravan ; ferry",Female,"Leannon, Cassin and Trantow"
+06-22-1979,30-Jun-1979,"Bangkok | Thailand","subway | ferry | motorcycle | tram | bicycle",Fem,Langosh-Franecki
+12-22-1989,01-Jan-1990,"Johannesburg ; South Africa","taxi ; tram ; motorcycle ; airplane ; bus ; train ; car",Fem,Feest-Bode
+05-02-2019,09-May-2019,"Beijing - China","taxi ; train ; tram ; horse ; bus",Female,"Hintz Group"
+06-13-2007,18-Jun-2007,"Hanoi ; Vietnam","taxi | train | subway | motorcycle | ferry",F,Blick-Bartell
+01-09-1983,16-Jan-1983,"Durban - South Africa","ferry ; bicycle ; tram ; walk ; taxi",M,"Koelpin, Hoppe and Corwin"
+09-18-2015,22-Sep-2015,"Lahore | Pakistan","horse | bicycle | airplane | taxi | ferry | caravan | tram | motorcycle",Female,"Feil LLC"
+03-03-1975,09-Mar-1975,"Delhi | India","horse | ferry | taxi | tram | subway",Fem,"Hayes, Bins and Considine"
+03-19-1990,25-Mar-1990,"Johannesburg ; South Africa","walk | bus | train | tram | car | motorcycle | horse | airplane",M,Cruickshank-Franecki
+08-12-2002,19-Aug-2002,"Mexico City - Mexico","motorcycle | walk | caravan | ferry | taxi",masc,"Kassulke, Rath and Upton"
+09-18-2016,25-Sep-2016,"Chennai | India","ferry ; train ; walk ; taxi ; subway ; motorcycle",F,"Dare, Hoppe and Moore"
+06-01-1975,11-Jun-1975,"Mexico City - Mexico","motorcycle ; tram ; caravan ; taxi ; bicycle ; bus ; subway",M,"Goldner LLC"
+02-09-1994,13-Feb-1994,"Bangkok ; Thailand","car ; boat ; taxi ; train",Fem,"Dare, Hoppe and Moore"
+12-26-1985,03-Jan-1986,"Mexico City - Mexico","taxi - bus - caravan - train",fem,"Murray LLC"
+08-16-2008,24-Aug-2008,"Mexico City | Mexico","caravan | train | bus | ferry | motorcycle | car",Female,Feest-Bode
+05-14-1991,19-May-1991,"Abidjan | Ivory Coast","motorcycle ; walk ; bus ; car ; subway",F,Cruickshank-Franecki
+09-30-1989,08-Oct-1989,"Alexandria - Egypt","bus | subway | boat | train | walk | tram",F,Langosh-Franecki
+12-13-2020,20-Dec-2020,"Ankara | Turkey","walk | caravan | bicycle | tram | ferry | car | airplane",masc,"Ledner LLC"
+11-17-1993,26-Nov-1993,"Yangon | Myanmar","caravan | taxi | tram | train | bicycle | bus | ferry",Female,"Fritsch, Hegmann and Mueller"
+01-30-1988,03-Feb-1988,"Pune ; India","tram | boat | train | bus | taxi | walk | car",F,"Murray LLC"
+04-06-2017,16-Apr-2017,"Mexico City ; Mexico","caravan - train - tram - subway",Masc,Rogahn-Crist
+09-09-2019,13-Sep-2019,"Mumbai ; India","boat | subway | bus | train | horse",Male,"Rempel and Sons"
+03-28-1985,03-Apr-1985,"Pune | India","ferry - horse - train - bicycle",F,Feest-Bode
+05-28-2002,03-Jun-2002,"Beijing ; China","caravan | bicycle | taxi | subway | motorcycle | airplane | ferry",Female,"Cremin Inc"
+02-10-2016,19-Feb-2016,"Hanoi | Vietnam","train | bus | boat | motorcycle | taxi",masc,"Ledner LLC"
+06-10-1973,20-Jun-1973,"Dhaka | Bangladesh","motorcycle | car | horse | taxi | bus | bicycle | caravan | walk",Male,"Goldner LLC"
+03-03-2011,08-Mar-2011,"Delhi ; India","caravan ; subway ; horse ; ferry ; walk ; motorcycle",Masc,Langosh-Franecki
+12-25-1982,31-Dec-1982,"Bangkok - Thailand","airplane | car | bicycle | bus | walk | horse | boat",Male,"Feil LLC"
+10-15-1985,22-Oct-1985,"Bangkok - Thailand","train - taxi - caravan - motorcycle - horse",fem,"Nienow LLC"
+01-18-2009,26-Jan-2009,"Alexandria ; Egypt","airplane ; walk ; motorcycle ; caravan ; taxi ; boat ; ferry",M,Cruickshank-Franecki
+10-23-1972,02-Nov-1972,"Beijing ; China","boat - horse - bus - car - airplane - train - subway - ferry",Masc,"Hintz Group"
+10-02-1996,11-Oct-1996,"Dhaka ; Bangladesh","bicycle | tram | airplane | car | bus | subway | taxi",Female,"Hodkiewicz, Luettgen and Stoltenberg"
+01-21-1979,28-Jan-1979,"Alexandria | Egypt","boat | car | bus | tram | caravan | train",F,"Hayes, Bins and Considine"
+11-08-1973,13-Nov-1973,"London ; United Kingdom","train | bicycle | caravan | taxi | subway | tram | motorcycle",Masc,"Leannon, Cassin and Trantow"
+06-18-2002,22-Jun-2002,"Chennai | India","caravan ; walk ; boat ; horse ; tram ; subway",F,Wolff-Cartwright
+05-01-1974,07-May-1974,"Addis Ababa | Ethiopia","caravan | car | motorcycle | train",Female,"Fritsch, Hegmann and Mueller"
+08-22-1982,30-Aug-1982,"London ; United Kingdom","tram ; subway ; train ; motorcycle ; bus ; ferry ; bicycle ; taxi",Female,"Kulas LLC"
+07-30-2007,06-Aug-2007,"Pune | India","subway - motorcycle - taxi - tram - horse",Female,"Funk, Morar and Rodriguez"
+12-20-1984,28-Dec-1984,"Lahore | Pakistan","tram - car - airplane - bicycle - horse - boat - train",Male,"Goldner LLC"
+05-22-1978,27-May-1978,"Beijing ; China","tram ; taxi ; bus ; ferry",Female,"Lubowitz, Prohaska and Reilly"
+01-12-1993,17-Jan-1993,"Hanoi | Vietnam","motorcycle | subway | horse | walk | caravan | tram | taxi | car",Fem,"Ledner LLC"
+10-20-2000,29-Oct-2000,"Pune | India","airplane ; bicycle ; bus ; tram",M,Schmeler-Renner
+02-19-2002,24-Feb-2002,"Mumbai | India","tram - horse - caravan - car - bus - taxi",Female,"Funk, Morar and Rodriguez"
+04-17-1984,23-Apr-1984,"Alexandria ; Egypt","caravan ; ferry ; train ; bus ; car ; motorcycle ; tram",F,"Heaney Inc"
+12-19-1979,28-Dec-1979,"Abidjan | Ivory Coast","horse | subway | bus | boat | ferry | train | caravan | airplane",Female,"Bahringer LLC"
+07-29-1987,04-Aug-1987,"Johannesburg | South Africa","caravan | horse | boat | bus | subway | train | walk",Fem,"Fritsch, Hegmann and Mueller"
+02-25-2007,07-Mar-2007,"Rio de Janeiro - Brazil","walk ; motorcycle ; tram ; bus ; subway",M,"Goldner LLC"
+09-27-1997,05-Oct-1997,"Bangkok ; Thailand","bus ; airplane ; walk ; horse ; caravan",fem,"Cole Group"
+05-04-1983,14-May-1983,"London | United Kingdom","train | caravan | horse | ferry | bicycle | subway | walk",F,Quigley-Braun
+07-27-1980,06-Aug-1980,"Abidjan | Ivory Coast","train - horse - tram - motorcycle - ferry",fem,"Kassulke, Rath and Upton"
+07-19-2012,29-Jul-2012,"Beijing ; China","train - boat - ferry - taxi - walk - bicycle - airplane - horse",Male,"Medhurst, Streich and Schamberger"
+12-06-1982,16-Dec-1982,"Hanoi - Vietnam","car - airplane - subway - boat",M,"Ledner LLC"
+03-17-2014,22-Mar-2014,"Mexico City ; Mexico","car ; boat ; taxi ; bicycle ; bus ; horse ; train",Female,Kerluke-Armstrong
+02-09-1987,17-Feb-1987,"Mexico City ; Mexico","subway ; boat ; ferry ; motorcycle ; bicycle ; train ; tram",Male,Rogahn-Crist
+09-23-2018,29-Sep-2018,"London ; United Kingdom","horse | bus | taxi | airplane | train | subway | tram | boat",Male,"Nienow LLC"
+06-17-2012,25-Jun-2012,"Bangkok - Thailand","walk | airplane | ferry | bus",Masc,Langosh-Franecki
+03-13-1996,21-Mar-1996,"Beijing ; China","boat | car | motorcycle | bus | horse | tram | train | ferry",fem,"Kulas LLC"
+04-23-1977,30-Apr-1977,"Johannesburg | South Africa","bus | boat | ferry | taxi | airplane | caravan | motorcycle | tram",fem,"Kulas LLC"
+09-27-1996,05-Oct-1996,"Dhaka | Bangladesh","subway - bus - caravan - motorcycle - walk - car",M,Cruickshank-Franecki
+02-06-1993,11-Feb-1993,"Alexandria | Egypt","motorcycle ; walk ; caravan ; bus ; boat ; airplane ; subway ; car",Fem,"Hodkiewicz, Luettgen and Stoltenberg"
+02-19-1992,23-Feb-1992,"Addis Ababa ; Ethiopia","subway | bus | ferry | motorcycle | train | airplane | horse | walk",M,"Murray LLC"
+01-03-2020,08-Jan-2020,"Casablanca ; Morocco","ferry - subway - airplane - bus - horse - caravan - train",masc,"Heaney - Robel and Witting"
+03-05-2011,12-Mar-2011,"Dhaka ; Bangladesh","tram ; walk ; subway ; bus ; taxi ; horse ; motorcycle",Masc,"Koelpin, Hoppe and Corwin"
+05-29-1986,05-Jun-1986,"Abidjan - Ivory Coast","bicycle ; boat ; taxi ; walk ; caravan ; airplane ; motorcycle",Fem,"Altenwerth and Sons"
+01-05-2010,09-Jan-2010,"Addis Ababa - Ethiopia","airplane - subway - tram - train",Masc,"Schaden LLC"
+12-20-2001,24-Dec-2001,"Casablanca | Morocco","bus | motorcycle | airplane | boat | ferry | caravan",Fem,"Fritsch, Hegmann and Mueller"
+02-06-1972,11-Feb-1972,"Delhi | India","train ; bicycle ; subway ; tram ; motorcycle ; bus ; walk",F,"Leannon, Cassin and Trantow"
+11-10-2019,15-Nov-2019,"Yangon ; Myanmar","subway - taxi - airplane - train - caravan - car",Fem,"Hintz Group"
+03-06-1996,16-Mar-1996,"Mumbai ; India","bus - ferry - taxi - horse - boat",Masc,Wolff-Cartwright
+07-02-2007,10-Jul-2007,"Bangkok | Thailand","tram - train - car - subway - horse",Male,"Hodkiewicz, Luettgen and Stoltenberg"
+05-13-1993,19-May-1993,"Pune - India","motorcycle ; airplane ; horse ; ferry ; car ; subway ; tram",Masc,"Funk, Morar and Rodriguez"
+09-13-2000,22-Sep-2000,"Alexandria - Egypt","walk - subway - bus - motorcycle - train",masc,"Hintz Group"
+11-18-1971,28-Nov-1971,"Yangon - Myanmar","bus - motorcycle - car - bicycle",Male,"Hayes, Bins and Considine"
+02-20-2018,26-Feb-2018,"Casablanca - Morocco","ferry | tram | subway | taxi | bus | train",Fem,Langosh-Franecki
+10-10-1996,16-Oct-1996,"Abidjan ; Ivory Coast","caravan ; tram ; subway ; airplane ; train ; boat ; horse",M,"Hintz Group"
+06-24-2007,02-Jul-2007,"London - United Kingdom","train | airplane | caravan | motorcycle | ferry",Masc,"Funk, Morar and Rodriguez"
+05-05-2021,14-May-2021,"Ankara | Turkey","walk | caravan | subway | horse | tram | bicycle | boat",F,"Schinner, Sauer and Powlowski"
+04-15-2001,21-Apr-2001,"Rio de Janeiro - Brazil","train | horse | tram | bicycle | taxi | car | motorcycle | airplane",Fem,"Fritsch, Hegmann and Mueller"
+01-31-1985,06-Feb-1985,"Yangon ; Myanmar","bicycle ; train ; car ; bus ; caravan ; taxi ; horse ; boat",fem,"Schinner, Sauer and Powlowski"
+02-20-2002,28-Feb-2002,"Casablanca - Morocco","airplane - car - caravan - tram - horse - boat - taxi - train",Male,Quigley-Braun
+04-09-1978,17-Apr-1978,"Lahore | Pakistan","walk | taxi | bus | boat | car | ferry | motorcycle",fem,Kerluke-Armstrong
+07-20-2006,25-Jul-2006,"Chennai | India","taxi | caravan | ferry | train",fem,"Hintz Group"
+03-03-2015,09-Mar-2015,"Chennai | India","ferry | bicycle | caravan | car | tram",Fem,"Koelpin, Hoppe and Corwin"
+07-06-1990,12-Jul-1990,"Bangkok ; Thailand","subway ; car ; ferry ; train ; motorcycle ; bicycle ; horse ; taxi",Female,"Murray LLC"
+11-02-2019,11-Nov-2019,"Lagos | Nigeria","train ; caravan ; motorcycle ; bus ; car ; walk ; bicycle",masc,"Hayes, Bins and Considine"
+08-12-1977,19-Aug-1977,"Rio de Janeiro - Brazil","bus - car - train - taxi",Masc,"Dare, Hoppe and Moore"
+03-10-1974,20-Mar-1974,"Hanoi - Vietnam","subway | car | walk | tram | airplane",Masc,Schmeler-Renner
+02-12-1973,18-Feb-1973,"Mexico City - Mexico","boat ; train ; tram ; taxi ; airplane ; car",Masc,"Ledner LLC"
+12-28-2010,04-Jan-2011,"Yangon | Myanmar","caravan ; train ; walk ; tram ; boat",masc,"Schaden LLC"
+09-14-2019,22-Sep-2019,"Yangon - Myanmar","airplane ; bus ; taxi ; ferry ; boat ; car ; train",Female,"Feil LLC"
+02-12-1996,18-Feb-1996,"Hanoi | Vietnam","airplane - subway - ferry - train - walk - horse - tram - boat",M,Champlin-Kemmer
+11-29-2006,07-Dec-2006,"Delhi - India","boat ; horse ; airplane ; taxi ; bus ; ferry ; walk ; motorcycle",Masc,"Fritsch, Hegmann and Mueller"
+12-04-1972,11-Dec-1972,"Dhaka - Bangladesh","bicycle | taxi | tram | motorcycle | car | horse | boat | train",M,Wolff-Cartwright
+10-06-2011,12-Oct-2011,"Abidjan ; Ivory Coast","caravan ; walk ; ferry ; bicycle",masc,Schmeler-Renner
+08-25-1993,04-Sep-1993,"Durban | South Africa","train | car | taxi | horse | airplane",fem,Champlin-Kemmer
+09-07-1987,17-Sep-1987,"Delhi | India","airplane ; boat ; walk ; horse ; caravan",Fem,"Heaney - Robel and Witting"
+01-18-2008,28-Jan-2008,"Hanoi | Vietnam","airplane | motorcycle | boat | bicycle | walk",fem,Blick-Bartell
+12-24-1999,01-Jan-2000,"Chennai ; India","subway | bicycle | horse | car | walk | bus | airplane | boat",Female,"Hintz Group"
+02-23-1991,27-Feb-1991,"Dhaka - Bangladesh","boat - airplane - bus - tram - taxi - walk - bicycle - horse",fem,"Ledner LLC"
+04-12-2017,17-Apr-2017,"Mumbai | India","tram | bicycle | bus | caravan | car | ferry | train",Masc,"Dare, Hoppe and Moore"
+02-23-1999,03-Mar-1999,"Mexico City | Mexico","ferry ; motorcycle ; bus ; taxi ; airplane",masc,"Botsford Inc"
+10-24-1994,31-Oct-1994,"Dhaka ; Bangladesh","train | caravan | subway | walk | tram | bus",Male,Wolff-Cartwright
+03-10-2020,17-Mar-2020,"Rio de Janeiro | Brazil","tram - motorcycle - subway - bus - ferry - walk - taxi",F,"Heaney Inc"
+12-19-1973,28-Dec-1973,"Dhaka - Bangladesh","taxi ; subway ; motorcycle ; caravan ; airplane ; train ; horse",Fem,"Hodkiewicz, Luettgen and Stoltenberg"
+10-04-2021,14-Oct-2021,"Lagos - Nigeria","horse - bus - motorcycle - car - boat - tram - caravan",F,"Leannon, Cassin and Trantow"
+01-21-2000,29-Jan-2000,"Delhi | India","ferry - airplane - taxi - walk - bicycle",Male,"Heaney - Robel and Witting"
+01-17-2005,24-Jan-2005,"Chennai - India","train ; boat ; car ; airplane ; bus ; ferry",Female,"Schaden LLC"
+02-03-1973,11-Feb-1973,"Abidjan ; Ivory Coast","car ; bicycle ; ferry ; caravan ; subway",Fem,"Schaden LLC"
+09-29-1979,07-Oct-1979,"Addis Ababa | Ethiopia","caravan ; subway ; bicycle ; horse ; airplane",fem,Cruickshank-Franecki
+05-24-1991,02-Jun-1991,"Delhi - India","bicycle - car - walk - subway - taxi - airplane - bus",Fem,"Cremin Inc"
+05-23-2018,27-May-2018,"Mexico City | Mexico","walk | motorcycle | tram | airplane | car | bus | caravan | subway",masc,"Schinner, Sauer and Powlowski"
+03-19-2010,23-Mar-2010,"Durban | South Africa","horse ; train ; subway ; caravan ; motorcycle",F,"Cole Group"
+05-14-1995,18-May-1995,"Casablanca | Morocco","caravan | subway | train | car | bus | taxi",Male,Quigley-Braun
+07-29-2010,04-Aug-2010,"Alexandria - Egypt","boat - caravan - train - horse - bicycle - subway",Fem,Cruickshank-Franecki
+02-05-1976,11-Feb-1976,"Hanoi | Vietnam","motorcycle - horse - bicycle - car",Male,Blick-Bartell
+10-23-2019,30-Oct-2019,"Delhi - India","taxi | train | car | walk | boat",Fem,"Funk, Morar and Rodriguez"
+07-11-2009,21-Jul-2009,"Yangon - Myanmar","bus ; boat ; ferry ; train",F,"Lubowitz, Prohaska and Reilly"
+07-15-2014,21-Jul-2014,"Abidjan - Ivory Coast","car ; walk ; bus ; boat",Male,"Feil LLC"
+02-05-2019,15-Feb-2019,"Lagos ; Nigeria","motorcycle | tram | airplane | ferry | boat | bus | taxi",Fem,Cruickshank-Franecki
+03-13-2003,22-Mar-2003,"Addis Ababa - Ethiopia","car - motorcycle - taxi - horse - ferry",fem,"Cole Group"
+08-15-2007,25-Aug-2007,"Chennai ; India","taxi | subway | airplane | bus | bicycle",Female,Schmeler-Renner
+09-21-2020,30-Sep-2020,"Dhaka - Bangladesh","subway | car | train | bus | motorcycle | taxi | ferry",Male,"Hintz Group"
+12-09-1984,14-Dec-1984,"Lagos ; Nigeria","bus | ferry | subway | tram | boat | motorcycle | taxi",Fem,"Nienow LLC"
+07-18-1980,24-Jul-1980,"Bangkok | Thailand","bicycle ; walk ; boat ; tram ; train ; caravan",Masc,"Dare, Hoppe and Moore"
+07-13-2009,18-Jul-2009,"Chennai - India","walk | subway | horse | train | caravan | motorcycle",Male,Cruickshank-Franecki
+09-20-1983,24-Sep-1983,"Mumbai - India","bus | airplane | car | bicycle",F,Quigley-Braun
+09-01-2009,09-Sep-2009,"Bangkok | Thailand","train ; motorcycle ; boat ; tram ; bus",Fem,"Heaney Inc"
+11-26-1994,01-Dec-1994,"Addis Ababa | Ethiopia","motorcycle | horse | caravan | ferry | subway",Masc,"Kassulke, Rath and Upton"
+09-27-2015,02-Oct-2015,"Dhaka | Bangladesh","car ; horse ; train ; bicycle ; ferry ; airplane ; boat",Masc,"Ledner LLC"
+10-20-1977,26-Oct-1977,"Ankara - Turkey","bus | taxi | motorcycle | caravan | horse",fem,"Fritsch, Hegmann and Mueller"
+10-23-2008,30-Oct-2008,"Ankara - Turkey","train ; horse ; walk ; subway ; car ; caravan ; boat",F,"Bahringer LLC"
+10-22-1981,30-Oct-1981,"Hanoi - Vietnam","tram - walk - ferry - taxi - airplane - subway",Fem,"Goldner LLC"
+12-18-2013,24-Dec-2013,"Bangkok - Thailand","boat ; caravan ; ferry ; bicycle ; motorcycle",Masc,"Medhurst, Streich and Schamberger"
+04-16-2013,21-Apr-2013,"Johannesburg | South Africa","walk ; motorcycle ; bus ; boat ; taxi",masc,Wolff-Cartwright
+04-25-1982,29-Apr-1982,"Chennai - India","subway - bus - taxi - car - bicycle - walk",fem,"Koelpin, Hoppe and Corwin"
+11-26-1982,06-Dec-1982,"Mumbai | India","motorcycle ; taxi ; horse ; car ; walk ; train ; tram",M,"Feil LLC"
+02-09-2007,17-Feb-2007,"Beijing ; China","caravan ; subway ; train ; ferry ; car ; bicycle ; tram",masc,"Nienow LLC"
+05-10-1976,15-May-1976,"Durban | South Africa","ferry - taxi - tram - bus - caravan",fem,"Rempel and Sons"
+05-18-2012,24-May-2012,"Mexico City - Mexico","walk | caravan | tram | bus | horse | boat | subway",Female,Kerluke-Armstrong
+01-31-1974,05-Feb-1974,"London | United Kingdom","walk | ferry | airplane | boat | train | horse | bicycle",Female,"Kulas LLC"
+02-12-2019,22-Feb-2019,"Lagos ; Nigeria","horse - taxi - tram - ferry - car - airplane - walk",Fem,"Koelpin, Hoppe and Corwin"
+05-18-1995,22-May-1995,"Pune - India","walk | caravan | motorcycle | subway | taxi | bus | tram | train",Masc,"Feil LLC"
+01-29-2015,06-Feb-2015,"London | United Kingdom","tram | walk | bicycle | airplane | car | caravan",F,"Heaney Inc"
+06-25-1997,04-Jul-1997,"Abidjan - Ivory Coast","horse | boat | car | ferry | airplane | subway | tram",F,"Ledner LLC"
+09-18-1995,22-Sep-1995,"Mumbai ; India","caravan ; subway ; taxi ; car",masc,"Heaney - Robel and Witting"
+03-25-2001,02-Apr-2001,"Dhaka | Bangladesh","car ; horse ; caravan ; ferry ; taxi ; motorcycle ; tram ; walk",F,"Funk, Morar and Rodriguez"
+06-24-1987,01-Jul-1987,"Johannesburg - South Africa","train - subway - boat - tram - ferry - bicycle - caravan",Female,Schmeler-Renner
+03-25-2020,31-Mar-2020,"London - United Kingdom","tram - caravan - ferry - car - boat - bicycle - horse",masc,"Cole Group"
+05-05-2008,15-May-2008,"Durban | South Africa","train ; boat ; bicycle ; caravan",F,Langosh-Franecki
+06-04-1976,10-Jun-1976,"Mexico City | Mexico","tram ; car ; ferry ; train ; airplane ; bus",fem,"Kulas LLC"
+01-19-2001,29-Jan-2001,"Alexandria | Egypt","walk ; airplane ; bus ; train",Fem,Feest-Bode
+07-01-2013,06-Jul-2013,"Mexico City | Mexico","boat ; horse ; ferry ; subway ; taxi ; train ; tram",Masc,Blick-Bartell
+07-11-2002,16-Jul-2002,"Rio de Janeiro | Brazil","walk | airplane | subway | taxi | bus | caravan | ferry",Masc,Rogahn-Crist
+02-21-2013,03-Mar-2013,"Durban ; South Africa","walk - motorcycle - train - bus - car - taxi",masc,"Kulas LLC"
+03-10-1998,15-Mar-1998,"Pune - India","walk ; train ; caravan ; car ; taxi",F,"Goldner LLC"
+08-31-1997,04-Sep-1997,"Mumbai ; India","subway - bus - tram - train - motorcycle - horse",Fem,"Kulas LLC"
+04-10-2001,20-Apr-2001,"Mumbai | India","airplane ; bicycle ; walk ; train ; horse ; boat ; ferry ; subway",Male,"Kassulke, Rath and Upton"
+04-07-2018,12-Apr-2018,"Casablanca - Morocco","caravan - boat - ferry - bus - subway - airplane",fem,"Feil LLC"
+06-20-2020,24-Jun-2020,"Hanoi - Vietnam","motorcycle | tram | boat | ferry",F,Blick-Bartell
+07-05-2014,15-Jul-2014,"Delhi - India","taxi ; train ; boat ; bus ; bicycle ; motorcycle ; horse ; airplane",Masc,"Altenwerth and Sons"
+06-04-2019,10-Jun-2019,"Mumbai - India","horse ; bicycle ; ferry ; airplane ; boat ; bus",fem,"Botsford Inc"
+11-08-1981,13-Nov-1981,"Pune - India","boat - train - taxi - tram - caravan",fem,"Bahringer LLC"
+07-03-2012,11-Jul-2012,"Hanoi | Vietnam","motorcycle - car - ferry - subway - boat",M,"Schinner, Sauer and Powlowski"
+06-29-1986,07-Jul-1986,"Delhi ; India","bus | taxi | walk | ferry | subway | train | horse | airplane",Fem,Rogahn-Crist
+12-18-2014,28-Dec-2014,"Beijing - China","taxi ; bicycle ; car ; caravan ; airplane",Fem,Grant-Hand
+05-25-1990,29-May-1990,"Durban - South Africa","boat | taxi | bus | tram | car | walk",Female,White-Stroman
+09-23-1987,28-Sep-1987,"Delhi - India","bicycle | motorcycle | caravan | train | bus | boat | horse | ferry",F,"Koelpin, Hoppe and Corwin"
+01-12-1971,17-Jan-1971,"Durban | South Africa","train - motorcycle - ferry - caravan - boat - bicycle - bus - car",masc,Schmeler-Renner
+10-01-2020,08-Oct-2020,"Lagos - Nigeria","tram | taxi | ferry | bus | airplane | caravan | subway",M,Rogahn-Crist
+05-17-2007,25-May-2007,"Alexandria ; Egypt","taxi ; motorcycle ; horse ; boat ; car ; airplane",Female,Blick-Bartell
+11-23-1981,27-Nov-1981,"Durban | South Africa","horse | walk | tram | subway | train | caravan | airplane",masc,"Kulas LLC"
+06-08-2012,15-Jun-2012,"London | United Kingdom","train ; ferry ; airplane ; caravan ; tram ; bicycle ; walk",fem,White-Stroman
+04-17-1978,24-Apr-1978,"Mexico City ; Mexico","bus - walk - horse - car - airplane - ferry - subway - taxi",F,"Cremin Inc"
+01-26-1973,03-Feb-1973,"Addis Ababa ; Ethiopia","caravan | bicycle | tram | car | walk | train | boat | subway",Female,Blick-Bartell
+05-19-1979,27-May-1979,"Yangon | Myanmar","bicycle ; tram ; airplane ; car ; motorcycle ; bus ; train ; boat",Masc,"Heaney Inc"
+01-13-2004,21-Jan-2004,"Rio de Janeiro ; Brazil","subway - airplane - ferry - caravan",masc,"Botsford Inc"
+02-05-1981,11-Feb-1981,"Yangon - Myanmar","horse | ferry | car | taxi | boat | walk | tram | bicycle",fem,Schmeler-Renner
+09-28-1998,04-Oct-1998,"Rio de Janeiro - Brazil","taxi | walk | subway | caravan | bicycle | airplane | horse",Fem,"Leannon, Cassin and Trantow"
+03-07-2016,16-Mar-2016,"Mumbai ; India","tram - boat - caravan - subway",M,Kerluke-Armstrong
+03-13-1971,18-Mar-1971,"Mexico City ; Mexico","train - caravan - boat - ferry - car",F,Kerluke-Armstrong
+09-28-1988,05-Oct-1988,"Delhi ; India","bus ; bicycle ; train ; horse ; boat ; airplane ; taxi",Masc,Rogahn-Crist
+01-12-2020,16-Jan-2020,"Mexico City ; Mexico","subway ; horse ; motorcycle ; airplane ; walk ; train ; caravan ; bus",fem,"Kulas LLC"
+03-12-1971,17-Mar-1971,"Chennai | India","ferry - tram - horse - subway - walk - motorcycle",Masc,"Altenwerth and Sons"
+07-28-1980,01-Aug-1980,"Dhaka | Bangladesh","boat | bus | motorcycle | car | ferry | walk",Female,Quigley-Braun
+02-15-1989,24-Feb-1989,"Chennai - India","bicycle ; tram ; train ; caravan ; subway ; ferry ; airplane ; taxi",F,Langosh-Franecki
+12-08-1980,12-Dec-1980,"Delhi - India","taxi ; motorcycle ; train ; horse ; bicycle ; caravan",Fem,Wolff-Cartwright
+06-09-2021,18-Jun-2021,"Ankara | Turkey","caravan - train - ferry - motorcycle",Male,Rogahn-Crist
+04-20-2011,30-Apr-2011,"Beijing | China","subway ; boat ; motorcycle ; bus ; airplane ; car ; tram",Female,"Botsford Inc"
+07-10-2016,15-Jul-2016,"Dhaka ; Bangladesh","bus - walk - car - motorcycle - boat - tram - caravan - subway",Male,"Cremin Inc"
+12-07-1974,15-Dec-1974,"Durban ; South Africa","ferry | airplane | tram | horse | boat",Masc,Feest-Bode
+06-23-1970,30-Jun-1970,"Hanoi - Vietnam","boat ; motorcycle ; taxi ; ferry ; horse ; airplane ; car ; bicycle",masc,"Cole Group"
+08-04-2007,10-Aug-2007,"Dhaka | Bangladesh","bicycle ; caravan ; boat ; car ; walk",M,Feest-Bode
+06-26-1984,06-Jul-1984,"Delhi ; India","bicycle - car - tram - train - bus - caravan - motorcycle",F,Grant-Hand
+03-04-1979,08-Mar-1979,"Beijing ; China","boat | motorcycle | train | bus | airplane",Fem,"Kassulke, Rath and Upton"
+04-04-1999,08-Apr-1999,"Ankara - Turkey","car | caravan | bus | tram | boat | bicycle | train | ferry",Female,"Nienow LLC"
+01-28-1992,05-Feb-1992,"Pune | India","boat - tram - caravan - airplane - subway - bus",masc,"Hodkiewicz, Luettgen and Stoltenberg"
+04-18-1997,23-Apr-1997,"Chennai | India","motorcycle ; walk ; train ; horse",masc,"Fritsch, Hegmann and Mueller"
+06-02-1993,08-Jun-1993,"Yangon ; Myanmar","subway | bicycle | boat | walk | ferry | car | airplane",Male,"Fritsch, Hegmann and Mueller"
+10-24-1992,28-Oct-1992,"Rio de Janeiro - Brazil","bicycle - horse - train - taxi - car - subway - ferry",Fem,"Kulas LLC"
+03-10-2007,16-Mar-2007,"Lagos | Nigeria","airplane ; bicycle ; horse ; train ; tram",M,Grant-Hand
+09-21-2008,30-Sep-2008,"Abidjan ; Ivory Coast","ferry ; tram ; motorcycle ; airplane ; train ; bus",Male,Schmeler-Renner
+08-07-1991,11-Aug-1991,"Casablanca | Morocco","boat | subway | tram | ferry",M,"Kulas LLC"
+12-18-1982,22-Dec-1982,"Beijing ; China","motorcycle | boat | walk | bus | ferry | airplane",Fem,"Heaney - Robel and Witting"
+05-04-1972,09-May-1972,"Johannesburg ; South Africa","taxi - subway - car - ferry - horse - bicycle - motorcycle",masc,"Fritsch, Hegmann and Mueller"
+09-26-1996,04-Oct-1996,"Beijing | China","taxi ; train ; tram ; motorcycle",Fem,Blick-Bartell
+02-13-2019,22-Feb-2019,"London | United Kingdom","motorcycle ; horse ; taxi ; train ; caravan ; boat ; bus ; bicycle",Fem,Kerluke-Armstrong
+08-25-1975,01-Sep-1975,"Yangon | Myanmar","subway - motorcycle - tram - boat",fem,"Nienow LLC"
+07-01-2006,07-Jul-2006,"Chennai - India","motorcycle ; bus ; tram ; taxi ; walk ; boat",Male,"Altenwerth and Sons"
+04-02-1996,11-Apr-1996,"Chennai - India","bus | tram | taxi | subway | bicycle | train | caravan",M,"Ledner LLC"
+02-07-1975,15-Feb-1975,"Rio de Janeiro ; Brazil","boat - taxi - horse - airplane - motorcycle",F,"Botsford Inc"
+03-19-2013,27-Mar-2013,"Dhaka ; Bangladesh","walk ; caravan ; train ; airplane ; tram ; ferry",fem,"Altenwerth and Sons"
+03-23-1970,31-Mar-1970,"Lagos - Nigeria","boat ; bus ; taxi ; ferry ; motorcycle ; train ; tram",M,Feest-Bode
+06-12-2006,16-Jun-2006,"Rio de Janeiro - Brazil","subway | car | ferry | motorcycle | bicycle",F,"Heaney - Robel and Witting"
+05-23-1977,27-May-1977,"Beijing ; China","bus | motorcycle | taxi | boat | caravan | airplane",Male,Grant-Hand
+12-08-1982,13-Dec-1982,"Ankara | Turkey","tram ; bus ; ferry ; walk ; horse ; caravan",Female,"Lubowitz, Prohaska and Reilly"
+07-19-1980,29-Jul-1980,"Yangon | Myanmar","taxi - motorcycle - airplane - bus - subway",masc,"Fritsch, Hegmann and Mueller"
+04-25-1983,03-May-1983,"Rio de Janeiro | Brazil","taxi | tram | caravan | subway | airplane | bicycle | boat | bus",Fem,"Heaney Inc"
+04-17-1979,21-Apr-1979,"Mumbai | India","airplane | walk | ferry | train | motorcycle | caravan",Masc,Quigley-Braun
+07-07-2021,16-Jul-2021,"Hanoi - Vietnam","taxi | train | subway | car | walk",F,"Botsford Inc"
+07-21-1986,30-Jul-1986,"Lahore | Pakistan","train ; bus ; horse ; bicycle ; ferry",Female,"Schinner, Sauer and Powlowski"
+12-24-1991,31-Dec-1991,"Alexandria ; Egypt","bicycle ; walk ; horse ; taxi ; bus",F,Grant-Hand
+05-01-1990,10-May-1990,"Lagos - Nigeria","horse ; taxi ; bus ; airplane ; bicycle ; caravan ; car ; motorcycle",fem,"Funk, Morar and Rodriguez"
+01-04-2004,14-Jan-2004,"Durban | South Africa","airplane | taxi | car | subway | ferry | caravan | bicycle | train",fem,"Nienow LLC"
+08-30-2018,05-Sep-2018,"Hanoi | Vietnam","ferry ; bicycle ; caravan ; taxi ; subway",M,"Heaney - Robel and Witting"
+07-27-1989,06-Aug-1989,"Abidjan | Ivory Coast","train ; bicycle ; tram ; ferry ; subway ; bus ; taxi ; motorcycle",masc,"Medhurst, Streich and Schamberger"
+09-28-2020,06-Oct-2020,"Mumbai - India","caravan | tram | boat | ferry | bus | car",M,"Botsford Inc"
+06-10-2007,20-Jun-2007,"Bangkok ; Thailand","car - train - tram - caravan - motorcycle - subway",Fem,Cruickshank-Franecki
+08-16-2008,26-Aug-2008,"Lahore ; Pakistan","boat ; caravan ; bus ; taxi",F,"Kassulke, Rath and Upton"
+04-14-2000,18-Apr-2000,"Lagos ; Nigeria","boat - walk - airplane - bus - horse - subway - bicycle",fem,"Lubowitz, Prohaska and Reilly"
+03-19-2016,24-Mar-2016,"Abidjan ; Ivory Coast","tram | train | ferry | horse",F,"Dare, Hoppe and Moore"
+10-19-2006,29-Oct-2006,"London | United Kingdom","horse - bicycle - motorcycle - subway - tram - walk - ferry - car",Fem,"Hintz Group"
+09-17-2015,27-Sep-2015,"Johannesburg | South Africa","walk | ferry | motorcycle | airplane | horse",Male,"Hintz Group"
+03-27-1981,31-Mar-1981,"Abidjan ; Ivory Coast","boat ; airplane ; walk ; train ; motorcycle ; subway ; bus ; bicycle",fem,"Hintz Group"
+12-04-1972,13-Dec-1972,"Ankara - Turkey","taxi ; motorcycle ; walk ; subway ; horse ; train",Masc,Quigley-Braun
+02-14-1991,19-Feb-1991,"Dhaka ; Bangladesh","motorcycle ; horse ; caravan ; bus",Female,"Rempel and Sons"
+03-21-2013,26-Mar-2013,"Durban | South Africa","tram ; horse ; walk ; taxi ; boat ; subway ; motorcycle",Fem,"Rempel and Sons"
+12-18-1972,27-Dec-1972,"Lagos | Nigeria","boat ; walk ; bicycle ; taxi ; motorcycle",Masc,Champlin-Kemmer
+04-11-1996,17-Apr-1996,"Yangon - Myanmar","car ; walk ; taxi ; airplane ; subway ; ferry ; caravan ; bicycle",F,"Kassulke, Rath and Upton"
+06-25-1977,30-Jun-1977,"Alexandria | Egypt","airplane ; bus ; taxi ; tram ; train ; car ; ferry",Fem,"Medhurst, Streich and Schamberger"
+06-24-1986,29-Jun-1986,"Bangkok ; Thailand","car | taxi | walk | boat | train",fem,Kerluke-Armstrong
+01-19-1993,25-Jan-1993,"Mumbai ; India","tram - bus - train - ferry - boat - bicycle",Fem,"Murray LLC"
+03-13-1983,23-Mar-1983,"Alexandria | Egypt","bicycle | train | motorcycle | horse | boat",Female,"Ledner LLC"
+10-28-2005,02-Nov-2005,"Delhi ; India","airplane ; walk ; horse ; tram ; taxi",M,"Hayes, Bins and Considine"
+01-06-1997,16-Jan-1997,"Mumbai | India","boat | motorcycle | car | horse",M,"Altenwerth and Sons"
+10-18-2009,26-Oct-2009,"Hanoi - Vietnam","car | train | bicycle | ferry",F,"Fritsch, Hegmann and Mueller"
+01-19-2012,25-Jan-2012,"Chennai | India","boat - bicycle - caravan - ferry - taxi - walk - tram - airplane",Female,Langosh-Franecki
+10-28-2021,02-Nov-2021,"Mumbai | India","boat | taxi | bicycle | walk | motorcycle | car",F,Wolff-Cartwright
+05-28-2012,02-Jun-2012,"Lahore ; Pakistan","bicycle ; boat ; bus ; subway ; ferry",M,"Feil LLC"
+05-11-1989,20-May-1989,"Hanoi ; Vietnam","tram ; train ; horse ; motorcycle ; bus ; subway ; walk",masc,"Ledner LLC"
+05-04-1992,11-May-1992,"Rio de Janeiro | Brazil","train ; subway ; airplane ; walk ; horse ; bicycle ; bus",Male,Schmeler-Renner
+05-31-2018,07-Jun-2018,"Abidjan - Ivory Coast","train ; bus ; ferry ; airplane ; subway",masc,"Feil LLC"
+06-06-2008,10-Jun-2008,"London - United Kingdom","subway - bus - horse - tram - ferry - taxi - car",masc,Kerluke-Armstrong
+11-10-1982,17-Nov-1982,"Addis Ababa - Ethiopia","bus - car - motorcycle - horse - train - boat",Male,Wolff-Cartwright
+07-18-1971,24-Jul-1971,"Mexico City - Mexico","motorcycle - tram - car - ferry - bus",F,"Altenwerth and Sons"
+09-22-1973,01-Oct-1973,"Abidjan | Ivory Coast","motorcycle | subway | airplane | walk | bus | boat | tram | caravan",F,"Kulas LLC"
+09-13-2008,20-Sep-2008,"Pune ; India","car ; train ; walk ; ferry ; motorcycle ; caravan ; tram ; airplane",Female,"Lubowitz, Prohaska and Reilly"
+09-15-1998,20-Sep-1998,"Yangon - Myanmar","bicycle | tram | boat | subway | bus | car",M,"Dare, Hoppe and Moore"
+03-13-1997,17-Mar-1997,"London - United Kingdom","boat ; subway ; caravan ; bicycle",masc,"Botsford Inc"
+07-11-1977,16-Jul-1977,"Hanoi - Vietnam","horse - taxi - tram - bus - airplane - caravan",masc,"Lubowitz, Prohaska and Reilly"
+04-06-2007,10-Apr-2007,"Chennai ; India","motorcycle ; airplane ; horse ; tram ; walk ; subway ; bus ; taxi",Female,Champlin-Kemmer
+03-01-2005,11-Mar-2005,"Casablanca | Morocco","motorcycle | caravan | horse | tram | car | subway",masc,"Heaney Inc"
+01-19-1987,29-Jan-1987,"Beijing ; China","horse - bus - subway - ferry - airplane - taxi",M,Schmeler-Renner
+10-25-1988,03-Nov-1988,"Delhi | India","boat | car | airplane | taxi | tram",M,"Fritsch, Hegmann and Mueller"
+07-10-1975,18-Jul-1975,"Johannesburg | South Africa","subway | taxi | bicycle | motorcycle | ferry | airplane",fem,Blick-Bartell
+05-07-1982,14-May-1982,"Abidjan | Ivory Coast","horse | subway | train | ferry | airplane | walk",masc,"Hintz Group"
+02-15-2001,21-Feb-2001,"Addis Ababa - Ethiopia","motorcycle | bus | horse | airplane | subway | walk",M,"Feil LLC"
+12-28-1988,02-Jan-1989,"Durban ; South Africa","ferry - walk - bicycle - caravan - tram - subway - horse",Fem,"Funk, Morar and Rodriguez"
+12-04-2002,14-Dec-2002,"Yangon | Myanmar","subway | taxi | train | walk | car | tram | motorcycle",fem,"Kassulke, Rath and Upton"
+11-28-1979,07-Dec-1979,"Beijing - China","horse ; taxi ; tram ; bus ; boat",Fem,"Schinner, Sauer and Powlowski"
+12-07-1980,16-Dec-1980,"Yangon - Myanmar","taxi - horse - car - walk - caravan",masc,Wolff-Cartwright
+06-04-1988,12-Jun-1988,"Abidjan | Ivory Coast","bicycle ; horse ; car ; subway ; bus ; boat ; tram",Fem,"Hayes, Bins and Considine"
+06-18-1978,28-Jun-1978,"Hanoi | Vietnam","boat - bus - horse - taxi",masc,"Leannon, Cassin and Trantow"
+03-21-1997,30-Mar-1997,"Alexandria ; Egypt","subway | airplane | train | motorcycle | tram | walk | car | bus",Female,"Hayes, Bins and Considine"
+04-01-2009,05-Apr-2009,"Casablanca | Morocco","tram - ferry - boat - taxi - car - motorcycle",Male,"Schinner, Sauer and Powlowski"
+08-15-2020,22-Aug-2020,"London - United Kingdom","ferry | boat | car | horse | caravan | bicycle",F,Schmeler-Renner
+06-08-1971,14-Jun-1971,"Dhaka | Bangladesh","bus ; airplane ; walk ; bicycle ; horse ; caravan ; car ; train",fem,"Feil LLC"
+08-12-2019,16-Aug-2019,"Mumbai ; India","horse | caravan | taxi | bicycle | car",F,"Hodkiewicz, Luettgen and Stoltenberg"
+09-19-1971,28-Sep-1971,"Rio de Janeiro | Brazil","taxi | horse | motorcycle | walk | boat | subway",fem,"Lubowitz, Prohaska and Reilly"
+07-12-2020,22-Jul-2020,"Mumbai ; India","taxi - tram - airplane - subway - ferry - motorcycle - bus",fem,Cruickshank-Franecki
+04-08-2004,12-Apr-2004,"Dhaka ; Bangladesh","tram - ferry - caravan - motorcycle - bus",masc,White-Stroman
+07-24-1988,29-Jul-1988,"Rio de Janeiro ; Brazil","train ; car ; boat ; caravan ; motorcycle ; subway",Female,"Murray LLC"
+07-01-1977,11-Jul-1977,"Yangon ; Myanmar","train | ferry | motorcycle | subway | bus | walk | taxi",M,"Altenwerth and Sons"
+12-26-1996,01-Jan-1997,"Ankara - Turkey","bus | train | ferry | caravan | tram | airplane | subway",masc,"Feil LLC"
+12-03-2020,10-Dec-2020,"Chennai - India","airplane | tram | subway | ferry | bicycle | bus",Female,Rogahn-Crist
+10-05-1981,15-Oct-1981,"Bangkok - Thailand","boat | walk | car | caravan | taxi | train | motorcycle",Female,Champlin-Kemmer
+11-26-1981,02-Dec-1981,"Dhaka - Bangladesh","bus ; ferry ; tram ; caravan ; motorcycle ; walk",Fem,"Cremin Inc"
+07-07-2014,12-Jul-2014,"Hanoi - Vietnam","bus | ferry | horse | tram | bicycle",fem,Kerluke-Armstrong
+11-07-2013,17-Nov-2013,"Abidjan | Ivory Coast","walk ; car ; caravan ; boat ; bus ; subway ; motorcycle ; horse",Male,"Altenwerth and Sons"
+07-25-1993,29-Jul-1993,"Beijing ; China","ferry ; motorcycle ; car ; walk ; tram ; bus ; bicycle ; horse",fem,Schmeler-Renner
+07-18-1993,28-Jul-1993,"Lagos - Nigeria","train ; airplane ; walk ; taxi",F,"Hodkiewicz, Luettgen and Stoltenberg"
+09-12-1985,16-Sep-1985,"Rio de Janeiro ; Brazil","walk - tram - taxi - boat - bicycle - subway - ferry - bus",Female,"Bahringer LLC"
+10-18-2007,27-Oct-2007,"Delhi - India","car | boat | horse | taxi",Fem,Quigley-Braun
+06-07-1995,12-Jun-1995,"Durban ; South Africa","car | tram | motorcycle | horse | airplane",Fem,Schmeler-Renner
+11-15-1988,23-Nov-1988,"Mexico City ; Mexico","boat ; taxi ; train ; caravan ; motorcycle ; tram ; bicycle",Female,"Heaney - Robel and Witting"
+06-09-2003,14-Jun-2003,"Johannesburg ; South Africa","train - airplane - ferry - bus",Male,"Schinner, Sauer and Powlowski"
+01-30-2017,03-Feb-2017,"Ankara ; Turkey","caravan ; boat ; ferry ; motorcycle ; train",Female,Champlin-Kemmer
+03-19-1982,26-Mar-1982,"Delhi - India","ferry | tram | bicycle | caravan | subway",F,"Cole Group"
+07-19-1992,25-Jul-1992,"Dhaka ; Bangladesh","tram - motorcycle - train - boat - walk",Masc,Rogahn-Crist
+02-10-1987,18-Feb-1987,"Addis Ababa | Ethiopia","airplane - tram - subway - car - caravan - bus",masc,Langosh-Franecki
+07-17-2020,27-Jul-2020,"Hanoi | Vietnam","ferry - bus - tram - taxi - motorcycle - boat - airplane",Masc,"Altenwerth and Sons"
+04-16-1991,25-Apr-1991,"Mumbai - India","bicycle - caravan - taxi - horse - tram",F,Kerluke-Armstrong
+09-17-2004,21-Sep-2004,"Lahore ; Pakistan","tram ; horse ; motorcycle ; walk ; bus ; train",Female,"Bahringer LLC"
+07-27-2005,01-Aug-2005,"Johannesburg | South Africa","train ; airplane ; motorcycle ; bicycle ; caravan ; car ; bus",M,Quigley-Braun
+09-02-2001,11-Sep-2001,"Casablanca | Morocco","horse | taxi | bus | caravan",masc,"Goldner LLC"
+07-20-2008,28-Jul-2008,"Bangkok | Thailand","subway ; horse ; taxi ; walk ; bus",Male,Schmeler-Renner
+07-04-1990,11-Jul-1990,"Addis Ababa ; Ethiopia","ferry | boat | motorcycle | horse | bicycle | train | tram | subway",Masc,"Botsford Inc"
+09-16-2002,20-Sep-2002,"Casablanca - Morocco","horse - motorcycle - bicycle - walk - caravan - bus",F,"Murray LLC"
+03-19-2009,28-Mar-2009,"Rio de Janeiro ; Brazil","bus - walk - taxi - subway - horse",Fem,"Heaney - Robel and Witting"
+10-22-1993,30-Oct-1993,"Addis Ababa - Ethiopia","bus ; taxi ; bicycle ; ferry ; motorcycle",F,"Koelpin, Hoppe and Corwin"
+04-11-2005,15-Apr-2005,"Chennai ; India","walk - caravan - subway - car",fem,"Kulas LLC"
+05-08-1990,13-May-1990,"Lahore | Pakistan","taxi | caravan | car | airplane | train",masc,Champlin-Kemmer
+08-27-1988,05-Sep-1988,"Mumbai - India","car ; boat ; bicycle ; train",Masc,Rogahn-Crist
+01-30-2016,08-Feb-2016,"Dhaka - Bangladesh","tram ; walk ; subway ; caravan ; boat ; ferry ; airplane",Male,"Kassulke, Rath and Upton"
+08-17-2002,26-Aug-2002,"Mumbai | India","walk - taxi - tram - car - boat - airplane - caravan - train",masc,Langosh-Franecki
+08-05-1991,15-Aug-1991,"Mumbai ; India","walk ; bicycle ; taxi ; ferry ; airplane ; motorcycle ; subway ; boat",Male,"Fritsch, Hegmann and Mueller"
+12-11-2017,20-Dec-2017,"Lagos | Nigeria","bicycle ; boat ; subway ; caravan ; bus ; car",masc,Blick-Bartell
+05-24-1999,30-May-1999,"Durban ; South Africa","train ; taxi ; bicycle ; motorcycle ; subway ; tram",fem,"Cremin Inc"
+11-28-1993,06-Dec-1993,"London | United Kingdom","motorcycle ; taxi ; subway ; boat ; airplane ; car ; bus",masc,"Hayes, Bins and Considine"
+12-28-1976,05-Jan-1977,"Chennai - India","caravan | train | airplane | taxi | horse",masc,"Bahringer LLC"
+06-03-1994,08-Jun-1994,"Alexandria ; Egypt","ferry | airplane | caravan | subway | taxi | boat | bus | train",masc,Feest-Bode
+07-22-2010,26-Jul-2010,"Rio de Janeiro ; Brazil","tram - bus - horse - subway - airplane - caravan",F,"Ledner LLC"
+07-23-2009,02-Aug-2009,"Mexico City | Mexico","horse | car | motorcycle | ferry | subway",masc,Quigley-Braun
+07-07-2001,16-Jul-2001,"Delhi ; India","motorcycle - bicycle - boat - tram - horse - train - ferry - caravan",Fem,"Goldner LLC"
+02-17-1990,24-Feb-1990,"Abidjan ; Ivory Coast","ferry ; boat ; car ; bus",Masc,"Altenwerth and Sons"
+06-23-2016,30-Jun-2016,"Lahore | Pakistan","caravan ; subway ; tram ; train ; walk ; taxi ; airplane ; car",masc,Quigley-Braun
+02-28-2001,06-Mar-2001,"Delhi | India","bus - taxi - boat - bicycle - caravan",Masc,"Fritsch, Hegmann and Mueller"
+04-08-2018,15-Apr-2018,"Lahore | Pakistan","bus ; boat ; walk ; caravan ; motorcycle ; bicycle ; ferry ; horse",Male,Champlin-Kemmer
+11-08-1996,17-Nov-1996,"Chennai - India","caravan | bus | ferry | train | subway | airplane",Male,Rogahn-Crist
+08-21-1991,29-Aug-1991,"Hanoi - Vietnam","caravan - bus - subway - train",M,"Rempel and Sons"
+04-17-2006,21-Apr-2006,"Beijing - China","subway | caravan | boat | tram | train",Fem,Wolff-Cartwright
+12-23-1995,31-Dec-1995,"Dhaka ; Bangladesh","taxi - horse - tram - airplane - caravan - boat - bicycle",fem,"Rempel and Sons"
+05-06-2004,16-May-2004,"Delhi ; India","bus ; bicycle ; airplane ; boat ; car ; ferry ; motorcycle",Fem,"Dare, Hoppe and Moore"
+11-17-2007,23-Nov-2007,"Mexico City - Mexico","motorcycle ; caravan ; bicycle ; bus ; horse",Fem,Wolff-Cartwright
+03-03-1992,09-Mar-1992,"Ankara ; Turkey","tram - horse - airplane - motorcycle - caravan",F,Wolff-Cartwright
+04-08-2011,18-Apr-2011,"Rio de Janeiro ; Brazil","tram | airplane | walk | bus | bicycle | train | taxi | car",Masc,"Kulas LLC"
+10-22-1986,31-Oct-1986,"Chennai | India","bicycle | caravan | horse | train | subway | airplane",M,Quigley-Braun
+09-18-2012,23-Sep-2012,"Mexico City ; Mexico","car ; bus ; boat ; walk",fem,"Fritsch, Hegmann and Mueller"
+01-02-1993,06-Jan-1993,"Mumbai | India","airplane | car | train | boat",M,"Dare, Hoppe and Moore"
+01-03-2010,11-Jan-2010,"Bangkok ; Thailand","bus ; horse ; car ; airplane ; train ; subway",M,"Botsford Inc"
+07-15-1997,22-Jul-1997,"Lagos - Nigeria","train | taxi | airplane | motorcycle | boat | car | subway | horse",fem,Wolff-Cartwright
+04-03-1994,09-Apr-1994,"Lahore - Pakistan","bicycle | horse | motorcycle | taxi | airplane | ferry | caravan | bus",Masc,Feest-Bode
+02-17-2007,22-Feb-2007,"Bangkok ; Thailand","airplane - ferry - motorcycle - walk - bus - subway - car - tram",Fem,"Cole Group"
+02-28-1972,08-Mar-1972,"Hanoi - Vietnam","train | airplane | walk | boat | subway",Male,Feest-Bode
+08-21-1985,27-Aug-1985,"Hanoi ; Vietnam","bus | taxi | boat | tram",M,Kerluke-Armstrong
+03-15-2001,22-Mar-2001,"Lahore - Pakistan","motorcycle | ferry | boat | caravan | bus | horse",Fem,White-Stroman
+09-28-2010,07-Oct-2010,"Yangon ; Myanmar","airplane - train - taxi - horse - car - walk",Fem,"Heaney - Robel and Witting"
+05-01-1973,08-May-1973,"Bangkok - Thailand","caravan ; bus ; motorcycle ; tram ; horse ; taxi ; bicycle",M,Rogahn-Crist
+12-25-1997,31-Dec-1997,"Casablanca | Morocco","bus ; bicycle ; airplane ; horse ; caravan ; subway ; car",Masc,"Fritsch, Hegmann and Mueller"
+03-09-1982,17-Mar-1982,"Mumbai ; India","horse - car - taxi - tram - motorcycle",F,"Dare, Hoppe and Moore"
+06-26-1996,06-Jul-1996,"Lagos | Nigeria","taxi ; bus ; horse ; subway ; boat ; caravan",Masc,"Heaney - Robel and Witting"
+03-06-2003,13-Mar-2003,"Lahore | Pakistan","subway ; taxi ; walk ; bus ; caravan ; tram ; boat ; airplane",M,"Fritsch, Hegmann and Mueller"
+12-07-1990,14-Dec-1990,"Alexandria - Egypt","horse ; bicycle ; car ; train ; boat",Masc,"Heaney Inc"
+07-10-2008,16-Jul-2008,"Lahore - Pakistan","tram | walk | motorcycle | car",M,"Leannon, Cassin and Trantow"
+04-06-1992,13-Apr-1992,"Delhi - India","subway | walk | tram | boat",F,"Schinner, Sauer and Powlowski"
+09-03-2005,11-Sep-2005,"Delhi | India","bicycle ; caravan ; walk ; car",masc,"Goldner LLC"
+06-05-1994,11-Jun-1994,"London | United Kingdom","bus ; bicycle ; horse ; walk ; airplane",fem,Grant-Hand
+11-04-2019,12-Nov-2019,"Hanoi | Vietnam","ferry ; train ; bicycle ; horse",Female,"Koelpin, Hoppe and Corwin"
+11-23-2000,27-Nov-2000,"Ankara - Turkey","motorcycle | airplane | horse | taxi",Male,Blick-Bartell
+11-08-2016,14-Nov-2016,"Bangkok | Thailand","airplane - tram - walk - car - caravan - motorcycle - taxi - horse",Male,"Hodkiewicz, Luettgen and Stoltenberg"
+07-13-1979,22-Jul-1979,"Rio de Janeiro | Brazil","caravan ; horse ; bus ; bicycle",Masc,"Heaney Inc"
+03-13-1996,17-Mar-1996,"Durban - South Africa","subway | taxi | bicycle | walk | horse | bus | motorcycle",Male,Quigley-Braun
+03-31-2020,04-Apr-2020,"Casablanca - Morocco","caravan - subway - airplane - ferry - taxi - car - bicycle - motorcycle",M,"Schaden LLC"
+11-24-2001,02-Dec-2001,"Casablanca | Morocco","airplane | ferry | tram | taxi | boat | bicycle",Masc,White-Stroman
+06-01-2012,10-Jun-2012,"Dhaka | Bangladesh","train ; horse ; bicycle ; tram",M,"Heaney Inc"
+01-11-2007,16-Jan-2007,"Hanoi - Vietnam","walk | ferry | subway | bicycle | boat | taxi | airplane",Female,"Schinner, Sauer and Powlowski"
+12-20-1975,28-Dec-1975,"Ankara - Turkey","bus - tram - boat - caravan - airplane",Male,"Murray LLC"
+02-10-1995,14-Feb-1995,"Alexandria | Egypt","bus | motorcycle | walk | ferry | car | taxi | boat | tram",Male,"Rempel and Sons"
+06-10-1975,19-Jun-1975,"Bangkok ; Thailand","subway - bus - taxi - train - bicycle - airplane",Male,"Heaney Inc"
+11-12-2004,21-Nov-2004,"Mexico City - Mexico","car - horse - train - motorcycle",masc,Blick-Bartell
+02-11-2009,19-Feb-2009,"London | United Kingdom","motorcycle | ferry | taxi | tram",Masc,White-Stroman
+09-14-1983,22-Sep-1983,"Hanoi ; Vietnam","subway - bicycle - motorcycle - horse",M,"Cremin Inc"
+02-09-1993,14-Feb-1993,"Rio de Janeiro - Brazil","ferry ; bus ; taxi ; walk ; train ; car ; bicycle",Fem,"Dare, Hoppe and Moore"
+11-26-1993,01-Dec-1993,"Hanoi ; Vietnam","boat | walk | car | ferry | train | subway",Masc,Feest-Bode
+04-19-1973,29-Apr-1973,"Abidjan - Ivory Coast","train ; bus ; motorcycle ; tram ; airplane ; boat ; caravan ; taxi",masc,Blick-Bartell
+05-12-2014,20-May-2014,"Ankara ; Turkey","train | motorcycle | ferry | subway | taxi | boat | caravan | bicycle",Fem,Grant-Hand
+04-25-1999,30-Apr-1999,"Addis Ababa - Ethiopia","taxi ; ferry ; subway ; train",Fem,"Rempel and Sons"
+09-07-1977,14-Sep-1977,"Ankara - Turkey","motorcycle - taxi - airplane - car - bus",Masc,Cruickshank-Franecki
+04-26-1985,02-May-1985,"Chennai - India","taxi - caravan - horse - airplane - ferry - tram - walk - bicycle",Masc,"Schinner, Sauer and Powlowski"
+08-10-1991,15-Aug-1991,"Durban | South Africa","boat | subway | airplane | bicycle | taxi",Masc,"Kulas LLC"
+05-12-2006,19-May-2006,"Johannesburg | South Africa","motorcycle - boat - taxi - tram - walk - train - car - bicycle",F,"Fritsch, Hegmann and Mueller"
+07-12-1999,19-Jul-1999,"Johannesburg | South Africa","caravan - airplane - taxi - bus - boat - walk - ferry - motorcycle",F,"Murray LLC"
+04-15-1982,24-Apr-1982,"Rio de Janeiro | Brazil","walk | car | boat | bus | subway | ferry | train | taxi",Female,"Murray LLC"
+11-14-2009,22-Nov-2009,"Hanoi - Vietnam","tram ; subway ; airplane ; bus ; bicycle ; taxi ; boat ; motorcycle",Masc,"Heaney Inc"
+04-27-1982,01-May-1982,"Johannesburg - South Africa","ferry | motorcycle | bus | taxi",Masc,Wolff-Cartwright
+01-13-1993,21-Jan-1993,"Abidjan | Ivory Coast","walk | car | taxi | tram | caravan | train | bus",Female,"Schaden LLC"
+06-12-2015,16-Jun-2015,"Hanoi ; Vietnam","taxi - subway - horse - caravan - car",masc,White-Stroman
+08-11-1979,18-Aug-1979,"Yangon | Myanmar","horse - caravan - tram - motorcycle - car - subway - boat - train",Fem,"Murray LLC"
+05-10-2007,15-May-2007,"Lagos - Nigeria","bicycle - walk - subway - caravan - train - ferry - taxi - bus",Masc,Champlin-Kemmer
+05-14-1973,22-May-1973,"Beijing ; China","ferry - taxi - train - bus",fem,"Rempel and Sons"
+12-17-1995,25-Dec-1995,"Addis Ababa | Ethiopia","car ; ferry ; bus ; subway ; motorcycle ; caravan ; walk",F,"Sporer Group"
+06-30-2000,10-Jul-2000,"Chennai | India","tram | bicycle | train | subway | bus",M,"Leannon, Cassin and Trantow"
+07-14-2002,20-Jul-2002,"Dhaka | Bangladesh","motorcycle - taxi - car - boat - airplane - caravan - horse",masc,"Bahringer LLC"
+08-17-2017,24-Aug-2017,"Ankara | Turkey","train - tram - airplane - car - boat - caravan - bus - taxi",Female,"Bahringer LLC"
+06-22-2005,29-Jun-2005,"Beijing - China","airplane - tram - ferry - subway - horse - motorcycle - bus - walk",Masc,"Bahringer LLC"
+05-15-2021,25-May-2021,"Hanoi | Vietnam","bus ; train ; boat ; horse ; taxi ; tram ; motorcycle ; ferry",Male,"Leannon, Cassin and Trantow"
+08-14-1985,21-Aug-1985,"Chennai ; India","train | ferry | car | caravan",Masc,Wolff-Cartwright
+06-22-2016,30-Jun-2016,"Lahore - Pakistan","caravan - taxi - subway - bicycle - bus - horse - airplane - walk",M,Schmeler-Renner
+09-26-2006,04-Oct-2006,"Johannesburg | South Africa","taxi - ferry - bicycle - boat - subway - caravan",Male,"Bahringer LLC"
+12-26-2018,05-Jan-2019,"London - United Kingdom","bus - walk - boat - tram - airplane - car",F,"Ledner LLC"
+05-25-2014,03-Jun-2014,"Mexico City | Mexico","subway | train | ferry | tram | horse | taxi",Male,"Heaney - Robel and Witting"
+11-08-2003,18-Nov-2003,"Ankara - Turkey","boat ; taxi ; motorcycle ; walk ; subway ; caravan ; car ; bicycle",masc,"Altenwerth and Sons"
+10-17-1999,25-Oct-1999,"Lagos - Nigeria","caravan | bus | bicycle | tram | motorcycle",Male,"Hayes, Bins and Considine"
+04-18-2003,25-Apr-2003,"Abidjan | Ivory Coast","car | motorcycle | bus | train | boat | walk | taxi | ferry",F,"Leannon, Cassin and Trantow"
+12-30-2015,05-Jan-2016,"Johannesburg - South Africa","taxi - caravan - bus - subway - tram",fem,"Koelpin, Hoppe and Corwin"
+04-27-1980,03-May-1980,"Chennai - India","bus | airplane | boat | ferry | walk | car | motorcycle | horse",Male,"Altenwerth and Sons"
+01-20-2017,25-Jan-2017,"Hanoi ; Vietnam","horse - train - motorcycle - boat - subway - walk - taxi",Masc,White-Stroman
+03-22-2004,01-Apr-2004,"Johannesburg ; South Africa","tram - bicycle - subway - airplane - horse - bus - ferry",Masc,"Cremin Inc"
+10-17-1975,26-Oct-1975,"Ankara - Turkey","caravan | tram | airplane | taxi | boat | train",F,"Heaney Inc"
+08-11-1992,21-Aug-1992,"Pune ; India","horse - bus - bicycle - boat - motorcycle - car - walk - ferry",Male,"Bahringer LLC"
+11-11-2012,18-Nov-2012,"Pune | India","motorcycle ; airplane ; bicycle ; boat ; ferry ; horse ; walk",Masc,"Nienow LLC"
+08-29-1987,02-Sep-1987,"Mumbai ; India","subway | bus | walk | bicycle | taxi",fem,"Heaney Inc"
+01-11-1980,15-Jan-1980,"Yangon - Myanmar","boat - bus - subway - caravan - bicycle - train - horse",F,"Sporer Group"
+09-28-1997,08-Oct-1997,"Casablanca | Morocco","taxi ; motorcycle ; ferry ; walk ; bicycle ; car ; horse ; bus",Masc,"Cremin Inc"
+03-08-1978,17-Mar-1978,"Casablanca - Morocco","motorcycle | taxi | tram | bicycle | subway | bus | walk",F,"Feil LLC"
+06-08-1992,13-Jun-1992,"Mumbai ; India","airplane | caravan | taxi | walk | ferry | boat | motorcycle",Masc,Feest-Bode
+02-23-2014,27-Feb-2014,"Hanoi - Vietnam","tram | taxi | subway | train | motorcycle | walk | ferry | bus",Male,"Koelpin, Hoppe and Corwin"
+01-17-1984,22-Jan-1984,"Lagos | Nigeria","bicycle | motorcycle | subway | horse | walk | taxi | airplane | ferry",Male,"Schaden LLC"
+10-11-2012,17-Oct-2012,"Lagos | Nigeria","boat | taxi | bus | walk | subway",M,"Funk, Morar and Rodriguez"
+04-17-2007,24-Apr-2007,"Johannesburg | South Africa","car - train - ferry - taxi - subway - caravan - horse - tram",Masc,"Hintz Group"
+04-25-2016,30-Apr-2016,"Abidjan | Ivory Coast","bus | bicycle | car | walk | motorcycle | caravan | horse",M,"Heaney Inc"
+09-29-1973,05-Oct-1973,"Alexandria ; Egypt","caravan - taxi - boat - horse - car - subway - bicycle - ferry",Fem,"Schinner, Sauer and Powlowski"
+07-18-2017,22-Jul-2017,"Johannesburg ; South Africa","subway | caravan | taxi | train | tram | airplane",M,"Kulas LLC"
+01-11-1998,17-Jan-1998,"Abidjan | Ivory Coast","bus - train - horse - boat - tram - airplane",Female,Kerluke-Armstrong
+08-01-1992,07-Aug-1992,"Dhaka - Bangladesh","taxi - motorcycle - bicycle - caravan - train",Male,Wolff-Cartwright
+12-22-1988,26-Dec-1988,"Alexandria ; Egypt","motorcycle ; bicycle ; taxi ; tram ; boat ; train ; bus ; walk",M,"Hodkiewicz, Luettgen and Stoltenberg"
+03-23-1983,27-Mar-1983,"Durban ; South Africa","ferry ; bus ; bicycle ; horse ; tram ; airplane ; boat",masc,"Rempel and Sons"
+07-06-1985,13-Jul-1985,"Beijing ; China","walk - bicycle - train - car - caravan - subway - ferry - taxi",Male,Langosh-Franecki
+02-25-1971,07-Mar-1971,"Hanoi - Vietnam","ferry ; tram ; subway ; car ; boat ; bicycle ; airplane",M,"Goldner LLC"
+05-14-2006,22-May-2006,"Chennai - India","boat - car - ferry - train - walk - bicycle",fem,"Heaney Inc"
+10-14-2021,24-Oct-2021,"Lagos | Nigeria","tram | horse | motorcycle | bus | taxi",fem,Kerluke-Armstrong
+09-27-2015,04-Oct-2015,"Abidjan ; Ivory Coast","subway - motorcycle - bicycle - bus - boat - caravan - ferry - tram",Female,"Altenwerth and Sons"
+08-02-2002,09-Aug-2002,"Rio de Janeiro | Brazil","airplane ; horse ; ferry ; motorcycle ; bus ; walk",Masc,"Hodkiewicz, Luettgen and Stoltenberg"
+01-31-1973,05-Feb-1973,"Durban ; South Africa","motorcycle - boat - taxi - airplane - train - horse - tram - caravan",masc,"Schaden LLC"
+08-14-1972,18-Aug-1972,"Beijing ; China","tram | train | bicycle | boat",F,"Murray LLC"
+11-10-1994,20-Nov-1994,"Delhi - India","subway | car | airplane | caravan | boat | train | walk",fem,"Cole Group"
+04-04-2015,08-Apr-2015,"Lagos ; Nigeria","motorcycle | walk | subway | airplane | horse",masc,Kerluke-Armstrong
+02-24-1993,28-Feb-1993,"Rio de Janeiro - Brazil","tram - train - caravan - subway - taxi",masc,Blick-Bartell
+12-10-1981,15-Dec-1981,"Pune ; India","bus ; horse ; bicycle ; walk ; tram ; caravan ; car ; taxi",fem,"Botsford Inc"
+09-24-1998,03-Oct-1998,"Rio de Janeiro - Brazil","subway - motorcycle - bus - bicycle - tram - walk - taxi",Masc,Champlin-Kemmer
+05-05-2010,15-May-2010,"Alexandria - Egypt","taxi ; caravan ; tram ; horse ; walk ; motorcycle ; bicycle ; car",Male,"Heaney - Robel and Witting"
+06-09-1973,15-Jun-1973,"Beijing - China","subway ; walk ; boat ; ferry",Masc,"Kassulke, Rath and Upton"
+07-30-2011,06-Aug-2011,"Addis Ababa ; Ethiopia","motorcycle | taxi | subway | bus | train | caravan",Female,"Dare, Hoppe and Moore"
+08-30-2018,05-Sep-2018,"Abidjan ; Ivory Coast","bicycle | taxi | train | ferry | walk",Male,Rogahn-Crist
+04-05-1980,12-Apr-1980,"Lagos | Nigeria","walk | airplane | bicycle | boat | horse",Female,Schmeler-Renner
+11-01-1994,07-Nov-1994,"Abidjan - Ivory Coast","car ; horse ; motorcycle ; walk ; taxi ; train ; bus ; tram",fem,"Altenwerth and Sons"
+02-19-2016,24-Feb-2016,"Chennai | India","bus ; motorcycle ; walk ; airplane ; bicycle ; car ; subway ; horse",M,"Cole Group"
+03-26-1974,31-Mar-1974,"Beijing ; China","motorcycle - car - boat - walk - taxi - ferry - bicycle",Fem,Rogahn-Crist
+06-01-2012,06-Jun-2012,"Bangkok - Thailand","boat ; caravan ; walk ; bus ; tram ; train",Male,"Lubowitz, Prohaska and Reilly"
+08-31-1996,04-Sep-1996,"Alexandria | Egypt","ferry - airplane - tram - motorcycle",M,"Cole Group"
+11-14-1979,23-Nov-1979,"Durban ; South Africa","airplane - taxi - subway - tram - caravan - bicycle - boat",masc,"Medhurst, Streich and Schamberger"
+10-27-1995,02-Nov-1995,"Bangkok ; Thailand","bus | bicycle | ferry | motorcycle | boat | walk",Fem,"Medhurst, Streich and Schamberger"
+09-02-2009,12-Sep-2009,"Yangon ; Myanmar","bus - car - horse - walk - train - ferry - subway",Masc,Cruickshank-Franecki
+05-14-1988,22-May-1988,"Mexico City ; Mexico","caravan | bus | motorcycle | ferry | horse | tram | subway | bicycle",fem,Grant-Hand
+05-24-1982,28-May-1982,"Addis Ababa | Ethiopia","bus ; motorcycle ; ferry ; train",Male,"Medhurst, Streich and Schamberger"
+01-29-1974,06-Feb-1974,"Lagos | Nigeria","walk - caravan - taxi - tram - motorcycle - bicycle - ferry",masc,Grant-Hand
+06-15-1992,21-Jun-1992,"Mumbai | India","ferry ; airplane ; walk ; subway ; tram",masc,"Hintz Group"
+12-30-1989,03-Jan-1990,"Yangon - Myanmar","train - boat - ferry - tram - airplane",M,Grant-Hand
+04-05-2012,11-Apr-2012,"Mexico City ; Mexico","car | horse | tram | subway | caravan | taxi | boat | airplane",M,"Medhurst, Streich and Schamberger"
+11-02-2013,09-Nov-2013,"Chennai | India","walk ; taxi ; subway ; boat ; motorcycle",M,"Sporer Group"
+07-11-1975,21-Jul-1975,"Rio de Janeiro - Brazil","airplane | tram | subway | walk | bus | motorcycle | taxi",masc,Blick-Bartell
+02-14-1995,21-Feb-1995,"Ankara ; Turkey","bicycle - car - caravan - horse",F,"Rempel and Sons"
+03-21-2020,26-Mar-2020,"Johannesburg - South Africa","bicycle | car | ferry | walk | subway | boat",masc,Kerluke-Armstrong
+08-07-1995,11-Aug-1995,"Alexandria | Egypt","bicycle ; car ; ferry ; train",fem,"Botsford Inc"
+04-25-2007,03-May-2007,"Hanoi - Vietnam","caravan - airplane - tram - car - bicycle - horse - subway - bus",M,Feest-Bode
+10-01-1989,10-Oct-1989,"Yangon | Myanmar","bus ; airplane ; boat ; ferry ; caravan ; motorcycle ; walk",fem,"Dare, Hoppe and Moore"
+08-20-2000,30-Aug-2000,"Lagos ; Nigeria","caravan | train | ferry | subway | car | taxi | motorcycle | walk",F,"Feil LLC"
+07-13-2012,18-Jul-2012,"Chennai ; India","train ; taxi ; bicycle ; tram",fem,"Murray LLC"
+05-07-1976,17-May-1976,"Bangkok ; Thailand","motorcycle | ferry | bus | boat | airplane | caravan | taxi",F,"Hodkiewicz, Luettgen and Stoltenberg"
+09-19-2008,28-Sep-2008,"Yangon | Myanmar","walk ; car ; caravan ; bicycle ; airplane ; taxi",fem,"Bahringer LLC"
+01-19-2004,27-Jan-2004,"Addis Ababa ; Ethiopia","train ; bicycle ; car ; walk ; airplane ; ferry",masc,"Medhurst, Streich and Schamberger"
+05-04-2019,11-May-2019,"Pune ; India","taxi - horse - bus - ferry - walk - car - caravan - airplane",Female,Schmeler-Renner
+02-09-2016,13-Feb-2016,"Yangon - Myanmar","caravan - taxi - airplane - motorcycle - boat",Masc,"Lubowitz, Prohaska and Reilly"
+06-11-2018,19-Jun-2018,"Yangon ; Myanmar","airplane | boat | motorcycle | tram | ferry | train | subway | car",Masc,"Heaney - Robel and Witting"
+09-13-1982,19-Sep-1982,"Dhaka - Bangladesh","bus | ferry | train | airplane | subway | car | horse",Fem,Wolff-Cartwright
+05-03-1979,07-May-1979,"Addis Ababa | Ethiopia","bicycle | subway | walk | train | caravan | tram | horse",Female,Langosh-Franecki
+10-11-2002,16-Oct-2002,"Chennai | India","train | boat | bus | car",Fem,"Botsford Inc"
+03-10-1972,15-Mar-1972,"Chennai | India","subway - walk - bicycle - caravan - car - boat",F,"Murray LLC"
+11-29-2005,09-Dec-2005,"Beijing - China","taxi - subway - train - car",Female,Kerluke-Armstrong
+09-14-1979,24-Sep-1979,"Lagos - Nigeria","ferry - horse - caravan - taxi",fem,"Schinner, Sauer and Powlowski"
+08-01-2018,05-Aug-2018,"Mexico City ; Mexico","car ; motorcycle ; airplane ; ferry ; taxi ; boat",masc,Schmeler-Renner
+12-03-2005,10-Dec-2005,"Pune ; India","bus - caravan - ferry - subway - car - walk - taxi",Female,"Koelpin, Hoppe and Corwin"
+05-18-1978,24-May-1978,"Mexico City | Mexico","motorcycle | walk | boat | subway | bus",masc,"Lubowitz, Prohaska and Reilly"
+01-21-1998,31-Jan-1998,"Beijing ; China","taxi | subway | boat | bicycle | horse | motorcycle | walk",fem,Feest-Bode
+06-03-1970,13-Jun-1970,"Addis Ababa | Ethiopia","train | bicycle | bus | taxi | ferry",fem,"Koelpin, Hoppe and Corwin"
+09-26-2009,04-Oct-2009,"Johannesburg - South Africa","walk - airplane - boat - bicycle - car",masc,Feest-Bode
+07-12-1998,22-Jul-1998,"Bangkok ; Thailand","caravan ; walk ; airplane ; subway ; horse ; taxi",F,"Botsford Inc"
+04-06-1979,14-Apr-1979,"Beijing ; China","motorcycle ; tram ; bus ; train ; ferry",M,"Murray LLC"
+01-14-2008,24-Jan-2008,"Casablanca ; Morocco","motorcycle | caravan | ferry | boat | airplane | car | walk",fem,Grant-Hand
+03-04-1979,14-Mar-1979,"Delhi ; India","boat | bus | motorcycle | taxi | subway",M,Champlin-Kemmer
+05-18-1971,25-May-1971,"Abidjan - Ivory Coast","car | motorcycle | tram | caravan | subway | taxi | ferry",masc,Quigley-Braun
+09-22-2012,28-Sep-2012,"Rio de Janeiro - Brazil","motorcycle ; bus ; tram ; horse ; subway ; airplane ; bicycle ; boat",Masc,White-Stroman
+03-27-1970,03-Apr-1970,"Delhi | India","ferry | subway | bicycle | motorcycle",masc,"Hintz Group"
+05-06-1998,14-May-1998,"Addis Ababa | Ethiopia","boat - horse - subway - bicycle - taxi - bus - ferry",M,"Ledner LLC"
+05-27-1971,05-Jun-1971,"Dhaka ; Bangladesh","caravan - horse - taxi - bicycle - subway",fem,"Koelpin, Hoppe and Corwin"
+04-25-1973,02-May-1973,"Alexandria - Egypt","boat - bus - tram - train - car - ferry - subway",fem,"Kulas LLC"
+07-25-2001,03-Aug-2001,"Mumbai ; India","taxi ; ferry ; car ; caravan",fem,"Medhurst, Streich and Schamberger"
+05-29-2000,02-Jun-2000,"Mexico City ; Mexico","subway - bicycle - tram - train - car - caravan - taxi",Fem,"Schaden LLC"
+12-23-1984,01-Jan-1985,"Johannesburg ; South Africa","walk ; caravan ; taxi ; ferry ; subway ; car ; bicycle ; train",Female,"Altenwerth and Sons"
+07-05-1979,11-Jul-1979,"Lahore | Pakistan","horse ; motorcycle ; boat ; train ; ferry ; bicycle ; bus ; subway",masc,"Medhurst, Streich and Schamberger"
+10-04-1974,08-Oct-1974,"Chennai ; India","train | bus | horse | taxi",F,"Hintz Group"
+11-09-1999,15-Nov-1999,"Abidjan - Ivory Coast","caravan ; train ; bicycle ; bus",M,Blick-Bartell
+07-20-1993,30-Jul-1993,"Lahore ; Pakistan","horse ; walk ; motorcycle ; airplane",fem,Blick-Bartell
+03-23-2005,01-Apr-2005,"Mexico City | Mexico","bus - boat - walk - car",fem,"Dare, Hoppe and Moore"
+07-08-1976,15-Jul-1976,"Rio de Janeiro ; Brazil","taxi - tram - horse - caravan - airplane - walk - car - motorcycle",Fem,"Botsford Inc"
+11-07-2020,13-Nov-2020,"Yangon | Myanmar","motorcycle ; tram ; bicycle ; subway",Female,Blick-Bartell
+05-22-1982,29-May-1982,"Beijing - China","motorcycle ; tram ; taxi ; caravan ; car ; ferry",Masc,"Murray LLC"
+09-29-2020,04-Oct-2020,"Lahore | Pakistan","caravan ; boat ; horse ; subway ; ferry",Fem,Kerluke-Armstrong
+08-21-1980,31-Aug-1980,"Johannesburg - South Africa","tram ; subway ; horse ; motorcycle ; car ; boat ; caravan",Female,"Sporer Group"
+03-29-1974,05-Apr-1974,"London ; United Kingdom","caravan - tram - ferry - motorcycle - taxi - subway - walk - bicycle",M,"Feil LLC"
+08-27-1991,06-Sep-1991,"Beijing | China","train - caravan - ferry - motorcycle - bus - airplane - boat - subway",fem,Wolff-Cartwright
+03-15-2006,25-Mar-2006,"Lahore - Pakistan","caravan ; horse ; walk ; subway ; train",fem,Grant-Hand
+05-27-2008,06-Jun-2008,"Lagos | Nigeria","walk - airplane - bus - caravan - taxi - motorcycle - train - tram",M,Langosh-Franecki
+05-13-2005,18-May-2005,"Bangkok | Thailand","car | walk | taxi | ferry | horse | boat | airplane | subway",fem,"Schinner, Sauer and Powlowski"
+04-27-2018,04-May-2018,"Pune | India","car | ferry | subway | boat | walk | taxi",masc,"Kulas LLC"
+11-05-2010,11-Nov-2010,"Johannesburg ; South Africa","walk - bus - taxi - caravan - tram - car - boat - motorcycle",masc,Feest-Bode
+09-14-2007,18-Sep-2007,"Johannesburg - South Africa","tram - motorcycle - taxi - boat - horse - train",masc,"Heaney Inc"
+06-06-1992,14-Jun-1992,"Dhaka - Bangladesh","tram ; taxi ; walk ; boat ; caravan ; train",fem,"Goldner LLC"
+10-31-1974,05-Nov-1974,"Hanoi | Vietnam","subway | bicycle | boat | airplane | taxi | walk",Female,"Murray LLC"
+01-13-2017,22-Jan-2017,"Durban ; South Africa","motorcycle ; taxi ; horse ; car",Female,"Hayes, Bins and Considine"
+05-18-1977,28-May-1977,"Ankara - Turkey","motorcycle | bicycle | subway | airplane",Male,"Goldner LLC"
+07-02-2004,07-Jul-2004,"Casablanca - Morocco","horse | caravan | walk | taxi | boat | subway | car | tram",Masc,"Hodkiewicz, Luettgen and Stoltenberg"
+10-27-1972,06-Nov-1972,"Casablanca - Morocco","car ; boat ; walk ; caravan ; bus ; train ; taxi ; tram",Masc,"Ledner LLC"
+08-09-1995,15-Aug-1995,"Ankara ; Turkey","taxi | tram | airplane | motorcycle",M,"Murray LLC"
+09-10-2002,15-Sep-2002,"Lagos | Nigeria","ferry ; subway ; bus ; airplane ; bicycle ; train ; walk",M,"Botsford Inc"
+11-13-2012,17-Nov-2012,"Hanoi | Vietnam","walk | ferry | taxi | bicycle | caravan | airplane",Fem,"Murray LLC"
+08-08-1987,12-Aug-1987,"Dhaka ; Bangladesh","boat ; caravan ; ferry ; taxi ; motorcycle",Fem,Champlin-Kemmer
+04-20-1992,29-Apr-1992,"Dhaka ; Bangladesh","caravan | tram | bicycle | walk | ferry | motorcycle | boat",F,"Botsford Inc"
+05-07-1976,16-May-1976,"Addis Ababa - Ethiopia","train - boat - taxi - airplane - subway - walk",Male,"Altenwerth and Sons"
+02-01-1981,10-Feb-1981,"Dhaka - Bangladesh","ferry - bicycle - taxi - bus - caravan - horse - subway",Fem,Champlin-Kemmer
+12-25-1973,31-Dec-1973,"Dhaka - Bangladesh","ferry - walk - caravan - train - car",Fem,Blick-Bartell
+06-30-1989,08-Jul-1989,"Addis Ababa - Ethiopia","caravan ; train ; taxi ; motorcycle ; airplane",Masc,"Kassulke, Rath and Upton"
+11-12-2010,17-Nov-2010,"Mexico City | Mexico","airplane ; ferry ; bicycle ; car ; motorcycle ; horse ; boat ; tram",masc,"Bahringer LLC"
+12-21-1996,26-Dec-1996,"Lahore | Pakistan","train - motorcycle - bus - horse - airplane",masc,"Sporer Group"
+12-12-1974,18-Dec-1974,"Hanoi ; Vietnam","bicycle - subway - boat - tram",Fem,"Feil LLC"
+04-20-2014,24-Apr-2014,"Bangkok ; Thailand","car ; bicycle ; caravan ; train ; ferry ; taxi",Masc,"Altenwerth and Sons"
+02-02-1995,06-Feb-1995,"Casablanca | Morocco","airplane | tram | ferry | subway | boat | walk | bus | train",fem,Champlin-Kemmer
+02-27-1990,06-Mar-1990,"Hanoi ; Vietnam","airplane | taxi | walk | caravan | boat | motorcycle | train | subway",M,"Heaney - Robel and Witting"
+02-15-1978,21-Feb-1978,"Johannesburg | South Africa","train ; bus ; walk ; bicycle ; car ; tram",Masc,"Kulas LLC"
+01-27-1983,03-Feb-1983,"Hanoi ; Vietnam","ferry - motorcycle - tram - walk - bicycle - caravan - subway - car",Male,"Cole Group"
+01-08-1976,12-Jan-1976,"Abidjan ; Ivory Coast","tram - walk - horse - caravan - train - ferry - motorcycle - subway",Masc,"Heaney - Robel and Witting"
+12-16-1996,20-Dec-1996,"Lagos - Nigeria","motorcycle ; subway ; caravan ; bus ; horse ; bicycle ; walk ; ferry",Fem,"Hodkiewicz, Luettgen and Stoltenberg"
+09-12-2002,19-Sep-2002,"Mexico City | Mexico","horse - motorcycle - subway - ferry - bicycle - taxi - tram - caravan",Female,"Altenwerth and Sons"
+01-04-2013,13-Jan-2013,"Pune - India","subway ; horse ; tram ; bicycle ; caravan ; motorcycle ; car",Male,"Altenwerth and Sons"
+02-22-1990,02-Mar-1990,"Hanoi ; Vietnam","boat ; tram ; car ; train ; walk",masc,"Ledner LLC"
+10-07-1975,13-Oct-1975,"Mexico City - Mexico","bus - ferry - bicycle - taxi",masc,"Schinner, Sauer and Powlowski"
+07-29-1983,05-Aug-1983,"Durban - South Africa","taxi ; walk ; subway ; motorcycle ; ferry ; tram ; horse ; boat",M,"Hintz Group"
+05-26-1980,02-Jun-1980,"Abidjan | Ivory Coast","bicycle | bus | caravan | subway | airplane | taxi",Male,Wolff-Cartwright
+08-25-1987,04-Sep-1987,"Delhi | India","motorcycle | walk | caravan | bicycle | boat | horse | train | ferry",F,"Heaney Inc"
+09-19-2007,24-Sep-2007,"Chennai - India","subway - taxi - horse - bus",F,"Kassulke, Rath and Upton"
+09-28-1979,05-Oct-1979,"Lahore | Pakistan","bicycle ; tram ; car ; caravan ; ferry ; taxi ; train",masc,"Bahringer LLC"
+05-26-2021,30-May-2021,"Johannesburg - South Africa","ferry - train - caravan - walk - horse - car - motorcycle",fem,Champlin-Kemmer
+11-06-2020,13-Nov-2020,"Mumbai ; India","airplane - horse - bus - car - tram - taxi",Male,"Lubowitz, Prohaska and Reilly"
+07-20-2002,27-Jul-2002,"Delhi - India","caravan - ferry - subway - boat - car - tram - bus - horse",Male,Schmeler-Renner
+08-27-1979,02-Sep-1979,"Abidjan - Ivory Coast","motorcycle - caravan - airplane - subway - bicycle - horse - ferry - taxi",Masc,"Murray LLC"
+11-28-2006,04-Dec-2006,"Abidjan - Ivory Coast","subway - motorcycle - bus - horse - tram",Male,Schmeler-Renner
+03-18-1970,26-Mar-1970,"Lagos | Nigeria","car - ferry - train - walk - taxi - tram - bus",masc,"Feil LLC"
+08-14-2005,20-Aug-2005,"London ; United Kingdom","subway ; motorcycle ; airplane ; taxi ; caravan ; boat",F,"Feil LLC"
+05-20-1982,24-May-1982,"Abidjan | Ivory Coast","subway ; motorcycle ; tram ; bicycle ; horse ; caravan ; bus ; train",F,"Bahringer LLC"
+04-29-1978,04-May-1978,"Lahore - Pakistan","walk | motorcycle | tram | car | horse | boat | caravan | bus",Fem,"Funk, Morar and Rodriguez"
+06-26-1973,04-Jul-1973,"Lahore | Pakistan","tram | horse | bicycle | caravan | taxi",Female,Grant-Hand
+05-21-2013,27-May-2013,"Johannesburg | South Africa","bicycle | airplane | motorcycle | walk",Female,"Koelpin, Hoppe and Corwin"
+05-21-2009,31-May-2009,"Yangon | Myanmar","subway | ferry | bus | bicycle | car | boat",F,Cruickshank-Franecki
+10-01-2001,05-Oct-2001,"Lahore | Pakistan","walk ; car ; airplane ; subway ; tram ; horse ; boat ; taxi",F,"Bahringer LLC"
+08-11-1976,21-Aug-1976,"Delhi | India","ferry - subway - caravan - bus - motorcycle - airplane",M,"Heaney Inc"
+02-20-1989,25-Feb-1989,"Dhaka - Bangladesh","walk ; horse ; bicycle ; boat ; car ; bus",fem,"Sporer Group"
+09-08-1978,13-Sep-1978,"Lagos ; Nigeria","boat ; tram ; bus ; car ; bicycle",Male,"Schinner, Sauer and Powlowski"
+02-01-2006,11-Feb-2006,"Mumbai ; India","train | ferry | bicycle | car | caravan | tram",Male,Kerluke-Armstrong
+09-21-2005,01-Oct-2005,"Alexandria - Egypt","bicycle - bus - train - motorcycle",M,Langosh-Franecki
+06-03-1981,13-Jun-1981,"Addis Ababa | Ethiopia","bicycle ; ferry ; caravan ; train ; boat ; subway ; bus",F,"Funk, Morar and Rodriguez"
+09-19-2012,23-Sep-2012,"Dhaka ; Bangladesh","ferry | caravan | boat | subway | walk | bus",M,Quigley-Braun
+02-22-1979,28-Feb-1979,"Hanoi | Vietnam","taxi ; train ; subway ; airplane ; motorcycle ; car ; boat ; ferry",Female,Blick-Bartell
+02-14-1981,22-Feb-1981,"Lahore - Pakistan","caravan - taxi - bus - walk",F,Rogahn-Crist
+08-24-1972,29-Aug-1972,"Yangon | Myanmar","walk - bicycle - bus - caravan - car - subway - tram",Male,Wolff-Cartwright
+07-21-1971,26-Jul-1971,"Alexandria ; Egypt","bicycle ; horse ; boat ; tram ; bus",Masc,Wolff-Cartwright
+11-05-1997,09-Nov-1997,"Chennai - India","taxi ; subway ; airplane ; tram ; car ; bus",Male,Quigley-Braun
+03-16-2014,24-Mar-2014,"Dhaka - Bangladesh","car | caravan | bus | horse | train",Fem,"Funk, Morar and Rodriguez"
+06-10-1998,16-Jun-1998,"Pune ; India","train | bus | motorcycle | walk | bicycle | boat | taxi | subway",masc,"Kassulke, Rath and Upton"
+03-27-1971,05-Apr-1971,"Yangon | Myanmar","taxi - ferry - tram - train - motorcycle",M,White-Stroman
+12-05-2005,15-Dec-2005,"Delhi | India","airplane ; train ; ferry ; motorcycle ; walk ; tram",Female,Quigley-Braun
+10-04-1988,12-Oct-1988,"Ankara | Turkey","caravan ; airplane ; walk ; horse ; taxi ; train",Fem,"Fritsch, Hegmann and Mueller"
+01-25-1996,02-Feb-1996,"Lagos - Nigeria","taxi | subway | caravan | tram | train | bus | motorcycle | ferry",Fem,"Ledner LLC"
+01-10-2002,16-Jan-2002,"Addis Ababa | Ethiopia","tram | ferry | taxi | airplane | walk | subway",Masc,"Medhurst, Streich and Schamberger"
+04-09-1971,15-Apr-1971,"Hanoi ; Vietnam","bus - train - motorcycle - walk - taxi - caravan - tram - car",Male,"Cole Group"
+10-13-2012,18-Oct-2012,"Rio de Janeiro - Brazil","walk - ferry - car - taxi - train",Masc,"Koelpin, Hoppe and Corwin"
+05-08-1974,15-May-1974,"Mexico City ; Mexico","bicycle | train | airplane | ferry | horse | tram",masc,"Medhurst, Streich and Schamberger"
+10-23-1972,28-Oct-1972,"Dhaka ; Bangladesh","ferry - train - car - airplane - taxi",masc,Blick-Bartell
+12-25-2004,30-Dec-2004,"Yangon ; Myanmar","subway - motorcycle - train - bus - ferry - bicycle - tram",Female,Kerluke-Armstrong
+12-30-1981,08-Jan-1982,"Johannesburg ; South Africa","caravan ; ferry ; motorcycle ; horse ; car",F,"Schinner, Sauer and Powlowski"
+10-22-1988,01-Nov-1988,"London | United Kingdom","bus ; bicycle ; subway ; caravan ; taxi",Masc,White-Stroman
+07-28-1971,06-Aug-1971,"Lahore ; Pakistan","boat ; airplane ; bus ; horse ; ferry ; walk",Male,"Schinner, Sauer and Powlowski"
+07-14-1982,19-Jul-1982,"Lagos ; Nigeria","subway | taxi | walk | boat | bus | train",Male,"Hintz Group"
+07-31-1990,05-Aug-1990,"Johannesburg - South Africa","airplane ; walk ; train ; motorcycle ; bus",masc,"Feil LLC"
