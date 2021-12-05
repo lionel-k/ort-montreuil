@@ -15,5 +15,5 @@ teams.each do |team|
     opponent_score = rand(0..5)
     [team, opponent, team_score, opponent_score]
   end
-  File.write("random-score-#{team}.csv", scores.map(&:to_csv).join)
+  File.write("dataset-6-random-score-#{team}.csv", scores.map(&:to_csv).join)
 end
