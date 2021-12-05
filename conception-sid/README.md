@@ -153,8 +153,9 @@ rank,team,Pts,G.,N.,P.,p.,c.,Diff.
 
 Given the dataset `dataset-6/kpis/dataset-6-tickets-kpis.csv`, you have to build csv files that contains the following KPIs:
 
-1. Dev capacity: the number of developers days in the team per quarter
-   Developper days is computed by multiplying the number of the developer by the number of days in the quarter.
+##### 1. Dev capacity: the number of developers days in the team per quarter
+
+Developper days is computed by multiplying the number of the developer by the number of days in the quarter.
 
 ```csv
 quarter, dev_capacity
@@ -164,7 +165,7 @@ q3, 230
 q4, 240
 ```
 
-2. Total number of tickets done per quarter
+##### 2. Total number of tickets done per quarter
 
 ```csv
 quarter, total_tickets
@@ -174,7 +175,7 @@ q3, 300
 q4, 400
 ```
 
-3. Average number of tickets done per developer per week
+##### 3. Average number of tickets done per developer per week
 
 ```csv
 quarter, average_tickets
@@ -184,8 +185,9 @@ q3, 3
 q4, 6
 ```
 
-4. Median cycle time of tickets per quarter
-   How many days does it take to close a ticket (a ticket to go from in progress to done) ?
+##### 4. Median cycle time of tickets per quarter
+
+How many days does it take to close a ticket (a ticket to go from in progress to done) ?
 
 ```csv
 quarter, median_cycle_time
@@ -195,7 +197,7 @@ q3, 30
 q4, 40
 ```
 
-5. Median cycle time of tickets per quarter, by type
+##### 5. Median cycle time of tickets per quarter, by type
 
 ```csv
 quarter, type, median_cycle_time
