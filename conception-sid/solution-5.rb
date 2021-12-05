@@ -100,3 +100,75 @@ def hotels_revenues(rows)
 end
 
 hotels_revenues(rows)
+
+# 4. Compare the transportation modes used by men and women in each country.
+
+def genre(row)
+  return 'm' if ['M', 'Masc', 'Male', 'masc'].include?(row['genre'])
+  return 'f' if ['F', 'Fem', 'Female', 'fem'].include?(row['genre'])
+  return '-'
+end
+
+def transportation_modes_by_genre(rows)
+  # result =
+  # {
+  #   india: {
+  #     m: { car: 2, plane: 3  }
+  #     f: { bicycle: 5, taxi: 1 }
+  #   }
+  # }
+
+  # {
+  #   india:
+  #   [
+  #     ['M','car','132'],
+  #     ['F','bicycle','5'],
+  #     ['M','plane','3'],
+  #     ['F','taxi','1']
+  #   ]
+  # }
+  # result[:india][:m][:car] = result[:india][:m][:car] + 1
+
+  result = {}
+  rows.each do |row|
+    country = row['location'].downcase.split(Regexp.union(DELIMITERS)).last.gsub(/\s/,'-')
+    transportation_modes = row['transportation_modes'].downcase.split(Regexp.union(DELIMITERS))
+    genre = genre(row)
+    if result.key?(country)
+      transportation_modes_of_country = result[country]
+      transportation_modes.each do |mode|
+        if transportation_modes_of_country.key?(genre)
+          transportation_modes_for_genre = transportation_modes_of_country[genre]
+          if transportation_modes_for_genre.key?(mode)
+            transportation_modes_for_genre[mode] = transportation_modes_for_genre[mode] + 1
+          else
+            transportation_modes_for_genre[mode] = 1
+          end
+        else
+          transportation_modes_of_country[genre] = { mode => 1 }
+        end
+      end
+    else
+      result[country] = { genre => transportation_modes.map { |mode | [mode, 1]}.to_h }
+    end
+  end
+  result
+
+
+  # Export to CSV
+  result.each do |country, transportation_modes_by_genre|
+    filename = "solution-5/question-4/transportation-modes-genre-#{country}.csv"
+    values = []
+    transportation_modes_by_genre.each do |genre, transportation_modes|
+      transportation_modes.to_a.sort_by { |mode, count| mode }.map do |mode, count|
+        values << [genre] + [mode, count]
+      end
+    end
+    values.unshift(['genre', 'transportation_mode', 'count'])
+    File.write(filename, values.map(&:to_csv).join)
+  end
+end
+
+transportation_modes_by_genre(rows)
+
+
