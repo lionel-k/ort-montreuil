@@ -144,7 +144,7 @@ Pour chaque équipe, il faudra renseigner les éléments suivants:
 Fichier csv attendus:
 
 ```csv
-rank, team,Pts,G.,N.,P.,p.,c.,Diff.
+rank,team,Pts,G.,N.,P.,p.,c.,Diff.
 1,Paris Saint-Germain,38,10,2,2,10,2,+8
 2,Lille,36,9,3,1,9,3,+5
 ```
