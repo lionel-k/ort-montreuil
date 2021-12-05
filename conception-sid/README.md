@@ -122,3 +122,23 @@ F,airplane,243
 
 - a graphic displaying the results
 - the code used to generate the data
+
+### dataset-6
+
+#### Football
+
+Vous disposez des résultats du dernier championnat de Ligue 1.
+
+Extrayez les données pour construire le classement de fin de saison.
+
+Pour chaque équipe, il faudra renseigner les éléments suivants:
+
+- Pts: Nombre de points gagnés depuis le début du championnat
+- G. : Nombre de matchs gagnés
+- N. : Nombre de matchs nuls
+- P. : Nombre de matchs perdus
+- p. : Nombre de buts gagnés depuis le début du championnat
+- c. : Nombre de buts encaissés depuis le début du championnat
+- Diff: Différence entre le nombre de buts gagnés et encaissés
+
+#### Developper KPIs
