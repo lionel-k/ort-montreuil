@@ -1,4 +1,5 @@
 require 'csv'
 require 'pry'
 
-teams = File.open()
+teams = CSV.parse(File.read("teams.csv"), headers: true)
+binding.pry
