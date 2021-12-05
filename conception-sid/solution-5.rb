@@ -5,6 +5,11 @@ require 'pry'
 DELIMITERS = [' | ',' - ',' ; ']
 rows = CSV.parse(File.read("dataset-5.csv"), headers: true)
 
+file = File.read('dataset-5-hotel-prices.json')
+HOTEL_PRICES = JSON.parse(file).map do |hotel_price|
+  [hotel_price['hotel'], hotel_price['price_per_night']]
+end.to_h
+
 # 1. What are the transportation modes used per country ?
 def transportation_modes_per_country(rows)
   result = {}
@@ -38,10 +43,6 @@ transportation_modes_per_country(rows)
 
 # 2. How much people paid for hotel per country ?
 def countries_revenues(rows)
-  file = File.read('dataset-5-hotel-prices.json')
-  hotel_prices = JSON.parse(file).map do |hotel_price|
-    [hotel_price['hotel'], hotel_price['price_per_night']]
-  end.to_h
   result = {}
   rows.each do |row|
     country_name = row['location'].split(Regexp.union(DELIMITERS)).last
@@ -49,7 +50,7 @@ def countries_revenues(rows)
     arrival_date = Date.strptime(row['arrival_date'], "%m-%d-%Y")
     departure_date = Date.parse(row['departure_date'])
     days_of_stay = (departure_date - arrival_date).to_i
-    price = days_of_stay * hotel_prices[row['hotel']]
+    price = days_of_stay * HOTEL_PRICES[row['hotel']]
     if result.key?(country_slug)
       result[country_slug][:price] = result[country_slug][:price] + price
     else
@@ -65,3 +66,37 @@ def countries_revenues(rows)
 end
 
 countries_revenues(rows)
+
+# 3. What are the 10 hotels with the most revenues during the summer ?
+# (By summer, consider that either the arrival and/or the departure are in July or August)
+
+def summer?(arrival_date, departure_date)
+  arrival_date.month == 7 || arrival_date.month == 8 || departure_date.month == 7 || departure_date.month == 8
+end
+
+def hotels_revenues(rows)
+  result = {}
+  rows.each do |row|
+    hotel = row['hotel']
+    arrival_date = Date.strptime(row['arrival_date'], "%m-%d-%Y")
+    departure_date = Date.parse(row['departure_date'])
+    if summer?(arrival_date, departure_date)
+      days_of_stay = (departure_date - arrival_date).to_i
+      price = days_of_stay * HOTEL_PRICES[row['hotel']]
+      if result.key?(hotel)
+        result[hotel] = result[hotel] + price
+      else
+        result[hotel] = price
+      end
+    end
+  end
+
+
+  # Export to CSV
+  filename = "solution-5/question-3/hotels-revenues.csv.csv"
+  result = result.sort_by { |hotel, revenue| -revenue }.first(10)
+  result.unshift(['hotel', 'revenue'])
+  File.write(filename, result.map(&:to_csv).join)
+end
+
+hotels_revenues(rows)
