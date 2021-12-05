@@ -4,19 +4,6 @@ include './vendor/autoload.php';
 use PhpOffice\PhpSpreadsheet\Reader\Csv;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 
-//BDD
-$mysqlHostName = "localhost";
-$mysqlUserName = "root";
-$mysqlPassword = "root";
-$mysqlDatabaseName = "ort-conception-sid-2";
-
-// Create connection
-$conn = new mysqli($mysqlHostName, $mysqlUserName, $mysqlPassword, $mysqlDatabaseName);
-// Check connection
-if ($conn->connect_error) {
-    die("Connection failed:"  . $conn->connect_error);
-}
-
 
 //Read the CSV File
 $reader = new Csv();
@@ -189,6 +176,7 @@ foreach ($tblAllCountrie as $key => $value) {
 //Ecrire les données : question 1 :
 
 foreach ($tblAllCountrie as $key => $value) {
+
     $spreadSheetWriter = new Spreadsheet();
 
     $sheet = $spreadSheetWriter->getActiveSheet();
@@ -199,29 +187,21 @@ foreach ($tblAllCountrie as $key => $value) {
 
     // Coordonnées cellules
     $lettreA  = 'A';
-    $lettreB  = 'B';
     $chiffre = '2';
     $celluleA = $lettreA . $chiffre;
-    $celluleB = $lettreB . $chiffre;
 
     $spreadSheetWriter->getActiveSheet()
-        ->setCellValue("A1", "transportation_mode");
-    $spreadSheetWriter->getActiveSheet()
-        ->setCellValue("B1", "count");
+        ->setCellValue("A1", "transportation_mode,count");
 
     foreach ($value as $key2 => $value2) {
         $spreadSheetWriter->getActiveSheet()->getRowDimension($chiffre)->setRowHeight(20);
 
         $spreadSheetWriter->getActiveSheet()
-            ->setCellValue("$celluleA", $key2);
-
-        $spreadSheetWriter->getActiveSheet()
-            ->setCellValue("$celluleB", $value2);
+            ->setCellValue("$celluleA", $key2 . "," . $value2);
 
         //on passe au chiffre suivant et on l'applique à la position cellule
         $chiffre = $chiffre + 1;
         $celluleA = $lettreA . $chiffre;
-        $celluleB = $lettreB . $chiffre;
     }
 
     $nomFichier = "transportation-modes-" . strtolower($key);
