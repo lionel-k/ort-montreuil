@@ -1,0 +1,2566 @@
+8982                                                                                                                      </row>
+8983                                                                                                                       <row>
+8984                                                                                     <arrival_date>08-29-1988</arrival_date>
+8985                                                                                <departure_date>06-Sep-1988</departure_date>
+8986                                                                                                           <location>Yangon 
+8987                                                                                                          Myanmar</location>
+8988                                            <transportation_modes>boat - bus - horse - bicycle - taxi</transportation_modes>
+8989                                                                                                            <genre>F</genre>
+8990                                                                                                   <hotel>Heaney Inc</hotel>
+8991                                                                                                                      </row>
+8992                                                                                                                       <row>
+8993                                                                                     <arrival_date>04-11-2001</arrival_date>
+8994                                                                                <departure_date>19-Apr-2001</departure_date>
+8995                                                                                       <location>Yangon | Myanmar</location>
+8996                                       <transportation_modes>ferry - bus - car - taxi - tram - subway</transportation_modes>
+8997                                                                                                         <genre>Masc</genre>
+8998                                                                                                 <hotel>Rogahn-Crist</hotel>
+8999                                                                                                                      </row>
+9000                                                                                                                       <row>
+9001                                                                                     <arrival_date>11-25-1993</arrival_date>
+9002                                                                                <departure_date>05-Dec-1993</departure_date>
+9003                                                                                <location>London - United Kingdom</location>
+9004                                                        <transportation_modes>tram | bus | car | taxi</transportation_modes>
+9005                                                                                                         <genre>Male</genre>
+9006                                                                                     <hotel>Kassulke, Rath and Upton</hotel>
+9007                                                                                                                      </row>
+9008                                                                                                                       <row>
+9009                                                                                     <arrival_date>03-15-1970</arrival_date>
+9010                                                                                <departure_date>24-Mar-1970</departure_date>
+9011                                                                                     <location>Alexandria | Egypt</location>
+9012                                                   <transportation_modes>horse | boat | train | ferry</transportation_modes>
+9013                                                                                                            <genre>M</genre>
+9014                                                                                                  <hotel>Schaden LLC</hotel>
+9015                                                                                                                      </row>
+9016                                                                                                                       <row>
+9017                                                                                     <arrival_date>05-19-2009</arrival_date>
+9018                                                                                <departure_date>25-May-2009</departure_date>
+9019                                                                                <location>London - United Kingdom</location>
+9020          <transportation_modes>motorcycle - bicycle - walk - boat - taxi - airplane - tram - caravan</transportation_modes>
+9021                                                                                                         <genre>Masc</genre>
+9022                                                                                                    <hotel>Kulas LLC</hotel>
+9023                                                                                                                      </row>
+9024                                                                                                                       <row>
+9025                                                                                     <arrival_date>07-02-1995</arrival_date>
+9026                                                                                <departure_date>07-Jul-1995</departure_date>
+9027                                                                                                           <location>Ankara 
+9028                                                                                                           Turkey</location>
+9029                                                 <transportation_modes>horse | airplane | walk | tram</transportation_modes>
+9030                                                                                                         <genre>masc</genre>
+9031                                                                                <hotel>Schinner, Sauer and Powlowski</hotel>
+9032                                                                                                                      </row>
+9033                                                                                                                       <row>
+9034                                                                                     <arrival_date>07-31-2017</arrival_date>
+9035                                                                                <departure_date>10-Aug-2017</departure_date>
+9036                                                                            <location>Johannesburg - South Africa</location>
+9037                        <transportation_modes>taxi | tram | horse | car | bus | walk | boat | bicycle</transportation_modes>
+9038                                                                                                         <genre>masc</genre>
+9039                                                                                          <hotel>Altenwerth and Sons</hotel>
+9040                                                                                                                      </row>
+9041                                                                                                                       <row>
+9042                                                                                     <arrival_date>11-30-1986</arrival_date>
+9043                                                                                <departure_date>08-Dec-1986</departure_date>
+9044                                                                                                          <location>Bangkok 
+9045                                                                                                         Thailand</location>
+9046                                                 <transportation_modes>train - ferry - subway - horse</transportation_modes>
+9047                                                                                                          <genre>fem</genre>
+9048                                                                                                     <hotel>Feil LLC</hotel>
+9049                                                                                                                      </row>
+9050                                                                                                                       <row>
+9051                                                                                     <arrival_date>05-16-1979</arrival_date>
+9052                                                                                <departure_date>26-May-1979</departure_date>
+9053                                                                                          <location>Delhi | India</location>
+9054                                                                                                <transportation_modes>train 
+9055                                                                                                                     subway 
+9056                                                                                                                       boat 
+9057                                                                                                                       tram 
+9058                                                                                                                        bus 
+9059                                                                                                                      horse 
+9060                                                                                           motorcycle</transportation_modes>
+9061                                                                                                         <genre>masc</genre>
+9062                                                                                                 <hotel>Botsford Inc</hotel>
+9063                                                                                                                      </row>
+9064                                                                                                                       <row>
+9065                                                                                     <arrival_date>11-20-2004</arrival_date>
+9066                                                                                <departure_date>27-Nov-2004</departure_date>
+9067                                                                            <location>Johannesburg - South Africa</location>
+9068                                                                                               <transportation_modes>subway 
+9069                                                                                                                       taxi 
+9070                                                                                                                   airplane 
+9071                                                                                                 tram</transportation_modes>
+9072                                                                                                         <genre>Masc</genre>
+9073                                                                                             <hotel>Wolff-Cartwright</hotel>
+9074                                                                                                                      </row>
+9075                                                                                                                       <row>
+9076                                                                                     <arrival_date>06-20-1970</arrival_date>
+9077                                                                                <departure_date>28-Jun-1970</departure_date>
+9078                                                                                                            <location>Dhaka 
+9079                                                                                                       Bangladesh</location>
+9080                                                                                                 <transportation_modes>taxi 
+9081                                                                                                                     subway 
+9082                                                                                                                      horse 
+9083                                                                                                                 motorcycle 
+9084                                                                                                                   airplane 
+9085                                                                                              bicycle</transportation_modes>
+9086                                                                                                         <genre>Masc</genre>
+9087                                                                                                   <hotel>Heaney Inc</hotel>
+9088                                                                                                                      </row>
+9089                                                                                                                       <row>
+9090                                                                                     <arrival_date>02-27-1981</arrival_date>
+9091                                                                                <departure_date>04-Mar-1981</departure_date>
+9092                                                                                     <location>Alexandria - Egypt</location>
+9093                                      <transportation_modes>tram | bicycle | caravan | subway | ferry</transportation_modes>
+9094                                                                                                          <genre>Fem</genre>
+9095                                                                                                     <hotel>Feil LLC</hotel>
+9096                                                                                                                      </row>
+9097                                                                                                                       <row>
+9098                                                                                     <arrival_date>08-28-1993</arrival_date>
+9099                                                                                <departure_date>03-Sep-1993</departure_date>
+9100                                                                                                          <location>Bangkok 
+9101                                                                                                         Thailand</location>
+9102                                                                                                 <transportation_modes>taxi 
+9103                                                                                                                    bicycle 
+9104                                                                                                                      train 
+9105                                                                                                                        car 
+9106                                                                                                                       tram 
+9107                                                                                                  bus</transportation_modes>
+9108                                                                                                         <genre>Male</genre>
+9109                                                                                                <hotel>White-Stroman</hotel>
+9110                                                                                                                      </row>
+9111                                                                                                                       <row>
+9112                                                                                     <arrival_date>08-08-1979</arrival_date>
+9113                                                                                <departure_date>15-Aug-1979</departure_date>
+9114                                                                                        <location>Beijing - China</location>
+9115                  <transportation_modes>train - motorcycle - subway - bus - airplane - caravan - taxi</transportation_modes>
+9116                                                                                                          <genre>Fem</genre>
+9117                                                                                   <hotel>Heaney - Robel and Witting</hotel>
+9118                                                                                                                      </row>
+9119                                                                                                                       <row>
+9120                                                                                     <arrival_date>02-24-2010</arrival_date>
+9121                                                                                <departure_date>02-Mar-2010</departure_date>
+9122                                                                                <location>London - United Kingdom</location>
+9123                                                                                           <transportation_modes>motorcycle 
+9124                                                                                                                        bus 
+9125                                                                                                                      horse 
+9126                                                                                                                       walk 
+9127                                                                                                                   airplane 
+9128                                                                                                                    caravan 
+9129                                                                                                                      train 
+9130                                                                                                  car</transportation_modes>
+9131                                                                                                          <genre>Fem</genre>
+9132                                                                                                   <hotel>Heaney Inc</hotel>
+9133                                                                                                                      </row>
+9134                                                                                                                       <row>
+9135                                                                                     <arrival_date>06-21-1983</arrival_date>
+9136                                                                                <departure_date>01-Jul-1983</departure_date>
+9137                                                                                      <location>Lahore | Pakistan</location>
+9138                                                                                                <transportation_modes>train 
+9139                                                                                                                    caravan 
+9140                                                                                                                 motorcycle 
+9141                                                                                                                       tram 
+9142                                                                                                                       walk 
+9143                                                                                                                       boat 
+9144                                                                                                                      ferry 
+9145                                                                                             airplane</transportation_modes>
+9146                                                                                                         <genre>masc</genre>
+9147                                                                                                 <hotel>Botsford Inc</hotel>
+9148                                                                                                                      </row>
+9149                                                                                                                       <row>
+9150                                                                                     <arrival_date>10-23-2006</arrival_date>
+9151                                                                                <departure_date>27-Oct-2006</departure_date>
+9152                                                                                         <location>Mumbai | India</location>
+9153                                                   <transportation_modes>bus | boat | bicycle | train</transportation_modes>
+9154                                                                                                            <genre>M</genre>
+9155                                                                                          <hotel>Altenwerth and Sons</hotel>
+9156                                                                                                                      </row>
+9157                                                                                                                       <row>
+9158                                                                                     <arrival_date>11-22-2014</arrival_date>
+9159                                                                                <departure_date>01-Dec-2014</departure_date>
+9160                                                                                <location>Rio de Janeiro | Brazil</location>
+9161                                                                                              <transportation_modes>caravan 
+9162                                                                                                                       boat 
+9163                                                                                                                 motorcycle 
+9164                                                                                                 walk</transportation_modes>
+9165                                                                                                         <genre>Masc</genre>
+9166                                                                                                 <hotel>Botsford Inc</hotel>
+9167                                                                                                                      </row>
+9168                                                                                                                       <row>
+9169                                                                                     <arrival_date>08-23-2009</arrival_date>
+9170                                                                                <departure_date>27-Aug-2009</departure_date>
+9171                                                                            <location>Johannesburg - South Africa</location>
+9172                    <transportation_modes>airplane - horse - walk - motorcycle - ferry - taxi - train</transportation_modes>
+9173                                                                                                          <genre>Fem</genre>
+9174                                                                                   <hotel>Heaney - Robel and Witting</hotel>
+9175                                                                                                                      </row>
+9176                                                                                                                       <row>
+9177                                                                                     <arrival_date>11-14-1993</arrival_date>
+9178                                                                                <departure_date>24-Nov-1993</departure_date>
+9179                                                                                                            <location>Hanoi 
+9180                                                                                                          Vietnam</location>
+9181                                             <transportation_modes>subway | walk | car | tram | ferry</transportation_modes>
+9182                                                                                                            <genre>F</genre>
+9183                                                                                  <hotel>Leannon, Cassin and Trantow</hotel>
+9184                                                                                                                      </row>
+9185                                                                                                                       <row>
+9186                                                                                     <arrival_date>01-10-2010</arrival_date>
+9187                                                                                <departure_date>19-Jan-2010</departure_date>
+9188                                                                                                          <location>Abidjan 
+9189                                                                                                      Ivory Coast</location>
+9190                                        <transportation_modes>ferry | airplane | walk | subway | taxi</transportation_modes>
+9191                                                                                                         <genre>Male</genre>
+9192                                                                                    <hotel>Koelpin, Hoppe and Corwin</hotel>
+9193                                                                                                                      </row>
+9194                                                                                                                       <row>
+9195                                                                                     <arrival_date>02-01-1975</arrival_date>
+9196                                                                                <departure_date>10-Feb-1975</departure_date>
+9197                                                                                                           <location>Yangon 
+9198                                                                                                          Myanmar</location>
+9199                                                                                              <transportation_modes>bicycle 
+9200                                                                                                                       tram 
+9201                                                                                                                     subway 
+9202                                                                                                train</transportation_modes>
+9203                                                                                                         <genre>Masc</genre>
+9204                                                                                    <hotel>Koelpin, Hoppe and Corwin</hotel>
+9205                                                                                                                      </row>
+9206                                                                                                                       <row>
+9207                                                                                     <arrival_date>12-06-1999</arrival_date>
+9208                                                                                <departure_date>11-Dec-1999</departure_date>
+9209                                                                            <location>Johannesburg | South Africa</location>
+9210                    <transportation_modes>subway - train - car - boat - taxi - walk - caravan - horse</transportation_modes>
+9211                                                                                                            <genre>F</genre>
+9212                                                                                                    <hotel>Kulas LLC</hotel>
+9213                                                                                                                      </row>
+9214                                                                                                                       <row>
+9215                                                                                     <arrival_date>06-07-1997</arrival_date>
+9216                                                                                <departure_date>12-Jun-1997</departure_date>
+9217                                                                                <location>Rio de Janeiro | Brazil</location>
+9218                        <transportation_modes>taxi - horse - bus - bicycle - tram - subway - airplane</transportation_modes>
+9219                                                                                                         <genre>Masc</genre>
+9220                                                                                    <hotel>Koelpin, Hoppe and Corwin</hotel>
+9221                                                                                                                      </row>
+9222                                                                                                                       <row>
+9223                                                                                     <arrival_date>07-21-1972</arrival_date>
+9224                                                                                <departure_date>29-Jul-1972</departure_date>
+9225                                                                                  <location>Durban | South Africa</location>
+9226                                          <transportation_modes>horse - motorcycle - airplane - train</transportation_modes>
+9227                                                                                                         <genre>Male</genre>
+9228                                                                                    <hotel>Hayes, Bins and Considine</hotel>
+9229                                                                                                                      </row>
+9230                                                                                                                       <row>
+9231                                                                                     <arrival_date>07-07-2018</arrival_date>
+9232                                                                                <departure_date>14-Jul-2018</departure_date>
+9233                                                                                   <location>Casablanca | Morocco</location>
+9234                                <transportation_modes>ferry - horse - motorcycle - bus - boat - train</transportation_modes>
+9235                                                                                                            <genre>F</genre>
+9236                                                                                     <hotel>Kassulke, Rath and Upton</hotel>
+9237                                                                                                                      </row>
+9238                                                                                                                       <row>
+9239                                                                                     <arrival_date>01-08-1971</arrival_date>
+9240                                                                                <departure_date>15-Jan-1971</departure_date>
+9241                                                                                  <location>Durban - South Africa</location>
+9242                                                <transportation_modes>ferry | caravan | horse | train</transportation_modes>
+9243                                                                                                            <genre>F</genre>
+9244                                                                                <hotel>Lubowitz, Prohaska and Reilly</hotel>
+9245                                                                                                                      </row>
+9246                                                                                                                       <row>
+9247                                                                                     <arrival_date>07-08-1988</arrival_date>
+9248                                                                                <departure_date>18-Jul-1988</departure_date>
+9249                                                                                <location>Rio de Janeiro | Brazil</location>
+9250                                                                                              <transportation_modes>caravan 
+9251                                                                                                                       boat 
+9252                                                                                                                 motorcycle 
+9253                                                                                                ferry</transportation_modes>
+9254                                                                                                          <genre>Fem</genre>
+9255                                                                         <hotel>Hodkiewicz, Luettgen and Stoltenberg</hotel>
+9256                                                                                                                      </row>
+9257                                                                                                                       <row>
+9258                                                                                     <arrival_date>03-21-2014</arrival_date>
+9259                                                                                <departure_date>01-Apr-2014</departure_date>
+9260                                                                                                             <location>Pune 
+9261                                                                                                            India</location>
+9262                                                 <transportation_modes>train | boat | airplane | walk</transportation_modes>
+9263                                                                                                         <genre>Masc</genre>
+9264                                                                                                   <hotel>Grant-Hand</hotel>
+9265                                                                                                                      </row>
+9266                                                                                                                       <row>
+9267                                                                                     <arrival_date>01-15-2012</arrival_date>
+9268                                                                                <departure_date>23-Jan-2012</departure_date>
+9269                                                                                        <location>Lagos | Nigeria</location>
+9270                                                <transportation_modes>walk - motorcycle - car - ferry</transportation_modes>
+9271                                                                                                          <genre>Fem</genre>
+9272                                                                                <hotel>Lubowitz, Prohaska and Reilly</hotel>
+9273                                                                                                                      </row>
+9274                                                                                                                       <row>
+9275                                                                                     <arrival_date>10-22-2020</arrival_date>
+9276                                                                                <departure_date>30-Oct-2020</departure_date>
+9277                                                                                           <location>Pune | India</location>
+9278                                              <transportation_modes>bus | car | motorcycle | airplane</transportation_modes>
+9279                                                                                                         <genre>Masc</genre>
+9280                                                                                         <hotel>Cruickshank-Franecki</hotel>
+9281                                                                                                                      </row>
+9282                                                                                                                       <row>
+9283                                                                                     <arrival_date>08-22-2011</arrival_date>
+9284                                                                                <departure_date>31-Aug-2011</departure_date>
+9285                                                                                        <location>Chennai | India</location>
+9286                                <transportation_modes>taxi | walk | train | ferry | boat | tram | car</transportation_modes>
+9287                                                                                                          <genre>Fem</genre>
+9288                                                                                                 <hotel>Rogahn-Crist</hotel>
+9289                                                                                                                      </row>
+9290                                                                                                                       <row>
+9291                                                                                     <arrival_date>06-26-2017</arrival_date>
+9292                                                                                <departure_date>06-Jul-2017</departure_date>
+9293                                                                                        <location>Ankara - Turkey</location>
+9294                                                                                                 <transportation_modes>taxi 
+9295                                                                                                                        car 
+9296                                                                                                                    bicycle 
+9297                                                                                                                 motorcycle 
+9298                                                                                                                       boat 
+9299                                                                                                horse</transportation_modes>
+9300                                                                                                       <genre>Female</genre>
+9301                                                                                              <hotel>Schmeler-Renner</hotel>
+9302                                                                                                                      </row>
+9303                                                                                                                       <row>
+9304                                                                                     <arrival_date>10-02-2007</arrival_date>
+9305                                                                                <departure_date>08-Oct-2007</departure_date>
+9306                                                                                                       <location>Casablanca 
+9307                                                                                                          Morocco</location>
+9308                                                                                                <transportation_modes>horse 
+9309                                                                                                                        bus 
+9310                                                                                                                       boat 
+9311                                                                                                                       taxi 
+9312                                                                                                                       tram 
+9313                                                                                              bicycle</transportation_modes>
+9314                                                                                                         <genre>Male</genre>
+9315                                                                                                    <hotel>Kulas LLC</hotel>
+9316                                                                                                                      </row>
+9317                                                                                                                       <row>
+9318                                                                                     <arrival_date>03-22-1992</arrival_date>
+9319                                                                                <departure_date>01-Apr-1992</departure_date>
+9320                                                                                       <location>Yangon | Myanmar</location>
+9321                                                                                                <transportation_modes>ferry 
+9322                                                                                                                       tram 
+9323                                                                                                                    caravan 
+9324                                                                                                                      train 
+9325                                                                                                 walk</transportation_modes>
+9326                                                                                                         <genre>Male</genre>
+9327                                                                                                  <hotel>Hintz Group</hotel>
+9328                                                                                                                      </row>
+9329                                                                                                                       <row>
+9330                                                                                     <arrival_date>11-18-2018</arrival_date>
+9331                                                                                <departure_date>25-Nov-2018</departure_date>
+9332                                                                                   <location>Casablanca - Morocco</location>
+9333                                                 <transportation_modes>car - train - ferry - airplane</transportation_modes>
+9334                                                                                                          <genre>Fem</genre>
+9335                                                                                                <hotel>Blick-Bartell</hotel>
+9336                                                                                                                      </row>
+9337                                                                                                                       <row>
+9338                                                                                     <arrival_date>05-07-2013</arrival_date>
+9339                                                                                <departure_date>13-May-2013</departure_date>
+9340                                                                                     <location>Dhaka - Bangladesh</location>
+9341                           <transportation_modes>caravan - motorcycle - tram - walk - boat - airplane</transportation_modes>
+9342                                                                                                          <genre>Fem</genre>
+9343                                                                                    <hotel>Funk, Morar and Rodriguez</hotel>
+9344                                                                                                                      </row>
+9345                                                                                                                       <row>
+9346                                                                                     <arrival_date>07-08-2020</arrival_date>
+9347                                                                                <departure_date>15-Jul-2020</departure_date>
+9348                                                                            <location>Johannesburg - South Africa</location>
+9349                        <transportation_modes>caravan | subway | boat | taxi | bicycle | ferry | tram</transportation_modes>
+9350                                                                                                         <genre>Male</genre>
+9351                                                                                                   <hotel>Murray LLC</hotel>
+9352                                                                                                                      </row>
+9353                                                                                                                       <row>
+9354                                                                                     <arrival_date>02-21-2010</arrival_date>
+9355                                                                                <departure_date>01-Mar-2010</departure_date>
+9356                                                                                 <location>Addis Ababa - Ethiopia</location>
+9357                                                                                                 <transportation_modes>walk 
+9358                                                                                                                        car 
+9359                                                                                                                    bicycle 
+9360                                                                                                                      train 
+9361                                                                                           motorcycle</transportation_modes>
+9362                                                                                                         <genre>Male</genre>
+9363                                                                                              <hotel>Champlin-Kemmer</hotel>
+9364                                                                                                                      </row>
+9365                                                                                                                       <row>
+9366                                                                                     <arrival_date>08-21-2007</arrival_date>
+9367                                                                                <departure_date>30-Aug-2007</departure_date>
+9368                                                                                 <location>Addis Ababa | Ethiopia</location>
+9369            <transportation_modes>car | taxi | motorcycle | caravan | train | subway | tram | bicycle</transportation_modes>
+9370                                                                                                            <genre>F</genre>
+9371                                                                                                 <hotel>Sporer Group</hotel>
+9372                                                                                                                      </row>
+9373                                                                                                                       <row>
+9374                                                                                     <arrival_date>05-14-1986</arrival_date>
+9375                                                                                <departure_date>19-May-1986</departure_date>
+9376                                                                                                             <location>Pune 
+9377                                                                                                            India</location>
+9378                                                                                              <transportation_modes>bicycle 
+9379                                                                                                                       taxi 
+9380                                                                                                                      horse 
+9381                                                                                                                      train 
+9382                                                                                                                       boat 
+9383                                                                                                ferry</transportation_modes>
+9384                                                                                                       <genre>Female</genre>
+9385                                                                                                   <hotel>Cremin Inc</hotel>
+9386                                                                                                                      </row>
+9387                                                                                                                       <row>
+9388                                                                                     <arrival_date>03-13-1981</arrival_date>
+9389                                                                                <departure_date>21-Mar-1981</departure_date>
+9390                                                                                   <location>Casablanca | Morocco</location>
+9391                                               <transportation_modes>car | airplane | caravan | ferry</transportation_modes>
+9392                                                                                                         <genre>Masc</genre>
+9393                                                                                                 <hotel>Botsford Inc</hotel>
+9394                                                                                                                      </row>
+9395                                                                                                                       <row>
+9396                                                                                     <arrival_date>05-22-2001</arrival_date>
+9397                                                                                <departure_date>01-Jun-2001</departure_date>
+9398                                                                                          <location>Delhi | India</location>
+9399                    <transportation_modes>boat - car - train - subway - airplane - horse - motorcycle</transportation_modes>
+9400                                                                                                         <genre>Masc</genre>
+9401                                                                                                 <hotel>Sporer Group</hotel>
+9402                                                                                                                      </row>
+9403                                                                                                                       <row>
+9404                                                                                     <arrival_date>10-25-1992</arrival_date>
+9405                                                                                <departure_date>29-Oct-1992</departure_date>
+9406                                                                                  <location>Abidjan | Ivory Coast</location>
+9407                                     <transportation_modes>boat | subway | train | car | tram | horse</transportation_modes>
+9408                                                                                                            <genre>M</genre>
+9409                                                                                                <hotel>Blick-Bartell</hotel>
+9410                                                                                                                      </row>
+9411                                                                                                                       <row>
+9412                                                                                     <arrival_date>03-12-2021</arrival_date>
+9413                                                                                <departure_date>17-Mar-2021</departure_date>
+9414                                                                                <location>Rio de Janeiro - Brazil</location>
+9415                                                                                             <transportation_modes>airplane 
+9416                                                                                                                      horse 
+9417                                                                                                                       tram 
+9418                                                                                                                      ferry 
+9419                                                                                                                       walk 
+9420                                                                                                                        car 
+9421                                                                                                                    caravan 
+9422                                                                                                train</transportation_modes>
+9423                                                                                                            <genre>F</genre>
+9424                                                                                <hotel>Lubowitz, Prohaska and Reilly</hotel>
+9425                                                                                                                      </row>
+9426                                                                                                                       <row>
+9427                                                                                     <arrival_date>04-14-1990</arrival_date>
+9428                                                                                <departure_date>19-Apr-1990</departure_date>
+9429                                                                                                           <location>Durban 
+9430                                                                                                     South Africa</location>
+9431                                    <transportation_modes>car | subway | ferry | bicycle | boat | bus</transportation_modes>
+9432                                                                                                       <genre>Female</genre>
+9433                                                                                                <hotel>Bahringer LLC</hotel>
+9434                                                                                                                      </row>
+9435                                                                                                                       <row>
+9436                                                                                     <arrival_date>03-05-1997</arrival_date>
+9437                                                                                <departure_date>09-Mar-1997</departure_date>
+9438                                                                                                          <location>Bangkok 
+9439                                                                                                         Thailand</location>
+9440                                       <transportation_modes>tram - horse - airplane - subway - train</transportation_modes>
+9441                                                                                                         <genre>Masc</genre>
+9442                                                                                <hotel>Lubowitz, Prohaska and Reilly</hotel>
+9443                                                                                                                      </row>
+9444                                                                                                                       <row>
+9445                                                                                     <arrival_date>06-30-1979</arrival_date>
+9446                                                                                <departure_date>09-Jul-1979</departure_date>
+9447                                                                                                           <location>Mumbai 
+9448                                                                                                            India</location>
+9449                  <transportation_modes>tram - car - airplane - bus - boat - train - bicycle - subway</transportation_modes>
+9450                                                                                                            <genre>F</genre>
+9451                                                                                                   <hotel>Feest-Bode</hotel>
+9452                                                                                                                      </row>
+9453                                                                                                                       <row>
+9454                                                                                     <arrival_date>02-20-1978</arrival_date>
+9455                                                                                <departure_date>26-Feb-1978</departure_date>
+9456                                                                                        <location>Beijing - China</location>
+9457                                                                                                 <transportation_modes>taxi 
+9458                                                                                                                    bicycle 
+9459                                                                                                                      ferry 
+9460                                                                                               subway</transportation_modes>
+9461                                                                                                         <genre>masc</genre>
+9462                                                                                              <hotel>Champlin-Kemmer</hotel>
+9463                                                                                                                      </row>
+9464                                                                                                                       <row>
+9465                                                                                     <arrival_date>04-24-1996</arrival_date>
+9466                                                                                <departure_date>29-Apr-1996</departure_date>
+9467                                                                                                          <location>Chennai 
+9468                                                                                                            India</location>
+9469                                                                                                 <transportation_modes>boat 
+9470                                                                                                                    caravan 
+9471                                                                                                                       tram 
+9472                                                                                                                      horse 
+9473                                                                                                                 motorcycle 
+9474                                                                                                                       taxi 
+9475                                                                                                                     subway 
+9476                                                                                                train</transportation_modes>
+9477                                                                                                            <genre>M</genre>
+9478                                                                                                   <hotel>Feest-Bode</hotel>
+9479                                                                                                                      </row>
+9480                                                                                                                       <row>
+9481                                                                                     <arrival_date>10-25-1984</arrival_date>
+9482                                                                                <departure_date>30-Oct-1984</departure_date>
+9483                                                                            <location>Johannesburg | South Africa</location>
+9484                             <transportation_modes>tram | boat | taxi | airplane | horse | motorcycle</transportation_modes>
+9485                                                                                                       <genre>Female</genre>
+9486                                                                                                   <hotel>Cole Group</hotel>
+9487                                                                                                                      </row>
+9488                                                                                                                       <row>
+9489                                                                                     <arrival_date>04-07-1976</arrival_date>
+9490                                                                                <departure_date>11-Apr-1976</departure_date>
+9491                                                                                  <location>Abidjan | Ivory Coast</location>
+9492                    <transportation_modes>train - ferry - tram - bicycle - subway - walk - motorcycle</transportation_modes>
+9493                                                                                                          <genre>Fem</genre>
+9494                                                                                <hotel>Schinner, Sauer and Powlowski</hotel>
+9495                                                                                                                      </row>
+9496                                                                                                                       <row>
+9497                                                                                     <arrival_date>08-27-2016</arrival_date>
+9498                                                                                <departure_date>01-Sep-2016</departure_date>
+9499                                                                                                           <location>Yangon 
+9500                                                                                                          Myanmar</location>
+9501                       <transportation_modes>airplane - motorcycle - bus - tram - car - train - horse</transportation_modes>
+9502                                                                                                         <genre>masc</genre>
+9503                                                                                                <hotel>Quigley-Braun</hotel>
+9504                                                                                                                      </row>
+9505                                                                                                                       <row>
+9506                                                                                     <arrival_date>10-31-2017</arrival_date>
+9507                                                                                <departure_date>10-Nov-2017</departure_date>
+9508                                                                                  <location>Abidjan | Ivory Coast</location>
+9509                                                                                                  <transportation_modes>bus 
+9510                                                                                                                       walk 
+9511                                                                                                                        car 
+9512                                                                                                                      ferry 
+9513                                                                                                                     subway 
+9514                                                                                                horse</transportation_modes>
+9515                                                                                                          <genre>fem</genre>
+9516                                                                                    <hotel>Funk, Morar and Rodriguez</hotel>
+9517                                                                                                                      </row>
+9518                                                                                                                       <row>
+9519                                                                                     <arrival_date>07-21-1973</arrival_date>
+9520                                                                                <departure_date>25-Jul-1973</departure_date>
+9521                                                                                <location>London - United Kingdom</location>
+9522                                         <transportation_modes>subway - train - airplane - car - taxi</transportation_modes>
+9523                                                                                                         <genre>masc</genre>
+9524                                                                                    <hotel>Hayes, Bins and Considine</hotel>
+9525                                                                                                                      </row>
+9526                                                                                                                       <row>
+9527                                                                                     <arrival_date>02-20-1972</arrival_date>
+9528                                                                                <departure_date>26-Feb-1972</departure_date>
+9529                                                                                <location>London - United Kingdom</location>
+9530                                          <transportation_modes>airplane - car - bus - caravan - boat</transportation_modes>
+9531                                                                                                         <genre>masc</genre>
+9532                                                                                   <hotel>Heaney - Robel and Witting</hotel>
+9533                                                                                                                      </row>
+9534                                                                                                                       <row>
+9535                                                                                     <arrival_date>01-27-1999</arrival_date>
+9536                                                                                <departure_date>05-Feb-1999</departure_date>
+9537                                                                                        <location>Ankara | Turkey</location>
+9538                                                                                                 <transportation_modes>tram 
+9539                                                                                                                    caravan 
+9540                                                                                                                    bicycle 
+9541                                                                                                                       taxi 
+9542                                                                                                                        car 
+9543                                                                                                                      train 
+9544                                                                                                 walk</transportation_modes>
+9545                                                                                                         <genre>masc</genre>
+9546                                                                                          <hotel>Altenwerth and Sons</hotel>
+9547                                                                                                                      </row>
+9548                                                                                                                       <row>
+9549                                                                                     <arrival_date>07-13-2015</arrival_date>
+9550                                                                                <departure_date>17-Jul-2015</departure_date>
+9551                                                                                          <location>Delhi - India</location>
+9552                   <transportation_modes>car | boat | subway | ferry | taxi | airplane | tram | horse</transportation_modes>
+9553                                                                                                         <genre>Masc</genre>
+9554                                                                                    <hotel>Koelpin, Hoppe and Corwin</hotel>
+9555                                                                                                                      </row>
+9556                                                                                                                       <row>
+9557                                                                                     <arrival_date>12-20-2020</arrival_date>
+9558                                                                                <departure_date>28-Dec-2020</departure_date>
+9559                                                                                        <location>Ankara - Turkey</location>
+9560                                                                                                 <transportation_modes>tram 
+9561                                                                                                                      train 
+9562                                                                                                                       boat 
+9563                                                                                                                    caravan 
+9564                                                                                                 taxi</transportation_modes>
+9565                                                                                                       <genre>Female</genre>
+9566                                                                                                   <hotel>Cremin Inc</hotel>
+9567                                                                                                                      </row>
+9568                                                                                                                       <row>
+9569                                                                                     <arrival_date>08-16-2016</arrival_date>
+9570                                                                                <departure_date>25-Aug-2016</departure_date>
+9571                                                                                     <location>Dhaka | Bangladesh</location>
+9572                                                                                             <transportation_modes>airplane 
+9573                                                                                                                        bus 
+9574                                                                                                                    bicycle 
+9575                                                                                                                       tram 
+9576                                                                                                                       boat 
+9577                                                                                                                       taxi 
+9578                                                                                                                      train 
+9579                                                                                                 walk</transportation_modes>
+9580                                                                                                          <genre>Fem</genre>
+9581                                                                                 <hotel>Fritsch, Hegmann and Mueller</hotel>
+9582                                                                                                                      </row>
+9583                                                                                                                       <row>
+9584                                                                                     <arrival_date>06-16-1975</arrival_date>
+9585                                                                                <departure_date>25-Jun-1975</departure_date>
+9586                                                                                                          <location>Chennai 
+9587                                                                                                            India</location>
+9588                                                                                                 <transportation_modes>tram 
+9589                                                                                                                     subway 
+9590                                                                                                                   airplane 
+9591                                                                                                                    caravan 
+9592                                                                                                                    bicycle 
+9593                                                                                                                       boat 
+9594                                                                                                 taxi</transportation_modes>
+9595                                                                                                         <genre>masc</genre>
+9596                                                                                         <hotel>Cruickshank-Franecki</hotel>
+9597                                                                                                                      </row>
+9598                                                                                                                       <row>
+9599                                                                                     <arrival_date>05-29-1993</arrival_date>
+9600                                                                                <departure_date>02-Jun-1993</departure_date>
+9601                                                                                                            <location>Dhaka 
+9602                                                                                                       Bangladesh</location>
+9603                   <transportation_modes>bus | tram | bicycle | walk | motorcycle | subway | airplane</transportation_modes>
+9604                                                                                                          <genre>fem</genre>
+9605                                                                                <hotel>Schinner, Sauer and Powlowski</hotel>
+9606                                                                                                                      </row>
+9607                                                                                                                       <row>
+9608                                                                                     <arrival_date>05-18-1974</arrival_date>
+9609                                                                                <departure_date>28-May-1974</departure_date>
+9610                                                                                                          <location>Abidjan 
+9611                                                                                                      Ivory Coast</location>
+9612              <transportation_modes>horse | train | bus | tram | motorcycle | subway | car | airplane</transportation_modes>
+9613                                                                                                         <genre>masc</genre>
+9614                                                                                                 <hotel>Botsford Inc</hotel>
+9615                                                                                                                      </row>
+9616                                                                                                                       <row>
+9617                                                                                     <arrival_date>10-07-1993</arrival_date>
+9618                                                                                <departure_date>12-Oct-1993</departure_date>
+9619                                                                                                           <location>Yangon 
+9620                                                                                                          Myanmar</location>
+9621              <transportation_modes>walk | ferry | bus | motorcycle | caravan | bicycle | car | train</transportation_modes>
+9622                                                                                                         <genre>Masc</genre>
+9623                                                                                                    <hotel>Kulas LLC</hotel>
+9624                                                                                                                      </row>
+9625                                                                                                                       <row>
+9626                                                                                     <arrival_date>09-13-1997</arrival_date>
+9627                                                                                <departure_date>18-Sep-1997</departure_date>
+9628                                                                                <location>Rio de Janeiro | Brazil</location>
+9629                                                                                                 <transportation_modes>boat 
+9630                                                                                                                    bicycle 
+9631                                                                                                                    caravan 
+9632                                                                                                                        bus 
+9633                                                                                                                     subway 
+9634                                                                                                                 motorcycle 
+9635                                                                                                                       walk 
+9636                                                                                             airplane</transportation_modes>
+9637                                                                                                       <genre>Female</genre>
+9638                                                                                        <hotel>Dare, Hoppe and Moore</hotel>
+9639                                                                                                                      </row>
+9640                                                                                                                       <row>
+9641                                                                                     <arrival_date>02-06-1976</arrival_date>
+9642                                                                                <departure_date>11-Feb-1976</departure_date>
+9643                                                                                 <location>Addis Ababa - Ethiopia</location>
+9644                                                                                               <transportation_modes>subway 
+9645                                                                                                                    bicycle 
+9646                                                                                                                      train 
+9647                                                                                                                        bus 
+9648                                                                                                horse</transportation_modes>
+9649                                                                                                            <genre>M</genre>
+9650                                                                                              <hotel>Rempel and Sons</hotel>
+9651                                                                                                                      </row>
+9652                                                                                                                       <row>
+9653                                                                                     <arrival_date>10-10-2008</arrival_date>
+9654                                                                                <departure_date>17-Oct-2008</departure_date>
+9655                                                                                        <location>Hanoi - Vietnam</location>
+9656                                                                                                  <transportation_modes>bus 
+9657                                                                                                                       taxi 
+9658                                                                                                                       walk 
+9659                                                                                                                      horse 
+9660                                                                                                                        car 
+9661                                                                                                                    caravan 
+9662                                                                                                                   airplane 
+9663                                                                                                train</transportation_modes>
+9664                                                                                                            <genre>F</genre>
+9665                                                                                                 <hotel>Rogahn-Crist</hotel>
+9666                                                                                                                      </row>
+9667                                                                                                                       <row>
+9668                                                                                     <arrival_date>01-30-2014</arrival_date>
+9669                                                                                <departure_date>04-Feb-2014</departure_date>
+9670                                                                                                           <location>Yangon 
+9671                                                                                                          Myanmar</location>
+9672                                                                                                 <transportation_modes>boat 
+9673                                                                                                                      horse 
+9674                                                                                                                        bus 
+9675                                                                                                                        car 
+9676                                                                                                                      train 
+9677                                                                                                 tram</transportation_modes>
+9678                                                                                                            <genre>F</genre>
+9679                                                                                    <hotel>Hayes, Bins and Considine</hotel>
+9680                                                                                                                      </row>
+9681                                                                                                                       <row>
+9682                                                                                     <arrival_date>08-11-2009</arrival_date>
+9683                                                                                <departure_date>19-Aug-2009</departure_date>
+9684                                                                                                       <location>Casablanca 
+9685                                                                                                          Morocco</location>
+9686                       <transportation_modes>boat | tram | caravan | horse | bicycle | airplane | bus</transportation_modes>
+9687                                                                                                            <genre>F</genre>
+9688                                                                                     <hotel>Kassulke, Rath and Upton</hotel>
+9689                                                                                                                      </row>
+9690                                                                                                                       <row>
+9691                                                                                     <arrival_date>03-03-2018</arrival_date>
+9692                                                                                <departure_date>12-Mar-2018</departure_date>
+9693                                                                                                      <location>Mexico City 
+9694                                                                                                           Mexico</location>
+9695                                                                                                <transportation_modes>ferry 
+9696                                                                                                                        car 
+9697                                                                                                                      train 
+9698                                                                                                                       boat 
+9699                                                                                                                 motorcycle 
+9700                                                                                                horse</transportation_modes>
+9701                                                                                                            <genre>F</genre>
+9702                                                                                                  <hotel>Goldner LLC</hotel>
+9703                                                                                                                      </row>
+9704                                                                                                                       <row>
+9705                                                                                     <arrival_date>07-18-2019</arrival_date>
+9706                                                                                <departure_date>22-Jul-2019</departure_date>
+9707                                                                                                             <location>Pune 
+9708                                                                                                            India</location>
+9709             <transportation_modes>train - bus - caravan - tram - airplane - ferry - car - motorcycle</transportation_modes>
+9710                                                                                                            <genre>M</genre>
+9711                                                                                    <hotel>Hayes, Bins and Considine</hotel>
+9712                                                                                                                      </row>
+9713                                                                                                                       <row>
+9714                                                                                     <arrival_date>10-24-1983</arrival_date>
+9715                                                                                <departure_date>30-Oct-1983</departure_date>
+9716                                                                                                       <location>Casablanca 
+9717                                                                                                          Morocco</location>
+9718                                 <transportation_modes>bus - bicycle - taxi - horse - train - caravan</transportation_modes>
+9719                                                                                                            <genre>M</genre>
+9720                                                                                                   <hotel>Ledner LLC</hotel>
+9721                                                                                                                      </row>
+9722                                                                                                                       <row>
+9723                                                                                     <arrival_date>06-18-1981</arrival_date>
+9724                                                                                <departure_date>23-Jun-1981</departure_date>
+9725                                                                                                             <location>Pune 
+9726                                                                                                            India</location>
+9727                  <transportation_modes>caravan | ferry | horse | car | tram | bicycle | train | taxi</transportation_modes>
+9728                                                                                                         <genre>Male</genre>
+9729                                                                                                 <hotel>Botsford Inc</hotel>
+9730                                                                                                                      </row>
+9731                                                                                                                       <row>
+9732                                                                                     <arrival_date>11-18-2008</arrival_date>
+9733                                                                                <departure_date>26-Nov-2008</departure_date>
+9734                                                                            <location>Johannesburg - South Africa</location>
+9735                                                                                           <transportation_modes>motorcycle 
+9736                                                                                                                    bicycle 
+9737                                                                                                                      ferry 
+9738                                                                                                                       walk 
+9739                                                                                                                       boat 
+9740                                                                                                                     subway 
+9741                                                                                                                      horse 
+9742                                                                                                train</transportation_modes>
+9743                                                                                                          <genre>Fem</genre>
+9744                                                                                            <hotel>Kerluke-Armstrong</hotel>
+9745                                                                                                                      </row>
+9746                                                                                                                       <row>
+9747                                                                                     <arrival_date>03-14-2005</arrival_date>
+9748                                                                                <departure_date>23-Mar-2005</departure_date>
+9749                                                                                                     <location>Johannesburg 
+9750                                                                                                     South Africa</location>
+9751                                                                                             <transportation_modes>airplane 
+9752                                                                                                                     subway 
+9753                                                                                                                      train 
+9754                                                                                                                       tram 
+9755                                                                                           motorcycle</transportation_modes>
+9756                                                                                                          <genre>Fem</genre>
+9757                                                                                                <hotel>Blick-Bartell</hotel>
+9758                                                                                                                      </row>
+9759                                                                                                                       <row>
+9760                                                                                     <arrival_date>12-03-2004</arrival_date>
+9761                                                                                <departure_date>10-Dec-2004</departure_date>
+9762                                                                                                           <location>London 
+9763                                                                                                   United Kingdom</location>
+9764                <transportation_modes>caravan - boat - subway - airplane - bicycle - bus - motorcycle</transportation_modes>
+9765                                                                                                          <genre>fem</genre>
+9766                                                                                                   <hotel>Ledner LLC</hotel>
+9767                                                                                                                      </row>
+9768                                                                                                                       <row>
+9769                                                                                     <arrival_date>12-06-2010</arrival_date>
+9770                                                                                <departure_date>16-Dec-2010</departure_date>
+9771                                                                                           <location>Pune - India</location>
+9772                                                                                                 <transportation_modes>boat 
+9773                                                                                                                       walk 
+9774                                                                                                                    caravan 
+9775                                                                                                                      horse 
+9776                                                                                                                   airplane 
+9777                                                                                                                 motorcycle 
+9778                                                                                               subway</transportation_modes>
+9779                                                                                                          <genre>fem</genre>
+9780                                                                                                   <hotel>Ledner LLC</hotel>
+9781                                                                                                                      </row>
+9782                                                                                                                       <row>
+9783                                                                                     <arrival_date>11-30-1981</arrival_date>
+9784                                                                                <departure_date>09-Dec-1981</departure_date>
+9785                                                                                        <location>Hanoi | Vietnam</location>
+9786                      <transportation_modes>boat | tram | train | ferry | subway | airplane | caravan</transportation_modes>
+9787                                                                                                            <genre>M</genre>
+9788                                                                                                    <hotel>Kulas LLC</hotel>
+9789                                                                                                                      </row>
+9790                                                                                                                       <row>
+9791                                                                                     <arrival_date>03-04-1977</arrival_date>
+9792                                                                                <departure_date>10-Mar-1977</departure_date>
+9793                                                                            <location>Johannesburg - South Africa</location>
+9794               <transportation_modes>train - horse - car - airplane - caravan - bicycle - walk - tram</transportation_modes>
+9795                                                                                                            <genre>M</genre>
+9796                                                                                        <hotel>Dare, Hoppe and Moore</hotel>
+9797                                                                                                                      </row>
+9798                                                                                                                       <row>
+9799                                                                                     <arrival_date>12-26-1975</arrival_date>
+9800                                                                                <departure_date>01-Jan-1976</departure_date>
+9801                                                                                 <location>Addis Ababa - Ethiopia</location>
+9802                                                                                                <transportation_modes>train 
+9803                                                                                                                       tram 
+9804                                                                                                                    caravan 
+9805                                                                                                horse</transportation_modes>
+9806                                                                                                          <genre>fem</genre>
+9807                                                                                                  <hotel>Schaden LLC</hotel>
+9808                                                                                                                      </row>
+9809                                                                                                                       <row>
+9810                                                                                     <arrival_date>05-22-1990</arrival_date>
+9811                                                                                <departure_date>28-May-1990</departure_date>
+9812                                                                                          <location>Delhi - India</location>
+9813                     <transportation_modes>taxi | boat | tram | train | walk | car | ferry | airplane</transportation_modes>
+9814                                                                                                          <genre>fem</genre>
+9815                                                                                                   <hotel>Murray LLC</hotel>
+9816                                                                                                                      </row>
+9817                                                                                                                       <row>
+9818                                                                                     <arrival_date>02-21-2001</arrival_date>
+9819                                                                                <departure_date>27-Feb-2001</departure_date>
+9820                                                                                        <location>Hanoi - Vietnam</location>
+9821                                              <transportation_modes>airplane - caravan - walk - ferry</transportation_modes>
+9822                                                                                                         <genre>masc</genre>
+9823                                                                                                   <hotel>Feest-Bode</hotel>
+9824                                                                                                                      </row>
+9825                                                                                                                       <row>
+9826                                                                                     <arrival_date>02-15-2014</arrival_date>
+9827                                                                                <departure_date>25-Feb-2014</departure_date>
+9828                                                                                  <location>Abidjan - Ivory Coast</location>
+9829                                                                                               <transportation_modes>subway 
+9830                                                                                                                        car 
+9831                                                                                                                    bicycle 
+9832                                                                                                                      ferry 
+9833                                                                                                                       tram 
+9834                                                                                                                       walk 
+9835                                                                                                  bus</transportation_modes>
+9836                                                                                                            <genre>M</genre>
+9837                                                                                                   <hotel>Feest-Bode</hotel>
+9838                                                                                                                      </row>
+9839                                                                                                                       <row>
+9840                                                                                     <arrival_date>04-12-2007</arrival_date>
+9841                                                                                <departure_date>19-Apr-2007</departure_date>
+9842                                                                                  <location>Durban - South Africa</location>
+9843                                                                                                  <transportation_modes>bus 
+9844                                                                                                                    bicycle 
+9845                                                                                                                        car 
+9846                                                                                                                       tram 
+9847                                                                                                                       boat 
+9848                                                                                                                      ferry 
+9849                                                                                                                   airplane 
+9850                                                                                              caravan</transportation_modes>
+9851                                                                                                          <genre>Fem</genre>
+9852                                                                                                   <hotel>Feest-Bode</hotel>
+9853                                                                                                                      </row>
+9854                                                                                                                       <row>
+9855                                                                                     <arrival_date>05-04-2001</arrival_date>
+9856                                                                                <departure_date>09-May-2001</departure_date>
+9857                                                                                        <location>Beijing - China</location>
+9858                       <transportation_modes>caravan - motorcycle - boat - taxi - walk - tram - horse</transportation_modes>
+9859                                                                                                          <genre>fem</genre>
+9860                                                                         <hotel>Hodkiewicz, Luettgen and Stoltenberg</hotel>
+9861                                                                                                                      </row>
+9862                                                                                                                       <row>
+9863                                                                                     <arrival_date>11-16-2012</arrival_date>
+9864                                                                                <departure_date>26-Nov-2012</departure_date>
+9865                                                                                                           <location>Mumbai 
+9866                                                                                                            India</location>
+9867                           <transportation_modes>tram - caravan - airplane - car - ferry - motorcycle</transportation_modes>
+9868                                                                                                          <genre>fem</genre>
+9869                                                                                                <hotel>Quigley-Braun</hotel>
+9870                                                                                                                      </row>
+9871                                                                                                                       <row>
+9872                                                                                     <arrival_date>06-12-1973</arrival_date>
+9873                                                                                <departure_date>20-Jun-1973</departure_date>
+9874                                                                                   <location>Casablanca - Morocco</location>
+9875                                                                                              <transportation_modes>bicycle 
+9876                                                                                                                    caravan 
+9877                                                                                                                        bus 
+9878                                                                                                                       boat 
+9879                                                                                                                      ferry 
+9880                                                                                                train</transportation_modes>
+9881                                                                                                         <genre>Male</genre>
+9882                                                                                        <hotel>Dare, Hoppe and Moore</hotel>
+9883                                                                                                                      </row>
+9884                                                                                                                       <row>
+9885                                                                                     <arrival_date>03-28-1972</arrival_date>
+9886                                                                                <departure_date>07-Apr-1972</departure_date>
+9887                                                                                                            <location>Lagos 
+9888                                                                                                          Nigeria</location>
+9889             <transportation_modes>boat | train | airplane | taxi | bus | subway | ferry | motorcycle</transportation_modes>
+9890                                                                                                         <genre>masc</genre>
+9891                                                                                         <hotel>Cruickshank-Franecki</hotel>
+9892                                                                                                                      </row>
+9893                                                                                                                       <row>
+9894                                                                                     <arrival_date>04-28-1971</arrival_date>
+9895                                                                                <departure_date>05-May-1971</departure_date>
+9896                                                                                        <location>Beijing | China</location>
+9897               <transportation_modes>horse | boat | train | caravan | airplane | walk | taxi | subway</transportation_modes>
+9898                                                                                                       <genre>Female</genre>
+9899                                                                                                   <hotel>Feest-Bode</hotel>
+9900                                                                                                                      </row>
+9901                                                                                                                       <row>
+9902                                                                                     <arrival_date>11-09-2000</arrival_date>
+9903                                                                                <departure_date>15-Nov-2000</departure_date>
+9904                                                                                     <location>Bangkok | Thailand</location>
+9905                                                  <transportation_modes>bicycle | car | ferry | horse</transportation_modes>
+9906                                                                                                            <genre>F</genre>
+9907                                                                                     <hotel>Kassulke, Rath and Upton</hotel>
+9908                                                                                                                      </row>
+9909                                                                                                                       <row>
+9910                                                                                     <arrival_date>03-08-1979</arrival_date>
+9911                                                                                <departure_date>13-Mar-1979</departure_date>
+9912                                                                                        <location>Beijing | China</location>
+9913                                       <transportation_modes>airplane - caravan - car - taxi - subway</transportation_modes>
+9914                                                                                                          <genre>fem</genre>
+9915                                                                                             <hotel>Langosh-Franecki</hotel>
+9916                                                                                                                      </row>
+9917                                                                                                                       <row>
+9918                                                                                     <arrival_date>03-19-1974</arrival_date>
+9919                                                                                <departure_date>27-Mar-1974</departure_date>
+9920                                                                                                   <location>Rio de Janeiro 
+9921                                                                                                           Brazil</location>
+9922                                                                                              <transportation_modes>caravan 
+9923                                                                                                                       tram 
+9924                                                                                                                      horse 
+9925                                                                                                                      ferry 
+9926                                                                                                                     subway 
+9927                                                                                                                       boat 
+9928                                                                                                                       walk 
+9929                                                                                             airplane</transportation_modes>
+9930                                                                                                            <genre>F</genre>
+9931                                                                                                   <hotel>Feest-Bode</hotel>
+9932                                                                                                                      </row>
+9933                                                                                                                       <row>
+9934                                                                                     <arrival_date>12-16-1974</arrival_date>
+9935                                                                                <departure_date>25-Dec-1974</departure_date>
+9936                                                                                                   <location>Rio de Janeiro 
+9937                                                                                                           Brazil</location>
+9938                                      <transportation_modes>taxi - boat - subway - car - tram - ferry</transportation_modes>
+9939                                                                                                            <genre>M</genre>
+9940                                                                                <hotel>Lubowitz, Prohaska and Reilly</hotel>
+9941                                                                                                                      </row>
+9942                                                                                                                       <row>
+9943                                                                                     <arrival_date>05-09-1997</arrival_date>
+9944                                                                                <departure_date>14-May-1997</departure_date>
+9945                                                                                                           <location>Durban 
+9946                                                                                                     South Africa</location>
+9947                                                                                                <transportation_modes>train 
+9948                                                                                                                      ferry 
+9949                                                                                                                        bus 
+9950                                                                                                                   airplane 
+9951                                                                                                 tram</transportation_modes>
+9952                                                                                                         <genre>Male</genre>
+9953                                                                                                   <hotel>Murray LLC</hotel>
+9954                                                                                                                      </row>
+9955                                                                                                                       <row>
+9956                                                                                     <arrival_date>06-06-1973</arrival_date>
+9957                                                                                <departure_date>13-Jun-1973</departure_date>
+9958                                                                                                          <location>Bangkok 
+9959                                                                                                         Thailand</location>
+9960                                                                                                <transportation_modes>ferry 
+9961                                                                                                                     subway 
+9962                                                                                                                      horse 
+9963                                                                                                                       taxi 
+9964                                                                                                                       boat 
+9965                                                                                                  car</transportation_modes>
+9966                                                                                                         <genre>Male</genre>
+9967                                                                                                    <hotel>Kulas LLC</hotel>
+9968                                                                                                                      </row>
+9969                                                                                                                       <row>
+9970                                                                                     <arrival_date>07-07-2017</arrival_date>
+9971                                                                                <departure_date>13-Jul-2017</departure_date>
+9972                                                                                        <location>Ankara | Turkey</location>
+9973                 <transportation_modes>horse | taxi | caravan | airplane | car | walk | train | ferry</transportation_modes>
+9974                                                                                                         <genre>Masc</genre>
+9975                                                                                    <hotel>Koelpin, Hoppe and Corwin</hotel>
+9976                                                                                                                      </row>
+9977                                                                                                                       <row>
+9978                                                                                     <arrival_date>07-06-2019</arrival_date>
+9979                                                                                <departure_date>11-Jul-2019</departure_date>
+9980                                                                                        <location>Beijing | China</location>
+9981                                                                                             <transportation_modes>airplane 
+9982                                                                                                                    caravan 
+9983                                                                                                                        bus 
+9984                                                                                                                      train 
+9985                                                                                                horse</transportation_modes>
+9986                                                                                                         <genre>Masc</genre>
+9987                                                                                                <hotel>Quigley-Braun</hotel>
+9988                                                                                                                      </row>
+9989                                                                                                                       <row>
+9990                                                                                     <arrival_date>01-02-1984</arrival_date>
+9991                                                                                <departure_date>08-Jan-1984</departure_date>
+9992                                                                                      <location>Lahore - Pakistan</location>
+9993              <transportation_modes>bicycle - airplane - subway - car - caravan - taxi - tram - ferry</transportation_modes>
+9994                                                                                                         <genre>masc</genre>
+9995                                                                            <hotel>Medhurst, Streich and Schamberger</hotel>
+9996                                                                                                                      </row>
+9997                                                                                                                       <row>
+9998                                                                                     <arrival_date>03-20-2017</arrival_date>
+9999                                                                                <departure_date>28-Mar-2017</departure_date>
+10000                                                                                                           <location>Dhaka 
+10001                                                                                                      Bangladesh</location>
+10002                                                                                                <transportation_modes>tram 
+10003                                                                                                                   caravan 
+10004                                                                                                                      taxi 
+10005                                                                                                                   bicycle 
+10006                                                                                               ferry</transportation_modes>
+10007                                                                                                        <genre>Male</genre>
+10008                                                                        <hotel>Hodkiewicz, Luettgen and Stoltenberg</hotel>
+10009                                                                                                                     </row>
+10010                                                                                                                      <row>
+10011                                                                                    <arrival_date>08-18-2014</arrival_date>
+10012                                                                               <departure_date>26-Aug-2014</departure_date>
+10013                                                                                                      <location>Alexandria 
+10014                                                                                                           Egypt</location>
+10015                  <transportation_modes>horse | tram | subway | bus | car | caravan | taxi | bicycle</transportation_modes>
+10016                                                                                                         <genre>fem</genre>
+10017                                                                                                  <hotel>Heaney Inc</hotel>
+10018                                                                                                                     </row>
+10019                                                                                                                      <row>
+10020                                                                                    <arrival_date>11-26-1980</arrival_date>
+10021                                                                               <departure_date>05-Dec-1980</departure_date>
+10022                                                                           <location>Johannesburg - South Africa</location>
+10023               <transportation_modes>bicycle - car - subway - bus - boat - taxi - airplane - caravan</transportation_modes>
+10024                                                                                                        <genre>Male</genre>
+10025                                                                                   <hotel>Funk, Morar and Rodriguez</hotel>
+10026                                                                                                                     </row>
+10027                                                                                                                      <row>
+10028                                                                                    <arrival_date>12-07-1980</arrival_date>
+10029                                                                               <departure_date>15-Dec-1980</departure_date>
+10030                                                                                <location>Addis Ababa | Ethiopia</location>
+10031                                                                                               <transportation_modes>ferry 
+10032                                                                                                                       bus 
+10033                                                                                                                       car 
+10034                                                                                                                      tram 
+10035                                                                                                                   bicycle 
+10036                                                                                                                   caravan 
+10037                                                                                                boat</transportation_modes>
+10038                                                                                                        <genre>Masc</genre>
+10039                                                                        <hotel>Hodkiewicz, Luettgen and Stoltenberg</hotel>
+10040                                                                                                                     </row>
+10041                                                                                                                      <row>
+10042                                                                                    <arrival_date>04-19-1980</arrival_date>
+10043                                                                               <departure_date>27-Apr-1980</departure_date>
+10044                                                                                                          <location>Lahore 
+10045                                                                                                        Pakistan</location>
+10046               <transportation_modes>tram | bus | walk | horse | motorcycle | train | caravan | taxi</transportation_modes>
+10047                                                                                                        <genre>Masc</genre>
+10048                                                                                                <hotel>Rogahn-Crist</hotel>
+10049                                                                                                                     </row>
+10050                                                                                                                      <row>
+10051                                                                                    <arrival_date>11-14-2011</arrival_date>
+10052                                                                               <departure_date>21-Nov-2011</departure_date>
+10053                                                                                 <location>Abidjan - Ivory Coast</location>
+10054                    <transportation_modes>train - airplane - caravan - car - boat - motorcycle - bus</transportation_modes>
+10055                                                                                                         <genre>fem</genre>
+10056                                                                                                <hotel>Botsford Inc</hotel>
+10057                                                                                                                     </row>
+10058                                                                                                                      <row>
+10059                                                                                    <arrival_date>02-08-1987</arrival_date>
+10060                                                                               <departure_date>15-Feb-1987</departure_date>
+10061                                                                           <location>Johannesburg | South Africa</location>
+10062                                                                                               <transportation_modes>horse 
+10063                                                                                                                   caravan 
+10064                                                                                                                  airplane 
+10065                                                                                                                motorcycle 
+10066                                                                                                                     train 
+10067                                                                                                                   bicycle 
+10068                                                                                                 bus</transportation_modes>
+10069                                                                                                        <genre>Masc</genre>
+10070                                                                                                  <hotel>Grant-Hand</hotel>
+10071                                                                                                                     </row>
+10072                                                                                                                      <row>
+10073                                                                                    <arrival_date>01-21-1971</arrival_date>
+10074                                                                               <departure_date>27-Jan-1971</departure_date>
+10075                                                                                                         <location>Beijing 
+10076                                                                                                           China</location>
+10077                 <transportation_modes>bicycle | tram | motorcycle | bus | airplane | horse | subway</transportation_modes>
+10078                                                                                                           <genre>F</genre>
+10079                                                                                                  <hotel>Ledner LLC</hotel>
+10080                                                                                                                     </row>
+10081                                                                                                                      <row>
+10082                                                                                    <arrival_date>12-06-1992</arrival_date>
+10083                                                                               <departure_date>14-Dec-1992</departure_date>
+10084                                                                                                          <location>Durban 
+10085                                                                                                    South Africa</location>
+10086                                                                                                <transportation_modes>taxi 
+10087                                                                                                                       car 
+10088                                                                                                                       bus 
+10089                                                                                                                    subway 
+10090                                                                                                                      boat 
+10091                                                                                          motorcycle</transportation_modes>
+10092                                                                                                        <genre>Male</genre>
+10093                                                                                   <hotel>Koelpin, Hoppe and Corwin</hotel>
+10094                                                                                                                     </row>
+10095                                                                                                                    </root>
+> dataDB=read.table(file="C:/devoirSID/data/dataset-5-xml.xml", h=TRUE)
+Erreur dans scan(file = file, what = what, sep = sep, quote = quote, dec = dec,  : 
+  la ligne 1 n'avait pas 3 éléments
+> dataDB=read.table(file="C:/devoirSID/data/dataset-5-xml.xml", sep=";", sep="<arrival_date>", h=TRUE)
+Erreur dans read.table(file = "C:/devoirSID/data/dataset-5-xml.xml", sep = ";",  : 
+  argument formel "sep" correspondant à plusieurs arguments fournis
+> dataDB=read.table(file="C:/devoirSID/data/dataset-5-xml.xml", sep=";", h=TRUE)
+> dataDB=read.table(file="C:/devoirSID/data/dataset-5-xml.xml",sep="<arrival_date>", h=TRUE)
+Erreur dans scan(file, what = "", sep = sep, quote = quote, nlines = 1, quiet = TRUE,  : 
+  valeur 'sep' incorrecte : doit être un seul octet
+> con HELP
+Erreur : symbole inattendu dans "con HELP"
+> con + file(C:/devoirSID/data/dataset-5-hotel-prices.json)
+Erreur : '/' inattendu(e) dans "con + file(C:/"
+> con = file(C:/devoirSID/data/dataset-5-hotel-prices.json)
+Erreur : '/' inattendu(e) dans "con = file(C:/"
+> con = file("C:/devoirSID/data/dataset-5-hotel-prices.json")
+> dataDB=read.table(file="C:/devoirSID/data/dataset-5-hotel-prices.json", h=TRUE)
+Erreur dans read.table(file = "C:/devoirSID/data/dataset-5-hotel-prices.json",  : 
+  more columns than column names
+> install packages(rjson)
+Erreur : symbole inattendu dans "install packages"
+> install packages(Rjson)
+Erreur : symbole inattendu dans "install packages"
+> library(Rjson)
+Erreur dans library(Rjson) : aucun package nommé ‘Rjson’ n'est trouvé
+> install packages("rjson")
+Erreur : symbole inattendu dans "install packages"
+> install.packages("rjson")
+Installation du package dans ‘C:/Users/fkounga/Documents/R/win-library/4.1’
+(car ‘lib’ n'est pas spécifié)
+--- SVP sélectionnez un miroir CRAN pour cette session ---
+essai de l'URL 'https://cran.irsn.fr/bin/windows/contrib/4.1/rjson_0.2.20.zip'
+Content type 'application/zip' length 755315 bytes (737 KB)
+downloaded 737 KB
+
+package ‘rjson’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+        C:\Users\fkounga\AppData\Local\Temp\Rtmp6dchXu\downloaded_packages
+> JSONList1 = FromJSON(file="C:/devoirSID/data/dataset-5-hotel-prices.json")
+Erreur dans FromJSON(file = "C:/devoirSID/data/dataset-5-hotel-prices.json") : 
+  impossible de trouver la fonction "FromJSON"
+> library(rjson)
+> JSONList1 = FromJSON(file="C:/devoirSID/data/dataset-5-hotel-prices.json")
+Erreur dans FromJSON(file = "C:/devoirSID/data/dataset-5-hotel-prices.json") : 
+  impossible de trouver la fonction "FromJSON"
+> JSONList1 = FromJSON(file="C:/devoirSID/data/dataset-5-hotel-prices.json")
+Erreur dans FromJSON(file = "C:/devoirSID/data/dataset-5-hotel-prices.json") : 
+  impossible de trouver la fonction "FromJSON"
+> install.packages("jsonlite")
+Installation du package dans ‘C:/Users/fkounga/Documents/R/win-library/4.1’
+(car ‘lib’ n'est pas spécifié)
+essai de l'URL 'https://cran.irsn.fr/bin/windows/contrib/4.1/jsonlite_1.7.2.zip'
+Content type 'application/zip' length 544692 bytes (531 KB)
+downloaded 531 KB
+
+package ‘jsonlite’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+        C:\Users\fkounga\AppData\Local\Temp\Rtmp6dchXu\downloaded_packages
+> install.packages("jsonlite")
+Installation du package dans ‘C:/Users/fkounga/Documents/R/win-library/4.1’
+(car ‘lib’ n'est pas spécifié)
+essai de l'URL 'https://cran.irsn.fr/bin/windows/contrib/4.1/jsonlite_1.7.2.zip'
+Content type 'application/zip' length 544692 bytes (531 KB)
+downloaded 531 KB
+
+package ‘jsonlite’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+        C:\Users\fkounga\AppData\Local\Temp\Rtmp6dchXu\downloaded_packages
+> library(jsonlite)
+
+Attachement du package : ‘jsonlite’
+
+Les objets suivants sont masqués depuis ‘package:rjson’:
+
+    fromJSON, toJSON
+
+> json_array = '[[1,2],[3,4]]'
+> fromJSON(json_array)
+     [,1] [,2]
+[1,]    1    2
+[2,]    3    4
+> class(fromJSON(json_array))
+[1] "matrix" "array" 
+> json_array_new = '[1,2,3,4]'
+> class(fromJSON(json_array_new))
+[1] "integer"
+> fromJSON("array.json")
+Erreur : lexical error: invalid char in json text.
+                                       array.json
+                     (right here) ------^
+> library(jsonlite)
+> JsonData = fromJson("C:/devoirSID/data/dataset-5-hotel-prices.json")
+Erreur dans fromJson("C:/devoirSID/data/dataset-5-hotel-prices.json") : 
+  impossible de trouver la fonction "fromJson"
+> JsonData = https://github.com/lionel-k/ort-montreuil/blob/main/conception-sid/dataset-5-hotel-prices.jsonfromJson("C:/devoirSID/data/dataset-5-hotel-prices.json")
+
+> JsonData = fromJson("https://github.com/lionel-k/ort-montreuil/blob/main/conception-sid/dataset-5-hotel-prices.json")
+Erreur dans fromJson("https://github.com/lionel-k/ort-montreuil/blob/main/conception-sid/dataset-5-hotel-prices.json") : 
+  impossible de trouver la fonction "fromJson"
+> JsonData = fromJSON("C:/devoirSID/data/dataset-5-hotel-prices.json")
+> class(JsonData)
+[1] "data.frame"
+> names(JsonData)
+[1] "hotel"           "price_per_night"
+> attach(JsonData)
+> names(JsonData)
+[1] "hotel"           "price_per_night"
+> summary(jsonData)
+Erreur dans summary(jsonData) : objet 'jsonData' introuvable
+> summary(price_per_night)
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  228.0   280.2   337.5   347.1   423.5   477.0 
+> names(hotel)
+NULL
+> iris
+    Sepal.Length Sepal.Width Petal.Length Petal.Width    Species
+1            5.1         3.5          1.4         0.2     setosa
+2            4.9         3.0          1.4         0.2     setosa
+3            4.7         3.2          1.3         0.2     setosa
+4            4.6         3.1          1.5         0.2     setosa
+5            5.0         3.6          1.4         0.2     setosa
+6            5.4         3.9          1.7         0.4     setosa
+7            4.6         3.4          1.4         0.3     setosa
+8            5.0         3.4          1.5         0.2     setosa
+9            4.4         2.9          1.4         0.2     setosa
+10           4.9         3.1          1.5         0.1     setosa
+11           5.4         3.7          1.5         0.2     setosa
+12           4.8         3.4          1.6         0.2     setosa
+13           4.8         3.0          1.4         0.1     setosa
+14           4.3         3.0          1.1         0.1     setosa
+15           5.8         4.0          1.2         0.2     setosa
+16           5.7         4.4          1.5         0.4     setosa
+17           5.4         3.9          1.3         0.4     setosa
+18           5.1         3.5          1.4         0.3     setosa
+19           5.7         3.8          1.7         0.3     setosa
+20           5.1         3.8          1.5         0.3     setosa
+21           5.4         3.4          1.7         0.2     setosa
+22           5.1         3.7          1.5         0.4     setosa
+23           4.6         3.6          1.0         0.2     setosa
+24           5.1         3.3          1.7         0.5     setosa
+25           4.8         3.4          1.9         0.2     setosa
+26           5.0         3.0          1.6         0.2     setosa
+27           5.0         3.4          1.6         0.4     setosa
+28           5.2         3.5          1.5         0.2     setosa
+29           5.2         3.4          1.4         0.2     setosa
+30           4.7         3.2          1.6         0.2     setosa
+31           4.8         3.1          1.6         0.2     setosa
+32           5.4         3.4          1.5         0.4     setosa
+33           5.2         4.1          1.5         0.1     setosa
+34           5.5         4.2          1.4         0.2     setosa
+35           4.9         3.1          1.5         0.2     setosa
+36           5.0         3.2          1.2         0.2     setosa
+37           5.5         3.5          1.3         0.2     setosa
+38           4.9         3.6          1.4         0.1     setosa
+39           4.4         3.0          1.3         0.2     setosa
+40           5.1         3.4          1.5         0.2     setosa
+41           5.0         3.5          1.3         0.3     setosa
+42           4.5         2.3          1.3         0.3     setosa
+43           4.4         3.2          1.3         0.2     setosa
+44           5.0         3.5          1.6         0.6     setosa
+45           5.1         3.8          1.9         0.4     setosa
+46           4.8         3.0          1.4         0.3     setosa
+47           5.1         3.8          1.6         0.2     setosa
+48           4.6         3.2          1.4         0.2     setosa
+49           5.3         3.7          1.5         0.2     setosa
+50           5.0         3.3          1.4         0.2     setosa
+51           7.0         3.2          4.7         1.4 versicolor
+52           6.4         3.2          4.5         1.5 versicolor
+53           6.9         3.1          4.9         1.5 versicolor
+54           5.5         2.3          4.0         1.3 versicolor
+55           6.5         2.8          4.6         1.5 versicolor
+56           5.7         2.8          4.5         1.3 versicolor
+57           6.3         3.3          4.7         1.6 versicolor
+58           4.9         2.4          3.3         1.0 versicolor
+59           6.6         2.9          4.6         1.3 versicolor
+60           5.2         2.7          3.9         1.4 versicolor
+61           5.0         2.0          3.5         1.0 versicolor
+62           5.9         3.0          4.2         1.5 versicolor
+63           6.0         2.2          4.0         1.0 versicolor
+64           6.1         2.9          4.7         1.4 versicolor
+65           5.6         2.9          3.6         1.3 versicolor
+66           6.7         3.1          4.4         1.4 versicolor
+67           5.6         3.0          4.5         1.5 versicolor
+68           5.8         2.7          4.1         1.0 versicolor
+69           6.2         2.2          4.5         1.5 versicolor
+70           5.6         2.5          3.9         1.1 versicolor
+71           5.9         3.2          4.8         1.8 versicolor
+72           6.1         2.8          4.0         1.3 versicolor
+73           6.3         2.5          4.9         1.5 versicolor
+74           6.1         2.8          4.7         1.2 versicolor
+75           6.4         2.9          4.3         1.3 versicolor
+76           6.6         3.0          4.4         1.4 versicolor
+77           6.8         2.8          4.8         1.4 versicolor
+78           6.7         3.0          5.0         1.7 versicolor
+79           6.0         2.9          4.5         1.5 versicolor
+80           5.7         2.6          3.5         1.0 versicolor
+81           5.5         2.4          3.8         1.1 versicolor
+82           5.5         2.4          3.7         1.0 versicolor
+83           5.8         2.7          3.9         1.2 versicolor
+84           6.0         2.7          5.1         1.6 versicolor
+85           5.4         3.0          4.5         1.5 versicolor
+86           6.0         3.4          4.5         1.6 versicolor
+87           6.7         3.1          4.7         1.5 versicolor
+88           6.3         2.3          4.4         1.3 versicolor
+89           5.6         3.0          4.1         1.3 versicolor
+90           5.5         2.5          4.0         1.3 versicolor
+91           5.5         2.6          4.4         1.2 versicolor
+92           6.1         3.0          4.6         1.4 versicolor
+93           5.8         2.6          4.0         1.2 versicolor
+94           5.0         2.3          3.3         1.0 versicolor
+95           5.6         2.7          4.2         1.3 versicolor
+96           5.7         3.0          4.2         1.2 versicolor
+97           5.7         2.9          4.2         1.3 versicolor
+98           6.2         2.9          4.3         1.3 versicolor
+99           5.1         2.5          3.0         1.1 versicolor
+100          5.7         2.8          4.1         1.3 versicolor
+101          6.3         3.3          6.0         2.5  virginica
+102          5.8         2.7          5.1         1.9  virginica
+103          7.1         3.0          5.9         2.1  virginica
+104          6.3         2.9          5.6         1.8  virginica
+105          6.5         3.0          5.8         2.2  virginica
+106          7.6         3.0          6.6         2.1  virginica
+107          4.9         2.5          4.5         1.7  virginica
+108          7.3         2.9          6.3         1.8  virginica
+109          6.7         2.5          5.8         1.8  virginica
+110          7.2         3.6          6.1         2.5  virginica
+111          6.5         3.2          5.1         2.0  virginica
+112          6.4         2.7          5.3         1.9  virginica
+113          6.8         3.0          5.5         2.1  virginica
+114          5.7         2.5          5.0         2.0  virginica
+115          5.8         2.8          5.1         2.4  virginica
+116          6.4         3.2          5.3         2.3  virginica
+117          6.5         3.0          5.5         1.8  virginica
+118          7.7         3.8          6.7         2.2  virginica
+119          7.7         2.6          6.9         2.3  virginica
+120          6.0         2.2          5.0         1.5  virginica
+121          6.9         3.2          5.7         2.3  virginica
+122          5.6         2.8          4.9         2.0  virginica
+123          7.7         2.8          6.7         2.0  virginica
+124          6.3         2.7          4.9         1.8  virginica
+125          6.7         3.3          5.7         2.1  virginica
+126          7.2         3.2          6.0         1.8  virginica
+127          6.2         2.8          4.8         1.8  virginica
+128          6.1         3.0          4.9         1.8  virginica
+129          6.4         2.8          5.6         2.1  virginica
+130          7.2         3.0          5.8         1.6  virginica
+131          7.4         2.8          6.1         1.9  virginica
+132          7.9         3.8          6.4         2.0  virginica
+133          6.4         2.8          5.6         2.2  virginica
+134          6.3         2.8          5.1         1.5  virginica
+135          6.1         2.6          5.6         1.4  virginica
+136          7.7         3.0          6.1         2.3  virginica
+137          6.3         3.4          5.6         2.4  virginica
+138          6.4         3.1          5.5         1.8  virginica
+139          6.0         3.0          4.8         1.8  virginica
+140          6.9         3.1          5.4         2.1  virginica
+141          6.7         3.1          5.6         2.4  virginica
+142          6.9         3.1          5.1         2.3  virginica
+143          5.8         2.7          5.1         1.9  virginica
+144          6.8         3.2          5.9         2.3  virginica
+145          6.7         3.3          5.7         2.5  virginica
+146          6.7         3.0          5.2         2.3  virginica
+147          6.3         2.5          5.0         1.9  virginica
+148          6.5         3.0          5.2         2.0  virginica
+149          6.2         3.4          5.4         2.3  virginica
+150          5.9         3.0          5.1         1.8  virginica
+> myJSON = toJSON(iris, pretty=TRUE)
+> myJSON
+[
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 3.5,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.9,
+    "Sepal.Width": 3,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.7,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 1.3,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.6,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 3.6,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.4,
+    "Sepal.Width": 3.9,
+    "Petal.Length": 1.7,
+    "Petal.Width": 0.4,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.6,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.3,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.4,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.9,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.1,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.4,
+    "Sepal.Width": 3.7,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.8,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.6,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.8,
+    "Sepal.Width": 3,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.1,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.3,
+    "Sepal.Width": 3,
+    "Petal.Length": 1.1,
+    "Petal.Width": 0.1,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.8,
+    "Sepal.Width": 4,
+    "Petal.Length": 1.2,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.7,
+    "Sepal.Width": 4.4,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.4,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.4,
+    "Sepal.Width": 3.9,
+    "Petal.Length": 1.3,
+    "Petal.Width": 0.4,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 3.5,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.3,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.7,
+    "Sepal.Width": 3.8,
+    "Petal.Length": 1.7,
+    "Petal.Width": 0.3,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 3.8,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.3,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.4,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.7,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 3.7,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.4,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.6,
+    "Sepal.Width": 3.6,
+    "Petal.Length": 1,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 3.3,
+    "Petal.Length": 1.7,
+    "Petal.Width": 0.5,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.8,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.9,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 3,
+    "Petal.Length": 1.6,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.6,
+    "Petal.Width": 0.4,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.2,
+    "Sepal.Width": 3.5,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.2,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.7,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 1.6,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.8,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 1.6,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.4,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.4,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.2,
+    "Sepal.Width": 4.1,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.1,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.5,
+    "Sepal.Width": 4.2,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.9,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 1.2,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.5,
+    "Sepal.Width": 3.5,
+    "Petal.Length": 1.3,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.9,
+    "Sepal.Width": 3.6,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.1,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.4,
+    "Sepal.Width": 3,
+    "Petal.Length": 1.3,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 3.5,
+    "Petal.Length": 1.3,
+    "Petal.Width": 0.3,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.5,
+    "Sepal.Width": 2.3,
+    "Petal.Length": 1.3,
+    "Petal.Width": 0.3,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.4,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 1.3,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 3.5,
+    "Petal.Length": 1.6,
+    "Petal.Width": 0.6,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 3.8,
+    "Petal.Length": 1.9,
+    "Petal.Width": 0.4,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.8,
+    "Sepal.Width": 3,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.3,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 3.8,
+    "Petal.Length": 1.6,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 4.6,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5.3,
+    "Sepal.Width": 3.7,
+    "Petal.Length": 1.5,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 3.3,
+    "Petal.Length": 1.4,
+    "Petal.Width": 0.2,
+    "Species": "setosa"
+  },
+  {
+    "Sepal.Length": 7,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 4.7,
+    "Petal.Width": 1.4,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.4,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 4.5,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.9,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 4.9,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.5,
+    "Sepal.Width": 2.3,
+    "Petal.Length": 4,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.5,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 4.6,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.7,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 4.5,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 3.3,
+    "Petal.Length": 4.7,
+    "Petal.Width": 1.6,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 4.9,
+    "Sepal.Width": 2.4,
+    "Petal.Length": 3.3,
+    "Petal.Width": 1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.6,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 4.6,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.2,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 3.9,
+    "Petal.Width": 1.4,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 2,
+    "Petal.Length": 3.5,
+    "Petal.Width": 1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.9,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.2,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6,
+    "Sepal.Width": 2.2,
+    "Petal.Length": 4,
+    "Petal.Width": 1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.1,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 4.7,
+    "Petal.Width": 1.4,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.6,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 3.6,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.7,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 4.4,
+    "Petal.Width": 1.4,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.6,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.5,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.8,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 4.1,
+    "Petal.Width": 1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.2,
+    "Sepal.Width": 2.2,
+    "Petal.Length": 4.5,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.6,
+    "Sepal.Width": 2.5,
+    "Petal.Length": 3.9,
+    "Petal.Width": 1.1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.9,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 4.8,
+    "Petal.Width": 1.8,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.1,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 4,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 2.5,
+    "Petal.Length": 4.9,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.1,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 4.7,
+    "Petal.Width": 1.2,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.4,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 4.3,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.6,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.4,
+    "Petal.Width": 1.4,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.8,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 4.8,
+    "Petal.Width": 1.4,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.7,
+    "Sepal.Width": 3,
+    "Petal.Length": 5,
+    "Petal.Width": 1.7,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 4.5,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.7,
+    "Sepal.Width": 2.6,
+    "Petal.Length": 3.5,
+    "Petal.Width": 1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.5,
+    "Sepal.Width": 2.4,
+    "Petal.Length": 3.8,
+    "Petal.Width": 1.1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.5,
+    "Sepal.Width": 2.4,
+    "Petal.Length": 3.7,
+    "Petal.Width": 1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.8,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 3.9,
+    "Petal.Width": 1.2,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 5.1,
+    "Petal.Width": 1.6,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.4,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.5,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 4.5,
+    "Petal.Width": 1.6,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.7,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 4.7,
+    "Petal.Width": 1.5,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 2.3,
+    "Petal.Length": 4.4,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.6,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.1,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.5,
+    "Sepal.Width": 2.5,
+    "Petal.Length": 4,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.5,
+    "Sepal.Width": 2.6,
+    "Petal.Length": 4.4,
+    "Petal.Width": 1.2,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.1,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.6,
+    "Petal.Width": 1.4,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.8,
+    "Sepal.Width": 2.6,
+    "Petal.Length": 4,
+    "Petal.Width": 1.2,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5,
+    "Sepal.Width": 2.3,
+    "Petal.Length": 3.3,
+    "Petal.Width": 1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.6,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 4.2,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.7,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.2,
+    "Petal.Width": 1.2,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.7,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 4.2,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.2,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 4.3,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.1,
+    "Sepal.Width": 2.5,
+    "Petal.Length": 3,
+    "Petal.Width": 1.1,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 5.7,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 4.1,
+    "Petal.Width": 1.3,
+    "Species": "versicolor"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 3.3,
+    "Petal.Length": 6,
+    "Petal.Width": 2.5,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 5.8,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 5.1,
+    "Petal.Width": 1.9,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.1,
+    "Sepal.Width": 3,
+    "Petal.Length": 5.9,
+    "Petal.Width": 2.1,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 5.6,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.5,
+    "Sepal.Width": 3,
+    "Petal.Length": 5.8,
+    "Petal.Width": 2.2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.6,
+    "Sepal.Width": 3,
+    "Petal.Length": 6.6,
+    "Petal.Width": 2.1,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 4.9,
+    "Sepal.Width": 2.5,
+    "Petal.Length": 4.5,
+    "Petal.Width": 1.7,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.3,
+    "Sepal.Width": 2.9,
+    "Petal.Length": 6.3,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.7,
+    "Sepal.Width": 2.5,
+    "Petal.Length": 5.8,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.2,
+    "Sepal.Width": 3.6,
+    "Petal.Length": 6.1,
+    "Petal.Width": 2.5,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.5,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 5.1,
+    "Petal.Width": 2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.4,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 5.3,
+    "Petal.Width": 1.9,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.8,
+    "Sepal.Width": 3,
+    "Petal.Length": 5.5,
+    "Petal.Width": 2.1,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 5.7,
+    "Sepal.Width": 2.5,
+    "Petal.Length": 5,
+    "Petal.Width": 2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 5.8,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 5.1,
+    "Petal.Width": 2.4,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.4,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 5.3,
+    "Petal.Width": 2.3,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.5,
+    "Sepal.Width": 3,
+    "Petal.Length": 5.5,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.7,
+    "Sepal.Width": 3.8,
+    "Petal.Length": 6.7,
+    "Petal.Width": 2.2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.7,
+    "Sepal.Width": 2.6,
+    "Petal.Length": 6.9,
+    "Petal.Width": 2.3,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6,
+    "Sepal.Width": 2.2,
+    "Petal.Length": 5,
+    "Petal.Width": 1.5,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.9,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 5.7,
+    "Petal.Width": 2.3,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 5.6,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 4.9,
+    "Petal.Width": 2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.7,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 6.7,
+    "Petal.Width": 2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 4.9,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.7,
+    "Sepal.Width": 3.3,
+    "Petal.Length": 5.7,
+    "Petal.Width": 2.1,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.2,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 6,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.2,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 4.8,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.1,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.9,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.4,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 5.6,
+    "Petal.Width": 2.1,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.2,
+    "Sepal.Width": 3,
+    "Petal.Length": 5.8,
+    "Petal.Width": 1.6,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.4,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 6.1,
+    "Petal.Width": 1.9,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.9,
+    "Sepal.Width": 3.8,
+    "Petal.Length": 6.4,
+    "Petal.Width": 2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.4,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 5.6,
+    "Petal.Width": 2.2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 2.8,
+    "Petal.Length": 5.1,
+    "Petal.Width": 1.5,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.1,
+    "Sepal.Width": 2.6,
+    "Petal.Length": 5.6,
+    "Petal.Width": 1.4,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 7.7,
+    "Sepal.Width": 3,
+    "Petal.Length": 6.1,
+    "Petal.Width": 2.3,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 5.6,
+    "Petal.Width": 2.4,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.4,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 5.5,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6,
+    "Sepal.Width": 3,
+    "Petal.Length": 4.8,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.9,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 5.4,
+    "Petal.Width": 2.1,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.7,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 5.6,
+    "Petal.Width": 2.4,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.9,
+    "Sepal.Width": 3.1,
+    "Petal.Length": 5.1,
+    "Petal.Width": 2.3,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 5.8,
+    "Sepal.Width": 2.7,
+    "Petal.Length": 5.1,
+    "Petal.Width": 1.9,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.8,
+    "Sepal.Width": 3.2,
+    "Petal.Length": 5.9,
+    "Petal.Width": 2.3,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.7,
+    "Sepal.Width": 3.3,
+    "Petal.Length": 5.7,
+    "Petal.Width": 2.5,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.7,
+    "Sepal.Width": 3,
+    "Petal.Length": 5.2,
+    "Petal.Width": 2.3,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.3,
+    "Sepal.Width": 2.5,
+    "Petal.Length": 5,
+    "Petal.Width": 1.9,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.5,
+    "Sepal.Width": 3,
+    "Petal.Length": 5.2,
+    "Petal.Width": 2,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 6.2,
+    "Sepal.Width": 3.4,
+    "Petal.Length": 5.4,
+    "Petal.Width": 2.3,
+    "Species": "virginica"
+  },
+  {
+    "Sepal.Length": 5.9,
+    "Sepal.Width": 3,
+    "Petal.Length": 5.1,
+    "Petal.Width": 1.8,
+    "Species": "virginica"
+  }
+] 
+> hist(JsonData)
+Erreur dans hist.default(JsonData) : 'x' doit être numérique
+> hist(price_per_night)
+> JsonData = fromJSON("C:/devoirSID/data/dataset-5-json.json")
+> JsonData2 = fromJSON("C:/devoirSID/data/dataset-5-json.json")
+> class(JsonData2)
+[1] "data.frame"
+> attach(JsonData2)
+L'objet suivant est masqué depuis JsonData:
+
+    hotel
+
+> names(JsonData2)
+[1] "arrival_date"         "departure_date"      
+[3] "location"             "transportation_modes"
+[5] "genre"                "hotel"               
+> summary(JsonData2)
+ arrival_date       departure_date       location        
+ Length:999         Length:999         Length:999        
+ Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character  
+ transportation_modes    genre          
+ Length:999           Length:999        
+ Class :character     Class :character  
+ Mode  :character     Mode  :character  
+    hotel          
+ Length:999        
+ Class :character  
+ Mode  :character  
+> str(JsonData2)
+'data.frame':   999 obs. of  6 variables:
+ $ arrival_date        : chr  "01-05-1972" "11-03-2003" "12-29-1982" "08-09-2004" ...
+ $ departure_date      : chr  "11-Jan-1972" "09-Nov-2003" "08-Jan-1983" "18-Aug-2004" ...
+ $ location            : chr  "Alexandria - Egypt" "Lagos ; Nigeria" "Durban - South Africa" "Lagos | Nigeria" ...
+ $ transportation_modes: chr  "ferry ; subway ; bicycle ; car ; caravan" "horse ; bicycle ; taxi ; motorcycle ; train" "train - tram - ferry - caravan - boat - bus - horse - airplane" "tram - walk - subway - ferry - motorcycle" ...
+ $ genre               : chr  "Fem" "M" "Masc" "M" ...
+ $ hotel               : chr  "Funk, Morar and Rodriguez" "Wolff-Cartwright" "Kerluke-Armstrong" "Kulas LLC" ...
+> JsonData2 = as.data.frame(JsonData2)
+> Summary(JsonData2)
+Erreur dans (function (classes, fdef, mtable)  : 
+  unable to find an inherited method for function ‘Summary’ for signature ‘"data.frame"’
+> ggplot(JsonData2, aes(x=genre, fill=genre)) + geom_bar(stat="count")
+Erreur dans ggplot(JsonData2, aes(x = genre, fill = genre)) : 
+  impossible de trouver la fonction "ggplot"
+> JSONList1sf = as.data.frame(JsonData2)
+> summary(JSONList1df)
+Erreur dans summary(JSONList1df) : objet 'JSONList1df' introuvable
+> summary(JSONList1sf)
+ arrival_date       departure_date       location        
+ Length:999         Length:999         Length:999        
+ Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character  
+ transportation_modes    genre          
+ Length:999           Length:999        
+ Class :character     Class :character  
+ Mode  :character     Mode  :character  
+    hotel          
+ Length:999        
+ Class :character  
+ Mode  :character  
+> summary(JSONList1df)
+Erreur dans summary(JSONList1df) : objet 'JSONList1df' introuvable
+> summary(JSONList1sf)
+ arrival_date       departure_date       location        
+ Length:999         Length:999         Length:999        
+ Class :character   Class :character   Class :character  
+ Mode  :character   Mode  :character   Mode  :character  
+ transportation_modes    genre          
+ Length:999           Length:999        
+ Class :character     Class :character  
+ Mode  :character     Mode  :character  
+    hotel          
+ Length:999        
+ Class :character  
+ Mode  :character  
+> ggplot(JSONList1sf, aes(x=genre, fill=genre)) + geom_bar(stat="count")
+Erreur dans ggplot(JSONList1sf, aes(x = genre, fill = genre)) : 
+  impossible de trouver la fonction "ggplot"
+> ggplot help
+Erreur : symbole inattendu dans "ggplot help"
+> ggplot(JSONList1sf, aes(x=genre, fill=genre)) + geom_bar(stat="count")
+Erreur dans ggplot(JSONList1sf, aes(x = genre, fill = genre)) : 
+  impossible de trouver la fonction "ggplot"
+> ggplot
+Erreur : objet 'ggplot' introuvable
+> hist(JSONList1sf, aes(x=genre, fill=genre)) + geom_bar(stat="count")
+Erreur dans hist.default(JSONList1sf, aes(x = genre, fill = genre)) : 
+  'x' doit être numérique
+> install.packages("rjson")
+Avis : le package ‘rjson’ est en cours d'utilisation et ne sera pas installé
+> install.packages("ggplot")
+Installation du package dans ‘C:/Users/fkounga/Documents/R/win-library/4.1’
+(car ‘lib’ n'est pas spécifié)
+Message d'avis :
+le package ‘ggplot’ n'est pas disponible for this version of R
+
+Une version de ce package pour votre version de R est peut-être disponible ailleurs,
+Voyez des idées à
+https://cran.r-project.org/doc/manuals/r-patched/R-admin.html#Installing-packages 
+> library(ggplot)
+Erreur dans library(ggplot) : aucun package nommé ‘ggplot’ n'est trouvé
+> install.packages("ggplot2")
+Installation du package dans ‘C:/Users/fkounga/Documents/R/win-library/4.1’
+(car ‘lib’ n'est pas spécifié)
+essai de l'URL 'https://cran.irsn.fr/bin/windows/contrib/4.1/ggplot2_3.3.5.zip'
+Content type 'application/zip' length 4130514 bytes (3.9 MB)
+downloaded 3.9 MB
+
+package ‘ggplot2’ successfully unpacked and MD5 sums checked
+
+The downloaded binary packages are in
+        C:\Users\fkounga\AppData\Local\Temp\Rtmp6dchXu\downloaded_packages
+> library(ggplot2)
+> ggplot2(JSONList1sf, aes(x=genre, fill=genre)) + geom_bar(stat="count")
+Erreur dans ggplot2(JSONList1sf, aes(x = genre, fill = genre)) : 
+  impossible de trouver la fonction "ggplot2"
+> update.packages(ask='graphics',checkBuilt=TRUE)
+> ggplot2(JSONList1sf, aes(x=genre, fill=genre)) + geom_bar(stat="count")
+Erreur dans ggplot2(JSONList1sf, aes(x = genre, fill = genre)) : 
+  impossible de trouver la fonction "ggplot2"
+> ggplot(JSONList1sf, aes(x=genre, fill=genre)) + geom_bar(stat="count")
+> utils:::menuInstallPkgs()
+> setRepositories()
+> local({pkg <- select.list(sort(.packages(all.available = TRUE)),graphics=TRUE)
++ if(nchar(pkg)) library(pkg, character.only=TRUE)})
+> ?msleep
+starting httpd help server ... done
+> read.table(files="C:/devoirSID/data/dataset-5-db.db" h=TRUE)
