@@ -1,0 +1,15 @@
+transportation_mode;count 
+airplane;57
+bicycle;53
+boat;55
+bus;70
+car;68
+caravan;58
+ferry;69
+horse;53
+motorcycle;62
+subway;63
+taxi;63
+train;64
+tram;62
+walk;52
