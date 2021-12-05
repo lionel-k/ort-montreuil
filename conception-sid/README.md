@@ -215,7 +215,7 @@ q4, task, 80
 q4, story, 90
 ```
 
-6. Time Allocation (in percentage) by Ticket Type per quarter
+##### 6. Time Allocation (in percentage) by Ticket Type per quarter
 
 ```csv
 quarter, type, time_allocation
