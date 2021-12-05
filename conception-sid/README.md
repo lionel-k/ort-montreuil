@@ -149,4 +149,84 @@ rank, team,Pts,G.,N.,P.,p.,c.,Diff.
 2,Lille,36,9,3,1,9,3,+5
 ```
 
-#### Developper KPIs
+#### Developer KPIs
+
+Given the dataset `dataset-6/kpis/dataset-6-tickets-kpis.csv`, you have to build csv files that contains the following KPIs:
+
+1. Dev capacity: the number of developers days in the team per quarter
+   Developper days is computed by multiplying the number of the developer by the number of days in the quarter.
+
+```csv
+quarter, dev_capacity
+q1, 210
+q2, 220
+q3, 230
+q4, 240
+```
+
+2. Total number of tickets done per quarter
+
+```csv
+quarter, total_tickets
+q1, 100
+q2, 200
+q3, 300
+q4, 400
+```
+
+3. Average number of tickets done per developer per week
+
+```csv
+quarter, average_tickets
+q1, 3
+q2, 5
+q3, 3
+q4, 6
+```
+
+4. Median cycle time of tickets per quarter
+   How many days does it take to close a ticket (a ticket to go from in progress to done) ?
+
+```csv
+quarter, median_cycle_time
+q1, 10
+q2, 20
+q3, 30
+q4, 40
+```
+
+5. Median cycle time of tickets per quarter, by type
+
+```csv
+quarter, type, median_cycle_time
+q1, bug, 10
+q1, task, 20
+q1, story, 30
+q2, bug, 30
+q2, task, 40
+q2, story, 50
+q3, bug, 50
+q3, task, 60
+q3, story, 70
+q4, bug, 70
+q4, task, 80
+q4, story, 90
+```
+
+6. Time Allocation (in percentage) by Ticket Type per quarter
+
+```csv
+quarter, type, time_allocation
+q1, bug, 10
+q1, task, 20
+q1, story, 30
+q2, bug, 30
+q2, task, 40
+q2, story, 50
+q3, bug, 50
+q3, task, 60
+q3, story, 70
+q4, bug, 70
+q4, task, 80
+q4, story, 90
+```
