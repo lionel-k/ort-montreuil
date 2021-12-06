@@ -25,7 +25,6 @@ foreach ($tblTeams as $key => $nomTeam) {
     $tblAllScores[$nomTeam[0]] = $tblScore;
 }
 
-
 foreach ($tblTeams as $key => $nomTeam) {
 
     $pointTotal = 0;
@@ -35,26 +34,46 @@ foreach ($tblTeams as $key => $nomTeam) {
     $nbButWin = 0;
     $nbButLose = 0;
 
-    foreach ($tblAllScores[$nomTeam[0]] as $key2 => $score) {
+    foreach ($tblAllScores as $key2 => $tblScore) {
+        foreach ($tblScore as $key3 => $value3) {
+            $point = 0;
 
-        $nbButWin = $nbButWin + $score[2];
-        $nbButLose = $nbButLose + $score[3];
+            if ($nomTeam[0] == $value3[0]) {
+                $nbButWin = $nbButWin + $value3[2];
+                $nbButLose = $nbButLose + $value3[3];
 
-        $point = 0;
+                if ($value3[2] > $value3[3]) {
+                    $nbWin = $nbWin + 1;
+                    $point = 3;
+                } elseif ($value3[2] == $value3[3]) {
+                    $nbNul = $nbNul + 1;
+                    $point = 1;
+                } else {
+                    $nbLose = $nbLose + 1;
+                }
 
-        if ($score[2] > $score[3]) {
-            $nbWin = $nbWin + 1;
-            $point = 3;
-        } elseif ($score[2] == $score[3]) {
-            $nbNul = $nbNul + 1;
-            $point = 1;
-        } else {
-            $nbLose = $nbLose + 1;
+                $pointTotal = $pointTotal + $point;
+
+                $butDiff = $nbButWin - $nbButLose;
+            } elseif ($nomTeam[0] == $value3[1]) {
+                $nbButWin = $nbButWin + $value3[3];
+                $nbButLose = $nbButLose + $value3[2];
+
+                if ($value3[3] > $value3[2]) {
+                    $nbWin = $nbWin + 1;
+                    $point = 3;
+                } elseif ($value3[3] == $value3[2]) {
+                    $nbNul = $nbNul + 1;
+                    $point = 1;
+                } else {
+                    $nbLose = $nbLose + 1;
+                }
+
+                $pointTotal = $pointTotal + $point;
+
+                $butDiff = $nbButWin - $nbButLose;
+            }
         }
-
-        $pointTotal = $pointTotal + $point;
-
-        $butDiff = $nbButWin - $nbButLose;
     }
 
     $ligneClassement = array(0, $nomTeam[0], $pointTotal, $nbWin, $nbNul, $nbLose, $nbButWin, $nbButLose, $butDiff);
