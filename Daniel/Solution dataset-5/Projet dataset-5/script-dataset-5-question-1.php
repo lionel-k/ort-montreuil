@@ -1,17 +1,8 @@
 <?php
 include './vendor/autoload.php';
 
-use PhpOffice\PhpSpreadsheet\Reader\Csv;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 
-
-//Read the CSV File
-$reader = new Csv();
-$spreadsheet = $reader->load("dataset-5-csv.csv");
-
-$sheetData = $spreadsheet->getActiveSheet()->toArray();
-
-$tblAllCountrie = [];
 
 //Parse le pays et la ville pour retourner le pays
 function explodeCountrieCity($string)
@@ -47,11 +38,20 @@ function explodeTransportMode($string)
     return $result;
 }
 
+$tblAllCountrie = [];
+
+
+//Read the DB File
+$pdo = new PDO('sqlite:dataset-5-db.db');
+$statement = $pdo->query("SELECT arrival_date, departure_date, location, transportation_modes, genre, hotel FROM tourism");
+$dbData = $statement->fetchAll(PDO::FETCH_ASSOC);
+
+
 // Remplir un tableau de tous les pays présents dans le fichier
-foreach ($sheetData as $key => $value) {
+foreach ($dbData as $key => $value) {
 
     if ($key != 0) {
-        $countrieAndCity = $value[2];
+        $countrieAndCity = $value['location'];
 
         $countrie = explodeCountrieCity($countrieAndCity);
 
@@ -65,10 +65,10 @@ foreach ($sheetData as $key => $value) {
 foreach ($tblAllCountrie as $key => $value) {
     $tblTransportMode = [];
 
-    foreach ($sheetData as $key2 => $value2) {
+    foreach ($dbData as $key2 => $value2) {
 
-        $transportMode = $value2[3];
-        $countrieAndCity = $value2[2];
+        $transportMode = $value2["transportation_modes"];
+        $countrieAndCity = $value2["location"];
         $countrie = explodeCountrieCity($countrieAndCity);
         $transportMode = explodeTransportMode($transportMode);
 

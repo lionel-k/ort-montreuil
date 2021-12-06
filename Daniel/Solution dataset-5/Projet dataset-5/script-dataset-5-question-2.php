@@ -5,12 +5,6 @@ use PhpOffice\PhpSpreadsheet\Reader\Csv;
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 
 
-//Read the CSV File
-$reader = new Csv();
-$spreadsheet = $reader->load("dataset-5-csv.csv");
-
-$sheetData = $spreadsheet->getActiveSheet()->toArray();
-
 function diffBetween2Date($arrive, $depart)
 {
     $arrive = orderDate($arrive);
@@ -100,14 +94,21 @@ function explodeCountrieCity($string)
 
 $tblAllCountrie = [];
 $tblAllHotelPerContrie = [];
+
+
+//Read the DB File
+$pdo = new PDO('sqlite:dataset-5-db.db');
+$statement = $pdo->query("SELECT arrival_date, departure_date, location, transportation_modes, genre, hotel FROM tourism");
+$dbData = $statement->fetchAll(PDO::FETCH_ASSOC);
+
 // Remplir un tableau de tous les pays présents dans le fichier
-foreach ($sheetData as $key => $value) {
+foreach ($dbData as $key => $value) {
     $tblAllHotel = array();
     if ($key != 0) {
-        $dateArrive = $value[0];
-        $dateDepart = $value[1];
-        $countrieAndCity = $value[2];
-        $hotel = $value[5];
+        $dateArrive = $value["arrival_date"];
+        $dateDepart = $value["departure_date"];
+        $countrieAndCity = $value["location"];
+        $hotel = $value["hotel"];
 
         $countrie = explodeCountrieCity($countrieAndCity);
 
