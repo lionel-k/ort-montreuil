@@ -3,7 +3,6 @@ include './vendor/autoload.php';
 
 use PhpOffice\PhpSpreadsheet\Spreadsheet;
 
-
 function diffBetween2Date($arrive, $depart)
 {
     $arrive = orderDate($arrive);
@@ -67,32 +66,20 @@ function orderDate($date)
     return $dateFinale;
 }
 
-function trimString($str)
+function inHoliday($date)
 {
-    return trim($str);
-}
+    //date dd-mm-yyyy
+    $date = explode("-", $date);
+    $month = $date[1];
 
-//Parse le pays et la ville pour retourner le pays
-function explodeCountrieCity($string)
-{
-    $result = null;
-
-    if (stristr($string,  '|') !== false) {
-        $result = explode('|', $string);
-        $result = trim($result[1]);
-    } elseif (stristr($string,  ';') !== false) {
-        $result = explode(';', $string);
-        $result = trim($result[1]);
-    } elseif (stristr($string,  '-') !== false) {
-        $result = explode('-', $string);
-        $result = trim($result[1]);
+    if ($month == "07" || $month == "08") {
+        return true;
+    } else {
+        return false;
     }
-
-    return $result;
 }
 
-$tblAllCountrie = [];
-$tblAllHotelPerContrie = [];
+$tblAllHotelRevenu = [];
 
 
 //Read the DB File
@@ -100,25 +87,27 @@ $pdo = new PDO('sqlite:dataset-5-db.db');
 $statement = $pdo->query("SELECT arrival_date, departure_date, location, transportation_modes, genre, hotel FROM tourism");
 $dbData = $statement->fetchAll(PDO::FETCH_ASSOC);
 
+
 // Remplir un tableau de tous les pays présents dans le fichier
 foreach ($dbData as $key => $value) {
-    $tblAllHotel = array();
+
     if ($key != 0) {
+        $hotel = $value['hotel'];
         $dateArrive = $value["arrival_date"];
         $dateDepart = $value["departure_date"];
-        $countrieAndCity = $value["location"];
-        $hotel = $value["hotel"];
-
-        $countrie = explodeCountrieCity($countrieAndCity);
 
         $nbDay = diffBetween2Date($dateArrive, $dateDepart);
 
-        if (!array_key_exists($countrie, $tblAllCountrie)) {
-            $tblAllCountrie[$countrie] = null;
-        }
+        $dateArrive = orderDate($dateArrive);
+        $dateDepart = orderDate($dateDepart);
 
-        $tblAllHotel = array($countrie, $hotel, $nbDay);
-        $tblAllHotelPerContrie[] = $tblAllHotel;
+        if (inHoliday($dateArrive) || inHoliday($dateDepart)) {
+            if (!array_key_exists($hotel, $tblAllHotelRevenu)) {
+                $tblAllHotelRevenu[$hotel] = $nbDay;
+            } else {
+                $tblAllHotelRevenu[$hotel] = $tblAllHotelRevenu[$hotel] + $nbDay;
+            }
+        }
     }
 }
 
@@ -129,24 +118,23 @@ $jsonFile = file_get_contents('dataset-5-json.json');
 $jsonData = json_decode($jsonFile);
 
 foreach ($jsonData as $key => $value) {
-    $tblAllHotel = array();
+    $hotel = $value->hotel;
     $dateArrive = $value->arrival_date;
     $dateDepart = $value->departure_date;
-    $countrieAndCity = $value->location;
-    $hotel = $value->hotel;
-
-    $countrie = explodeCountrieCity($countrieAndCity);
 
     $nbDay = diffBetween2Date($dateArrive, $dateDepart);
 
-    if (!array_key_exists($countrie, $tblAllCountrie)) {
-        $tblAllCountrie[$countrie] = null;
+    $dateArrive = orderDate($dateArrive);
+    $dateDepart = orderDate($dateDepart);
+
+    if (inHoliday($dateArrive) || inHoliday($dateDepart)) {
+        if (!array_key_exists($hotel, $tblAllHotelRevenu)) {
+            $tblAllHotelRevenu[$hotel] = $nbDay;
+        } else {
+            $tblAllHotelRevenu[$hotel] = $tblAllHotelRevenu[$hotel] + $nbDay;
+        }
     }
-
-    $tblAllHotel = array($countrie, $hotel, $nbDay);
-    $tblAllHotelPerContrie[] = $tblAllHotel;
 }
-
 
 //Read XML File
 
@@ -154,23 +142,22 @@ $xml = simplexml_load_file('dataset-5-xml.xml');
 $dataXml = $xml->row;
 
 foreach ($dataXml as $key => $value) {
-    $tblAllHotel = array();
+    $hotel = trim($value->hotel);
     $dateArrive = $value->arrival_date;
     $dateDepart = $value->departure_date;
-    $countrieAndCity = $value->location;
-    $hotel = $value->hotel;
-    $hotel = trim($hotel);
-
-    $countrie = explodeCountrieCity($countrieAndCity);
 
     $nbDay = diffBetween2Date($dateArrive, $dateDepart);
 
-    if (!array_key_exists($countrie, $tblAllCountrie)) {
-        $tblAllCountrie[$countrie] = null;
-    }
+    $dateArrive = orderDate($dateArrive);
+    $dateDepart = orderDate($dateDepart);
 
-    $tblAllHotel = array($countrie, $hotel, $nbDay);
-    $tblAllHotelPerContrie[] = $tblAllHotel;
+    if (inHoliday($dateArrive) || inHoliday($dateDepart)) {
+        if (!array_key_exists($hotel, $tblAllHotelRevenu)) {
+            $tblAllHotelRevenu[$hotel] = $nbDay;
+        } else {
+            $tblAllHotelRevenu[$hotel] = $tblAllHotelRevenu[$hotel] + $nbDay;
+        }
+    }
 }
 
 
@@ -180,27 +167,20 @@ $jsonDataPrice = json_decode($jsonFilePrice);
 
 foreach ($jsonDataPrice as $key => $value) {
 
-    foreach ($tblAllHotelPerContrie as $key2 => $value2) {
-        if ($value->hotel == $value2[1]) {
-            $tblAllHotelPerContrie[$key2][2] = $value2[2] * $value->price_per_night;
+    foreach ($tblAllHotelRevenu as $key2 => $value2) {
+        if ($value->hotel == $key2) {
+            $tblAllHotelRevenu[$key2] = $value2 * $value->price_per_night;
         }
     }
 }
-
-foreach ($tblAllHotelPerContrie as $key => $value) {
-    foreach ($tblAllCountrie as $nomPay => $revenu) {
-        if ($nomPay == $value[0]) {
-            $tblAllCountrie[$nomPay] = $revenu + $value[2];
-        }
-    }
-}
-
 //On met le max en premiere valeur du tableau
-arsort($tblAllCountrie);
+arsort($tblAllHotelRevenu);
 
 
 
-//Ecrire les données : question 2 :
+//Ecrire les données : question 3 :
+
+$ctr = 0;
 
 $spreadSheetWriter = new Spreadsheet();
 
@@ -216,20 +196,25 @@ $chiffre = '2';
 $celluleA = $lettreA . $chiffre;
 
 $spreadSheetWriter->getActiveSheet()
-    ->setCellValue("A1", "country,hotel_revenue");
+    ->setCellValue("A1", "hotel,revenue");
 
-foreach ($tblAllCountrie as $key => $value) {
-    $spreadSheetWriter->getActiveSheet()->getRowDimension($chiffre)->setRowHeight(20);
+foreach ($tblAllHotelRevenu as $key => $value) {
 
-    $spreadSheetWriter->getActiveSheet()
-        ->setCellValue("$celluleA", $key . "," . $value);
+    if ($ctr <= 9) {
+        $spreadSheetWriter->getActiveSheet()->getRowDimension($chiffre)->setRowHeight(20);
+
+        $spreadSheetWriter->getActiveSheet()
+            ->setCellValue("$celluleA", $key . "," . $value);
+    }
 
     //on passe au chiffre suivant et on l'applique à la position cellule
     $chiffre = $chiffre + 1;
     $celluleA = $lettreA . $chiffre;
+
+    $ctr = $ctr + 1;
 }
 
-$nomFichier = "countries-revenues";
+$nomFichier = "hotels-revenues-";
 
 $writer = new \PhpOffice\PhpSpreadsheet\Writer\Csv($spreadSheetWriter);
-$writer->save("question2/" . $nomFichier . ".csv");
+$writer->save("question3/" . $nomFichier . ".csv");
