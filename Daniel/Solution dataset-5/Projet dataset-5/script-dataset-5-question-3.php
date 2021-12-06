@@ -214,7 +214,7 @@ foreach ($tblAllHotelRevenu as $key => $value) {
     $ctr = $ctr + 1;
 }
 
-$nomFichier = "hotels-revenues-";
+$nomFichier = "hotels-revenues";
 
 $writer = new \PhpOffice\PhpSpreadsheet\Writer\Csv($spreadSheetWriter);
 $writer->save("question3/" . $nomFichier . ".csv");
