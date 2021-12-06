@@ -41,20 +41,15 @@ foreach ($tblTeams as $key => $nomTeam) {
             if ($nomTeam[0] == $value3[0]) {
                 $nbButWin = $nbButWin + $value3[2];
                 $nbButLose = $nbButLose + $value3[3];
-
                 if ($value3[2] > $value3[3]) {
                     $nbWin = $nbWin + 1;
                     $point = 3;
-                } elseif ($value3[2] == $value3[3]) {
+                } elseif ($value3[2] < $value3[3]) {
+                    $nbLose = $nbLose + 1;
+                } else {
                     $nbNul = $nbNul + 1;
                     $point = 1;
-                } else {
-                    $nbLose = $nbLose + 1;
                 }
-
-                $pointTotal = $pointTotal + $point;
-
-                $butDiff = $nbButWin - $nbButLose;
             } elseif ($nomTeam[0] == $value3[1]) {
                 $nbButWin = $nbButWin + $value3[3];
                 $nbButLose = $nbButLose + $value3[2];
@@ -62,22 +57,21 @@ foreach ($tblTeams as $key => $nomTeam) {
                 if ($value3[3] > $value3[2]) {
                     $nbWin = $nbWin + 1;
                     $point = 3;
-                } elseif ($value3[3] == $value3[2]) {
+                } elseif ($value3[3] < $value3[2]) {
+                    $nbLose = $nbLose + 1;
+                } else {
                     $nbNul = $nbNul + 1;
                     $point = 1;
-                } else {
-                    $nbLose = $nbLose + 1;
                 }
-
-                $pointTotal = $pointTotal + $point;
-
-                $butDiff = $nbButWin - $nbButLose;
             }
+
+            $pointTotal = $pointTotal + $point;
+
+            $butDiff = $nbButWin - $nbButLose;
         }
     }
 
     $ligneClassement = array(0, $nomTeam[0], $pointTotal, $nbWin, $nbNul, $nbLose, $nbButWin, $nbButLose, $butDiff);
-
 
     $tblClassement[] = $ligneClassement;
 }
@@ -129,7 +123,7 @@ foreach ($tblClassement as $key => $value) {
     $celluleA = $lettreA . $chiffre;
 }
 
-$nomFichier = "rank-teams";
+$nomFichier = "ranking";
 
 $writer = new \PhpOffice\PhpSpreadsheet\Writer\Csv($spreadSheetWriter);
 $writer->save("question-football/" . $nomFichier . ".csv");
