@@ -229,7 +229,7 @@ foreach ($tblAllCountrie as $key => $value) {
     $celluleA = $lettreA . $chiffre;
 }
 
-$nomFichier = "countries-revenues";
+$nomFichier = "REVENU";
 
 $writer = new \PhpOffice\PhpSpreadsheet\Writer\Csv($spreadSheetWriter);
-$writer->save("question2/" . $nomFichier . ".csv");
+$writer->save("SOLUTIONB/" . $nomFichier . ".csv");
