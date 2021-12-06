@@ -42,7 +42,7 @@ ranking = teams.map do |team|
       diff_goals += team_score - opponent_score
     end
   end
-  [team, team_points, won_games, lost_games, draw_games, scored_goals, conceded_goals, diff_goals]
+  [team, team_points, won_games, draw_games, lost_games, scored_goals, conceded_goals, diff_goals]
 end
 
 ranking = ranking.sort_by { |team| [-team[1], -team[-1]] }.each_with_index.map do |team, index|
