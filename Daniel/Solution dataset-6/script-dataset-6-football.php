@@ -108,14 +108,14 @@ $chiffre = '2';
 $celluleA = $lettreA . $chiffre;
 
 $spreadSheetWriter->getActiveSheet()
-    ->setCellValue("A1", "rank,team,Pts,G.,N.,P.,p.,c.,Diff.");
+    ->setCellValue("A1", "rank;team;Pts;G.;N.;P.;p.;c.;Diff.");
 
 foreach ($tblClassement as $key => $value) {
 
     $spreadSheetWriter->getActiveSheet()->getRowDimension($chiffre)->setRowHeight(20);
 
     $spreadSheetWriter->getActiveSheet()
-        ->setCellValue("$celluleA", $value[0] . "," . $value[1] . "," . $value[2] . "," . $value[3] . "," . $value[4] . "," . $value[5] . "," . $value[6] . "," . $value[7] . "," . $value[8]);
+        ->setCellValue("$celluleA", $value[0] . ";" . $value[1] . ";" . $value[2] . ";" . $value[3] . ";" . $value[4] . ";" . $value[5] . ";" . $value[6] . ";" . $value[7] . ";" . $value[8]);
 
 
     //on passe au chiffre suivant et on l'applique à la position cellule
