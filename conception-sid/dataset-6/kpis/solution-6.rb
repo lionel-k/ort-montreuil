@@ -155,3 +155,31 @@ def median_cycle_time_per_quarter_by_type
 end
 
 median_cycle_time_per_quarter_by_type
+
+# 6. Time Allocation (in percentage) by Ticket Type per quarter
+# how many tickets by type per quarter
+# which percentage each type represents
+def time_allocation_by_type_per_quarter
+  time_allocation_per_quarter = TICKETS_DONE_PER_QUARTER.inject({}) do |quarters, (quarter, tickets)|
+    tickets_by_type = tickets.group_by { |ticket| ticket["type"] }
+
+    time_allocation_per_type = tickets_by_type.inject({}) do |types, (type, tickets)|
+      types[type] = ((tickets.count.to_f / TICKETS_DONE_PER_QUARTER[quarter].count) * 100).round(2)
+      types
+    end
+    quarters[quarter] = time_allocation_per_type.to_a.sort_by { |type, time_allocation| type }
+    quarters
+  end
+
+  values = []
+  time_allocation_per_quarter.each do |quarter, time_allocation_per_type|
+    time_allocation_per_type.map do |type, time_allocation|
+      values << [quarter, type, time_allocation]
+    end
+  end
+
+  values.unshift(['quarter', 'type', 'time_allocation'])
+  File.write('time_allocation_by_type_per_quarter.csv', values.map(&:to_csv).join)
+end
+
+time_allocation_by_type_per_quarter
