@@ -107,3 +107,22 @@ def avg_tickets_per_dev_per_week
 end
 
 avg_tickets_per_dev_per_week
+
+
+# 4. Median cycle time of tickets per quarter
+# per ticket, how many days it took to complete
+# sum of days / number of tickets
+def median_cycle_tickets
+  values = TICKETS_DONE_PER_QUARTER.inject({}) do |quarters, (quarter, tickets)|
+    days_per_ticket = tickets.map do |ticket|
+      (Date.parse(ticket["done"]) - Date.parse(ticket["in_progress"])).to_i
+    end
+    quarters[quarter] = days_per_ticket.reduce(:+).to_f / days_per_ticket.count
+    quarters
+  end.to_a
+
+  values.unshift(['quarter', 'median_cycle_time'])
+  File.write('median_cycle_time.csv', values.map(&:to_csv).join)
+end
+
+median_cycle_tickets
