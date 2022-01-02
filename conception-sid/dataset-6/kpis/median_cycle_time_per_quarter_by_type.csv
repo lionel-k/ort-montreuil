@@ -1,0 +1,13 @@
+quarter,type,median_cycle_time
+q1,bug,2.68
+q1,story,2.77
+q1,task,2.74
+q2,bug,2.36
+q2,story,3.05
+q2,task,2.81
+q3,bug,2.74
+q3,story,2.85
+q3,task,3.08
+q4,bug,2.38
+q4,story,2.72
+q4,task,2.83

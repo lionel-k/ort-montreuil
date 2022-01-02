@@ -117,12 +117,41 @@ def median_cycle_time_per_quarter
     days_per_ticket = tickets.map do |ticket|
       (Date.parse(ticket["done"]) - Date.parse(ticket["in_progress"])).to_i
     end
-    quarters[quarter] = days_per_ticket.reduce(:+).to_f / days_per_ticket.count
+    quarters[quarter] = (days_per_ticket.reduce(:+).to_f / days_per_ticket.count).round(2)
     quarters
   end.to_a
 
   values.unshift(['quarter', 'median_cycle_time'])
-  File.write('median_cycle_time-solution-2.csv', values.map(&:to_csv).join)
+  File.write('median_cycle_time_per_quarter.csv', values.map(&:to_csv).join)
 end
 
 median_cycle_time_per_quarter
+
+# 5. Median cycle time of tickets per quarter, by type
+def median_cycle_time_per_quarter_by_type
+  median_cycle_per_quarter = TICKETS_DONE_PER_QUARTER.inject({}) do |quarters, (quarter, tickets)|
+    tickets_by_type = tickets.group_by { |ticket| ticket["type"] }
+
+    median_cycle_time_per_type = tickets_by_type.inject({}) do |types, (type, tickets)|
+      days_per_ticket = tickets.map do |ticket|
+        (Date.parse(ticket["done"]) - Date.parse(ticket["in_progress"])).to_i
+      end
+      types[type] = (days_per_ticket.reduce(:+).to_f / days_per_ticket.count).round(2)
+      types
+    end
+    quarters[quarter] = median_cycle_time_per_type.to_a.sort_by { |type, median_cycle| type }
+    quarters
+  end
+
+  values = []
+  median_cycle_per_quarter.each do |quarter, median_cycle_time_per_type|
+    median_cycle_time_per_type.map do |type, median_cycle_time|
+      values << [quarter, type, median_cycle_time]
+    end
+  end
+
+  values.unshift(['quarter', 'type', 'median_cycle_time'])
+  File.write('median_cycle_time_per_quarter_by_type.csv', values.map(&:to_csv).join)
+end
+
+median_cycle_time_per_quarter_by_type
