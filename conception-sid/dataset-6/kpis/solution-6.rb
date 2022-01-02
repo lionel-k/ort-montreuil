@@ -1,11 +1,17 @@
 require 'csv'
 require 'pry'
-
+require 'date'
 
 TICKETS = CSV.parse(File.read("dataset-6-tickets-kpis.csv"), headers: true)
 
 TICKETS_PER_QUARTER = TICKETS.group_by do |ticket|
   date = Date.parse(ticket["in_progress"])
+  quarter = (date.month / 3.0).ceil
+  "q#{quarter}".to_sym
+end
+
+TICKETS_DONE_PER_QUARTER = TICKETS.group_by do |ticket|
+  date = Date.parse(ticket["done"])
   quarter = (date.month / 3.0).ceil
   "q#{quarter}".to_sym
 end
@@ -52,7 +58,7 @@ dev_capacity_per_quarter
 
 # 2. Total number of tickets done per quarter
 def tickets_done_per_quarter
-  values = TICKETS_PER_QUARTER.inject({}) do |quarters, (quarter, tickets)|
+  values = TICKETS_DONE_PER_QUARTER.inject({}) do |quarters, (quarter, tickets)|
     quarters[quarter] = tickets.count
     quarters
   end.to_a
