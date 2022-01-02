@@ -49,3 +49,16 @@ def dev_capacity_per_quarter
 end
 
 dev_capacity_per_quarter
+
+# 2. Total number of tickets done per quarter
+def tickets_done_per_quarter
+  values = TICKETS_PER_QUARTER.inject({}) do |quarters, (quarter, tickets)|
+    quarters[quarter] = tickets.count
+    quarters
+  end.to_a
+
+  values.unshift(['quarter', 'total_tickets'])
+  File.write('tickets_done_per_quarter.csv', values.map(&:to_csv).join)
+end
+
+tickets_done_per_quarter
