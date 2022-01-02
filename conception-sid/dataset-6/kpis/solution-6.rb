@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'csv'
 require 'pry'
 require 'date'
@@ -14,6 +16,12 @@ TICKETS_DONE_PER_QUARTER = TICKETS.group_by do |ticket|
   date = Date.parse(ticket["done"])
   quarter = (date.month / 3.0).ceil
   "q#{quarter}".to_sym
+end
+
+TICKETS_DONE_PER_WEEK = TICKETS.group_by do |ticket|
+  date = Date.parse(ticket["done"])
+  week = date.strftime('%-V')
+  "w#{week}".to_sym
 end
 
 MONTHS_PER_QUARTER = {
@@ -68,3 +76,34 @@ def tickets_done_per_quarter
 end
 
 tickets_done_per_quarter
+
+# 3. Average number of tickets done per developer per week
+# per week, how many tickets done
+# per week, how many dev were present
+# per week divide number of tickets by number of devs
+# per quarter, divide sum of tickets done per weeks by number of weeks
+def avg_tickets_per_dev_per_week
+  tickets_per_quarter_per_week = TICKETS_DONE_PER_QUARTER.inject({}) do |quarters, (quarter, tickets)|
+    tickets_per_week = tickets.group_by do |ticket|
+      date = Date.parse(ticket["done"])
+      week = date.strftime('%-V')
+      "w#{week}".to_sym
+    end
+    quarters[quarter] = tickets_per_week
+    quarters
+  end
+
+  values = tickets_per_quarter_per_week.inject({}) do |quarters, (quarter, tickets_per_week)|
+    avg_tickets_per_week = tickets_per_week.inject({}) do |weeks, (week, tickets)|
+      weeks[week] = tickets.count / tickets.map { |ticket| ticket["dev"] }.uniq.count
+      weeks
+    end
+    quarters[quarter] = avg_tickets_per_week.values.reduce(:+).to_f / avg_tickets_per_week.values.count
+    quarters
+  end.to_a
+
+  values.unshift(['quarter', 'average_tickets'])
+  File.write('avg_tickets_done_per_dev_per_week.csv', values.map(&:to_csv).join)
+end
+
+avg_tickets_per_dev_per_week
