@@ -1,3 +1,5 @@
+#!/usr/bin/env ruby
+
 require 'csv'
 require 'pry'
 
@@ -15,5 +17,5 @@ teams.each do |team|
     opponent_score = rand(0..5)
     [team, opponent, team_score, opponent_score]
   end
-  File.write("dataset-6-random-score-#{team}.csv", scores.map(&:to_csv).join)
+  File.write("data-2/dataset-6-random-score-#{team}.csv", scores.map(&:to_csv).join)
 end
